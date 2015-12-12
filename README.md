@@ -345,6 +345,7 @@ A curated list of resources for learning about the Swift Language
 + Pattern Matching with an *if case* [:page_facing_up:](http://natashatherobot.com/swift-2-pattern-matching-with-if-case/)
 + Raw representable enumeration [:page_facing_up:](http://blog.krzyzanowskim.com/2015/03/12/swift-raw-not-representable-enum/)
 + Enums with Associated Data vs Structs [:page_facing_up:](http://owensd.io/2015/09/13/enums-with-associated-data-vs-structs.html)
++ The Sum Types are here [:page_facing_up:](http://chadaustin.me/2015/07/sum-types/)
 
 #### **Error Handling**
 + Easy Error Handing [:page_facing_up:](https://littlebitesofcocoa.com/108-error-handling)
