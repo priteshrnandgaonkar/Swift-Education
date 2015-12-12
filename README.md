@@ -4,53 +4,53 @@ A curated list of resources for learning about the Swift Language
 
 ## **Index**
 
-- Open Source Swift
-- Swift Style
-- In-Browser Swift Editors
-- Quick References
-- Blogs
-- Newsletters
-- Great Learning Resources
-- Free Books
-- Slides
-- Presentations
-- WWDC Presentations
-- Other Video
-- Posts
-    + Animations and Front End Stuff
-    + Application Structure / Architecture
-    + Associated Types and Objects
-    + Closures
-    + Collections / Sequences / Generators
-    + Command Line and Swift Scripting
-    + Core Data
-    + Data Structures and Algorithms
-    + Design Patterns
-    + Functional Programming in Swift
-    + Functional Reactive Programming in Swift
-    + GCD and NSOperation
-    + Generics
-    + Enums and Pattern Matching
-    + Error Handling
-    + Initializers
-    + Interpolability
-    + Language Comparisons
-    + LLVM Compiler
-    + Objective C Transitioning to Swift
-    + Open Source Swift
-    + Operator Overloading
-    + Opinions about Swift
-    + Optionals and Types
-    + Other
-    + Protocol Oriented Programming in Swift 2
-    + Realm
-    + Security
-    + Swift Language
-    + Text Manipulation
-    + Type Reflection and Casting
-    + Web Services and Networking
-    + Web Services - Other
-- Interview Situations
+- [Open Source Swift](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#open-source-swift)
+- [Swift Style](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#swift-style)
+- [In-Browser Swift Editors](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#in-browser-swift-editors)
+- [Quick References](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#quick-references)
+- [Blogs](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#blogs)
+- [Newsletters](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#newsletters)
+- [Great Learning Resources](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#great-learning-resources)
+- [Free Books](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#free-books)
+- [Slides](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#slides)
+- [Presentations](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#presentations)
+- [WWDC Presentations](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#wwdc-presentations)
+- [Other Video](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#other-video)
+- [Posts](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#posts)
+    + [Animations and Front End Stuff](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#animations-and-front-end-stuff)
+    + [Application Structure / Architecture](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#application-structure--architecture)
+    + [Associated Types and Objects](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#associated-types-and-objects)
+    + [Closures](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#closures)
+    + [Collections / Sequences / Generators](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#collections--sequences--generators)
+    + [Command Line and Swift Scripting](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#command-line-and-swift-scripting)
+    + [Core Data](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#core-data)
+    + [Data Structures and Algorithms](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#data-structures-and-algorithms)
+    + [Design Patterns](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#design-patterns)
+    + [Functional Programming in Swift](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#functional-programming-in-swift)
+    + [Functional Reactive Programming in Swift](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#functional-reactive-programming-in-swift)
+    + [GCD and NSOperation](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#gcd-and-nsoperation)
+    + [Generics](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#generics)
+    + [Enums and Pattern Matching](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#enums-and-pattern-matching)
+    + [Error Handling](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#error-handling)
+    + [Initializers](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#initializers)
+    + [Interpolability](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#interpolability-with-c-and-objective-c)
+    + [Language Comparisons](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#language-comparisons)
+    + [LLVM Compiler](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#llvm-compiler)
+    + [Objective C Transitioning to Swift](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#objective-c-transitioning-to-swift)
+    + [Open Source Swift](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#open-source-swift-1)
+    + [Operator Overloading](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#operator-overloading)
+    + [Opinions about Swift](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#opinions-about-swift)
+    + [Optionals and Types](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#optionals-and-types)
+    + [Other](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#other)
+    + [Protocol Oriented Programming in Swift 2](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#protocol-oriented-programming-in-swift-2)
+    + [Realm](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#realm)
+    + [Security](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#security)
+    + [Swift Language](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#swift-language)
+    + [Text Manipulation](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#text-manipulation)
+    + [Type Reflection and Casting](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#type-reflection-and-casting)
+    + [Web Services and Networking](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#web-services-and-networking)
+    + [Web Services - Other](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#web-services---other)
+- [Interview Situations](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#interview-situations)
 
 
 ## **Open Source Swift** 
