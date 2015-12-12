@@ -1,12 +1,5 @@
 # Awesome-Swift-Education
-All the resources for Learning About Swift
-
----
-layout: post
-title:  "Guide to Swift"
-date:   2015-11-10 17:20:15
-comments: true
----
+A curated list of resources for learning about the Swift Language
 
 
 ## **Index**
