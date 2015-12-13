@@ -419,6 +419,7 @@ A curated list of resources for learning about the Swift Language
 + The Death of Cocoa [:page_facing_up:](http://nshipster.com/the-death-of-cocoa/)
 
 #### **Optionals and Types** 
++ Typelift Community Repo [:pencil:](https://github.com/typelift)
 + Swift Optionals Made Simple [:page_facing_up:](http://appventure.me/2014/06/13/swift-optionals-made-simple/)
 + Swift's Type System [:page_facing_up:](http://oleb.net/blog/2015/07/swift-type-system/)
 + Every Kind of Optional [:page_facing_up:](http://www.fantageek.com/blog/2015/12/04/optional-in-swift/)  
