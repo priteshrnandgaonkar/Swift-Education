@@ -124,6 +124,7 @@ A curated list of resources for learning about the Swift Language
 - Swift Sandbox Newsletter [:newspaper:](http://swiftsandbox.io/)
 - SwiftLang Website [:newspaper:](http://swiftlang.eu/)
 - :fire: Awesome Swift News [:newspaper:](https://github.com/ksm/SwiftInFlux)
+- Swift Weekly [:newspaper:](http://swiftweekly.com/issues)
 
 ## **Great Learning Resources**
 - Hacking With Swift [:mortar_board:](https://www.hackingwithswift.com/)
