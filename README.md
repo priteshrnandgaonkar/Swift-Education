@@ -151,6 +151,7 @@ A curated list of resources for learning about the Swift Language
 - All the Presentations from Swift Summit London [:link:](https://realm.io/news/swift-summit/)
 - All Presentations from #Pragma Conference [:link:](https://www.youtube.com/playlist?list=PLAVm70iJlMusekZaxufRPS4OjNOs7L7zi&utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_226)
 - MobileKonf 2015 [:vcr:](https://www.youtube.com/channel/UCMMbKC1Jh5KirZc3rnem4kg/videos)
+- B
 - Bottom Up Programming in Swift [:microphone:](https://realm.io/news/altconf-airspeed-velocity-bottom-up-programming-in-swift/)
 - Make a Cocoapods Framework [:microphone:](https://realm.io/news/altconf-billy-tobon-brew-your-own-cocoa-framework/)
 
@@ -243,7 +244,6 @@ A curated list of resources for learning about the Swift Language
 + Deques, Queues, and Lists in Swift with indirect [:page_facing_up:](https://bigonotetaking.wordpress.com/2015/07/29/deques-queues-and-lists-in-swift-with-indirect/)
 + Linked Lists are really slow [:bar_chart:](http://airspeedvelocity.net/2015/08/03/arrays-linked-listss-and-performance/)
 + Linked Lists, Enums, Value Types [:bar_chart:](http://airspeedvelocity.net/2015/07/26/linked-lists-enums-value-types-and-identity/)
-+ Red Black Tree in Swift [:bar_chart:](https://gist.github.com/hsavit1/990d398b4b9ec376ef12.js)
 + Singly Linked List [:bar_chart:](https://gist.github.com/hsavit1/b3522101722d6bd0b14b)
 + Deques, Queues, and Lists in Swift [:bar_chart:](https://bigonotetaking.wordpress.com/2015/07/29/deques-queues-and-lists-in-swift-with-indirect/) [:link:](https://github.com/oisdk/Deques-Queues-and-Lists-in-Swift-with-indirect)
 + Contiguous Arrays in Swift [:bar_chart:](https://bigonotetaking.wordpress.com/2015/08/09/yet-another-root-of-all-evil/)
