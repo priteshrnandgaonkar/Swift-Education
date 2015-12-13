@@ -195,7 +195,7 @@ A curated list of resources for learning about the Swift Language
 - Safer with VIPER [:page_facing_up:](https://medium.com/ios-os-x-development/safer-uiviewcontroller-creation-when-using-storyboards-1915ac2b2c80#.bynj7y4gd)
 - Dependency Injection in Swift [:page_facing_up:](http://natashatherobot.com/ios-unit-testing-dependency-injection-with-structs-in-swift/)
 - Preventing Massive View Controllers [:microphone:](https://www.youtube.com/watch?v=dgOdsh1Bq10&feature=youtu.be&list=PLy2fR8K1ngurocVMEL0qHn0ik2MDYewLJ)
-- A Structy Model Layer [:apage_facing_up:](http://khanlou.com/2015/12/a-structy-model-layer/)
+- A Structy Model Layer [:page_facing_up:](http://khanlou.com/2015/12/a-structy-model-layer/)
 
 #### **Associated Types and Objects**
 + Associated Types in Swift Explained [:page_facing_up:](http://www.russbishop.net/swift-associated-types)
