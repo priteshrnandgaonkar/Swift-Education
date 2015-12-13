@@ -151,7 +151,7 @@ A curated list of resources for learning about the Swift Language
 - All the Presentations from Swift Summit London [:link:](https://realm.io/news/swift-summit/)
 - All Presentations from #Pragma Conference [:link:](https://www.youtube.com/playlist?list=PLAVm70iJlMusekZaxufRPS4OjNOs7L7zi&utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_226)
 - MobileKonf 2015 [:vcr:](https://www.youtube.com/channel/UCMMbKC1Jh5KirZc3rnem4kg/videos)
-- B
+- Functional Swift Conf 2014 [:vhs:](https://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g)
 - Bottom Up Programming in Swift [:microphone:](https://realm.io/news/altconf-airspeed-velocity-bottom-up-programming-in-swift/)
 - Make a Cocoapods Framework [:microphone:](https://realm.io/news/altconf-billy-tobon-brew-your-own-cocoa-framework/)
 
@@ -290,7 +290,6 @@ A curated list of resources for learning about the Swift Language
 + Prelude Library [:page_facing_up:](https://github.com/robrix/Prelude)
 - Functional Programming in a Playground [:microphone:](https://www.youtube.com/watch?v=estNbh2TF3E)
 - Functional Programming as a Functionalist [:microphone:](https://www.youtube.com/watch?v=rJosPrqBqrA)
-- Functional Swift [:vhs:](https://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g)
 - Object Oriented Functional Programming [:microphone:](https://realm.io/news/altconf-saul-mora-object-orientated-functional-programming/)
 - :raised_hands: Functional Programming in Swift [:microphone:](https://realm.io/news/altconf-chris-eidhof-functional-programming-in-swift/)
 - NatashaTheRobot Explains Functional Programming [:floppy_disk:](http://www.slideshare.net/natashatherobot/funcitonal-swift-conference-the-functional-way?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=4)
@@ -306,7 +305,7 @@ A curated list of resources for learning about the Swift Language
 + An intro to Continuation Passing Style in Swift [:page_facing_up:](https://medium.com/swift-programming/continuation-passing-style-in-swift-e4d825962803#.o41p6fw4j)
 + Proof in Functions [:page_facing_up:](http://www.fewbutripe.com/swift/math/2015/01/06/proof-in-functions.html)
 + Functional Thinking [:floppy_disk:](https://prezi.com/pgqshla_nuoe/functional-thinking/)
-+ Functional Swift [:floppy_disk:](https://speakerdeck.com/chriseidhof/functional-swift-brooklyn)
++ Functional Swift [:microphone:](https://vimeo.com/107419503)
 
 #### **Functional Reactive Programming in Swift**
 + MVVM + FRP [:page_facing_up:](http://www.sprynthesis.com/2014/12/06/reactivecocoa-mvvm-introduction/)
