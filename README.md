@@ -307,6 +307,7 @@ A curated list of resources for learning about the Swift Language
 + Functional Thinking [:floppy_disk:](https://prezi.com/pgqshla_nuoe/functional-thinking/)
 + Chris Eidhof Functional Swift Talk [:microphone:](https://vimeo.com/107419503)
 + Transducers and Reducers in Swift 2 [:pencil2:](https://gist.github.com/rjchatfield/14e2869b0c572696ea3c)
++ Lenses, Prisms, Isos in Swift 2 [pencil2](https://github.com/typelift/Focus)
 
 #### **Functional Reactive Programming in Swift**
 + MVVM + FRP [:page_facing_up:](http://www.sprynthesis.com/2014/12/06/reactivecocoa-mvvm-introduction/)
