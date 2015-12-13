@@ -1,4 +1,4 @@
-# Awesome-Swift-Education
+# :orange_book: Awesome-Swift-Education
 A curated list of resources for learning about the Swift Language
 
 
