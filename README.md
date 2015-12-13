@@ -12,7 +12,6 @@ A curated list of resources for learning about the Swift Language
 - [Newsletters](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#newsletters)
 - [Great Learning Resources](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#great-learning-resources)
 - [Free Books](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#free-books)
-- [Slides](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#slides)
 - [Presentations](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#presentations)
 - [WWDC Presentations](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#wwdc-presentations)
 - [Other Video](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#other-video)
@@ -43,6 +42,8 @@ A curated list of resources for learning about the Swift Language
     + [Opinions about Swift](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#opinions-about-swift)
     + [Optionals and Types](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#optionals-and-types)
     + [Other](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#other)
+    + [Problem Solving in Swift](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#problem-solving)
+    + [Production Swift](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#production-swift)
     + [Protocol Oriented Programming in Swift 2](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#protocol-oriented-programming-in-swift-2)
     + [Realm](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#realm)
     + [Security](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#security)
@@ -140,21 +141,13 @@ A curated list of resources for learning about the Swift Language
 - Learn Swift [:books:](http://books.aidanf.net/learn-swift)
 - Swift for Programmers [:books:](https://www.safaribooksonline.com/library/view/swifttm-for-programmers/9780134021584/)
 
-## **Slides**
-- All the slides from Swift Summit 2015 [:link:](https://speakerdeck.com/swiftsummit) and highlights from the talks [:link:](http://www.raywenderlich.com/120096/swift-summit-sf-2015-highlights) and notes [:page_facing_up:](https://www.facebook.com/notes/austen-mcdonald/field-notes-from-swift-summit-sf-2015/10153133369935811)
-- Creating and Building a DSL in Swift [:floppy_disk:](https://speakerdeck.com/kylef/dsls-in-swift)
-- :raised_hands: FizzBuzz on steroids with Swift [:floppy_disk:](https://speakerdeck.com/abizern/fizz-buzz-in-swift)
-- How Carthage works [:floppy_disk:](https://speakerdeck.com/jspahrsummers/ruthlessly-simple-dependency-management-with-carthage)
-- Lessons from Production Swift [:floppy_disk:](https://speakerdeck.com/ashfurrow/lessons-from-production-swift)
-- Swift Performance [:floppy_disk:](http://blog.human-friendly.com/swift-performance-iosdevuk)
 
 ## **Presentations**
+- All the slides from Swift Summit 2015 [:link:](https://speakerdeck.com/swiftsummit) and highlights from the talks [:link:](http://www.raywenderlich.com/120096/swift-summit-sf-2015-highlights) and notes [:page_facing_up:](https://www.facebook.com/notes/austen-mcdonald/field-notes-from-swift-summit-sf-2015/10153133369935811)
 - All the Presentations from Swift Summit London [:link:](https://realm.io/news/swift-summit/)
 - All Presentations from #Pragma Conference [:link:](https://www.youtube.com/playlist?list=PLAVm70iJlMusekZaxufRPS4OjNOs7L7zi&utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_226)
 - MobileKonf 2015 [:vcr:](https://www.youtube.com/channel/UCMMbKC1Jh5KirZc3rnem4kg/videos)
 - Functional Swift Conf 2014 [:vhs:](https://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g)
-- Bottom Up Programming in Swift [:microphone:](https://realm.io/news/altconf-airspeed-velocity-bottom-up-programming-in-swift/)
-- Make a Cocoapods Framework [:microphone:](https://realm.io/news/altconf-billy-tobon-brew-your-own-cocoa-framework/)
 
 ## **WWDC Presentations**
 + Search through WWDC Presentations [:microphone:](https://developer.apple.com/search/?q=wwdc&type=Videos&utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_10) 
@@ -399,6 +392,7 @@ A curated list of resources for learning about the Swift Language
 #### **LLVM Compiler** 
 + Using the LLVM API With Swift [:page_facing_up:](http://lowlevelbits.org/how-to-use-llvm-api-with-swift/)
 - LLVM and Swift [:microphone:](https://www.youtube.com/watch?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_62&v=Ntj8ab-5cvE)
+- Swift Performance [:floppy_disk:](http://blog.human-friendly.com/swift-performance-iosdevuk)
 
 #### **Objective C Transitioning to Swift**
 + Method Swizzling in Swift [:page_facing_up:](http://www.uraimo.com/2015/10/23/effective-method-swizzling-with-swift/)
@@ -440,6 +434,17 @@ A curated list of resources for learning about the Swift Language
 + Magic Methods in Swift [:page_facing_up:](https://developer.apple.com/swift/blog/?id=15)
 + weak vs unowned [:page_facing_up:](http://krakendev.io/blog/weak-and-unowned-references-in-swift)
 + Swift weak references [:page_facing_up:](https://www.mikeash.com/pyblog/friday-qa-2015-12-11-swift-weak-references.html)
+
+#### **Problem Solving**
+- Creating and Building a DSL in Swift [:floppy_disk:](https://speakerdeck.com/kylef/dsls-in-swift)
+- :raised_hands: FizzBuzz on steroids with Swift [:floppy_disk:](https://speakerdeck.com/abizern/fizz-buzz-in-swift)
+
+
+#### **Production Swift**
+- How Carthage works [:floppy_disk:](https://speakerdeck.com/jspahrsummers/ruthlessly-simple-dependency-management-with-carthage)
+- Bottom Up Programming in Swift [:microphone:](https://realm.io/news/altconf-airspeed-velocity-bottom-up-programming-in-swift/)
+- Make a Cocoapods Framework [:microphone:](https://realm.io/news/altconf-billy-tobon-brew-your-own-cocoa-framework/)
+- Lessons from Production Swift [:floppy_disk:](https://speakerdeck.com/ashfurrow/lessons-from-production-swift)
 
 #### **Protocol Oriented Programming in Swift 2**
 + Protocols in Swift [:page_facing_up:](http://austinzheng.com/2014/12/24/protocols-in-swift/)
@@ -535,7 +540,7 @@ A curated list of resources for learning about the Swift Language
 + Create a Data Access Layer with SQLite.swift and Swift 2 [:electric_plug:](http://masteringswift.blogspot.com/2015/09/create-data-access-layer-with.html)
 + Using YapDatabase [:electric_plug:](https://github.com/yapstudios/YapDatabase)
 - { JSON, Swift, and Type Safety } [:floppy_disk:](https://speakerdeck.com/swiftsummit/anthony-levings-json-swift-and-type-safety-its-a-wrap)
-- MagicalRecord <3 Swift [:microphone:](http://gotocon.com/dl/goto-cph-2015/slides/SaulMora_CoreDataIn2015andMagicalRecordMeetsSwift.pdf)
+- MagicalRecord loves Swift [:microphone:](http://gotocon.com/dl/goto-cph-2015/slides/SaulMora_CoreDataIn2015andMagicalRecordMeetsSwift.pdf)
 - Networking with Monads [:vcr:](https://www.youtube.com/watch?v=LqwrUmuodyY)
 - Swift-MongoDB [:pencil:](https://github.com/Danappelxx/SwiftMongoDB)
 
