@@ -30,6 +30,7 @@ A curated list of resources for learning about the Swift Language
     + [Functional Reactive Programming in Swift](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#functional-reactive-programming-in-swift)
     + [GCD and NSOperation](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#gcd-and-nsoperation)
     + [Generics](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#generics)
+    + [Development](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#development)
     + [Enums and Pattern Matching](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#enums-and-pattern-matching)
     + [Error Handling](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#error-handling)
     + [Initializers](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#initializers)
@@ -265,6 +266,11 @@ A curated list of resources for learning about the Swift Language
 + A Better NSNotificationCenter Observer Pattern [:bar_chart:](http://blog.matthewcheok.com/a-better-nsnotificationcenter/)
 + Key Value Coding in Swift [:bar_chart:](http://owensd.io/2015/07/14/key-value-coding-in-swift.html)
 
+#### **Development**
++ Result Driven Development [:floppy_disk:](https://speakerdeck.com/brianpartridge/result-driven-development)
+- Library Oriented Programming [:microphone:](https://realm.io/news/justin-spahr-summers-library-oriented-programming/)
+- * Oriented Programming [:microphone:](https://realm.io/news/pragma-graham-lee-oriented-programming-paradigms/)
+
 #### **Functional Programming in Swift**
 + Deriving higher order functions in Swift [:page_facing_up:](http://ijoshsmith.com/2015/12/09/higher-order-functions-in-swift/)
 + Checking out Swiftz [:page_facing_up:](http://www.stackbuilders.com/news/swiftz-the-power-of-liftz)
@@ -482,8 +488,6 @@ A curated list of resources for learning about the Swift Language
 - Swift Thinking [:microphone:](https://realm.io/news/altconf-natasha-murashev-swift-thinking/)
 - Hidden Gems in Swift [:microphone:](https://netguru.co/blog/hidden-gems-swift?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_10)
 - Making Friends with Value Types [:microphone:](https://realm.io/news/andy-matuschak-controlling-complexity/)
-- Library Oriented Programming [:microphone:](https://realm.io/news/justin-spahr-summers-library-oriented-programming/)
-- * Oriented Programming [:microphone:](https://realm.io/news/pragma-graham-lee-oriented-programming-paradigms/)
 - Catching up with Swift [:floppy_disk:](https://speakerdeck.com/ashfurrow/catching-up-with-swift)
 - Idiomatic Swift [:floppy_disk:](https://speakerdeck.com/ashfurrow/solving-problems-the-swift-way)
 
