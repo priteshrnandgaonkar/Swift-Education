@@ -489,6 +489,7 @@ A curated list of resources for learning about the Swift Language
 - Encryptor / Decryptor Data Format [:pencil2:](https://github.com/RNCryptor/RNCryptor)
 
 #### **Swift Language**
+- Best of Swift 2 [:page_facing_up:](https://www.mikeash.com/pyblog/friday-qa-2015-06-19-the-best-of-whats-new-in-swift.html)
 - New Features in Swift 2 [:page_facing_up:](https://www.hackingwithswift.com/new-features-swift-2)
 - Switching your brain to Swift [:page_facing_up:](https://gregheo.com/blog/switching-your-brain-to-swift/#value-types)
 - Short Circuit Evaluation [:page_facing_up:](https://en.wikipedia.org/wiki/Short-circuit_evaluations)
