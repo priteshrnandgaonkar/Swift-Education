@@ -438,7 +438,7 @@ A curated list of resources for learning about the Swift Language
 #### **Problem Solving**
 - Creating and Building a DSL in Swift [:floppy_disk:](https://speakerdeck.com/kylef/dsls-in-swift)
 - :raised_hands: FizzBuzz on steroids with Swift [:floppy_disk:](https://speakerdeck.com/abizern/fizz-buzz-in-swift)
-
+- Learning Swift the Euler Way [:microphone:](https://vimeo.com/136059613)
 
 #### **Production Swift**
 - How Carthage works [:floppy_disk:](https://speakerdeck.com/jspahrsummers/ruthlessly-simple-dependency-management-with-carthage)
