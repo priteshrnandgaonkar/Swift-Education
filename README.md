@@ -249,6 +249,7 @@ A curated list of resources for learning about the Swift Language
 + Contiguous Arrays in Swift [:bar_chart:](https://bigonotetaking.wordpress.com/2015/08/09/yet-another-root-of-all-evil/)
 + NSArrays are implemente with Circular Buffers [:bar_chart:](https://en.wikipedia.org/wiki/Circular_buffer)
 + Open sourced CFArray [:link:](http://opensource.apple.com/source/CF/CF-855.11/CFArray.c)
++ Abstract Algebraic Structures in Swift 2 [:pencil2:](https://github.com/typelift/Algebra)
 
 #### **Design Patterns**
 - Swift Design Patterns [:floppy_disk:](http://www.slideshare.net/micheletitolo/cocoa-design-patterns-in-swift?qid=7d2c3760-f640-49be-b204-25d086da4e78&v=qf1&b=&from_search=7)
