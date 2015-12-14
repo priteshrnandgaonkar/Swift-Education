@@ -199,6 +199,8 @@ A curated list of resources for learning about the Swift Language
 
 #### **Closures**
 + Closures and Capturing Values in Swift [:page_facing_up:](http://www.codingexplorer.com/closures-capturing-values-swift/)
++ Instance methods are Curried Functions in Swift [:page_facing_up:](http://oleb.net/blog/2014/07/swift-instance-methods-curried-functions/)
+
 
 #### **Collections / Sequences / Generators**
 + A quick guide to SequenceType [:page_facing_up:](https://medium.com/swift-programming/swift-sequences-ce22d76f120c#.edaemcmqc)
@@ -302,6 +304,7 @@ A curated list of resources for learning about the Swift Language
 + Unmanaged Type [:page_facing_up:](http://nshipster.com/unmanaged/)
 + try/catch with asynchronous closures [:page_facing_up:](http://appventure.me/2015/06/19/swift-try-catch-asynchronous-closures/)
 + Using the *assert()* keyword [:page_facing_up:](http://blog.krzyzanowskim.com/2015/03/09/swift-asserts-the-missing-manual/)
+
 #### **Functional Programming in Swift**
 + Deriving higher order functions in Swift [:page_facing_up:](http://ijoshsmith.com/2015/12/09/higher-order-functions-in-swift/)
 + Checking out Swiftz [:page_facing_up:](http://www.stackbuilders.com/news/swiftz-the-power-of-liftz)
@@ -372,7 +375,6 @@ A curated list of resources for learning about the Swift Language
 + Swift Initializers [:page_facing_up:](http://ashfurrow.com/blog/swift-initializers/)
 + Exploring KVO Alternatives in Swift [:page_facing_up:](http://blog.scottlogic.com/2015/02/11/swift-kvo-alternatives.html)
 + Immutable Swift [:page_facing_up:](http://nomothetis.svbtle.com/immutable-swift)
-+ Instance methods are Curried Functions in Swift [:page_facing_up:](http://oleb.net/blog/2014/07/swift-instance-methods-curried-functions/)
 + What's the point of Laziness? [:page_facing_up:](http://owensd.io/2015/08/09/filter-performance.html)
 + IBOutlet Style in Swift [:page_facing_up:](http://natashatherobot.com/ios-a-beautiful-way-of-styling-iboutlets-in-swift/)
 
