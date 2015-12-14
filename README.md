@@ -256,6 +256,7 @@ A curated list of resources for learning about the Swift Language
 + Patricia/Radix trees for Swift [:pencil2:](https://github.com/haveahennessy/Patrician)
 + Genetic Programming in Swift [:pencil2:](https://github.com/NachoSoto/swift-genetics)
 + Finger Trees in Swift [:pencil2:](https://github.com/lazytype/FingerTree/tree/master)
++ Neural Networks in Swift [:pencil2:](https://github.com/vlall/Swift-Brain)
 
 #### **Design Patterns**
 - Swift Design Patterns [:floppy_disk:](http://www.slideshare.net/micheletitolo/cocoa-design-patterns-in-swift?qid=7d2c3760-f640-49be-b204-25d086da4e78&v=qf1&b=&from_search=7)
