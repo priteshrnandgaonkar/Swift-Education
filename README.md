@@ -268,6 +268,40 @@ A curated list of resources for learning about the Swift Language
 - * Oriented Programming [:microphone:](https://realm.io/news/pragma-graham-lee-oriented-programming-paradigms/)
 - Hole Driven Development [:page_facing_up:](http://oleb.net/blog/2015/07/swift-type-system/)
 
+
+#### **Enums and Pattern Matching**
++ Enums
+    + Enums in Swift [:link:](http://austinzheng.com/2014/12/16/swift-enums/)
+    + Advanced and Practical Enum Usage in Swift [:page_facing_up:](http://appventure.me/2015/10/17/advanced-practical-enum-examples/) 
+    + Enumerating Tuple Values in Swift [:page_facing_up:](http://design.featherless.software/enumerating-tuple-values-swift/?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_12)
+    + Simplfied Login with Swift Enums [:page_facing_up:](https://realm.io/news/david-east-simplifying-login-swift-enums/)
+    + Testing of Enums made easy [:page_facing_up:](http://www.obqo.de/blog/2015/10/31/testing-enumerations-made-easy/)
+    + How to compare Enums with Equatable [:page_facing_up:](http://www.jessesquires.com/swift-enumerations-and-equatable/)
+    + Raw representable enumeration [:page_facing_up:](http://blog.krzyzanowskim.com/2015/03/12/swift-raw-not-representable-enum/)
+    + Enums with Associated Data vs Structs [:page_facing_up:](http://owensd.io/2015/09/13/enums-with-associated-data-vs-structs.html)
+    + The Sum Types are here [:page_facing_up:](http://chadaustin.me/2015/07/sum-types/)
++ Pattern Matching
+    + Swift's pattern-matching switch statement [:page_facing_up:](http://austinzheng.com/2014/12/16/swift-pattern-matching-switch/)
+    + Custom pattern matching in Swift [:page_facing_up:](http://austinzheng.com/2014/12/17/custom-pattern-matching/)
+    + Advanced Swift Pattern Matching in Detail [:page_facing_up:](http://appventure.me/2015/08/20/swift-pattern-matching-in-detail/)
+    + Control Flow & Pattern Matching [:page_facing_up:](http://austinzheng.com/2015/09/23/pmatch-control-flow/)
+    + Ranges and Intervals in Swift [:page_facing_up:](http://oleb.net/blog/2015/09/swift-ranges-and-intervals/)
+    + More Pattern Matching Examples [:page_facing_up:](http://oleb.net/blog/2015/09/more-pattern-matching-examples/)
+    + What is a variadic parameter? [:page_facing_up:](https://www.quora.com/Apple-Swift-programming-language/What-is-a-variadic-parameter)
+    + Pattern Matching in Swift [:page_facing_up:](http://oleb.net/blog/2015/09/swift-pattern-matching/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_54)
+    + Swift Pattern Matching in Detail [:page_facing_up:](http://appventure.me/2015/08/20/swift-pattern-matching-in-detail/#toptop)
+    + Pattern Matching with an *if case* [:page_facing_up:](http://natashatherobot.com/swift-2-pattern-matching-with-if-case/)
+
+#### **Error Handling**
++ Easy Error Handing [:page_facing_up:](https://littlebitesofcocoa.com/108-error-handling)
++ Swift Failiable Initializers [:page_facing_up:](http://www.jessesquires.com/swift-failable-initializers-revisited/)
++ Swift 2.0: Why Guard is Better than If [:page_facing_up:](http://natashatherobot.com/swift-guard-better-than-if/)
++ Swift 2 Error Handling [:page_facing_up:](http://austinzheng.com/2015/06/08/swift-2-control-flow/)
++ Swift 2 Error Handling and Pattern Matching [:page_facing_up:](http://austinzheng.com/2015/09/23/pmatch-control-flow/)
++ Guard and Defer [:page_facing_up:](http://nshipster.com/guard-and-defer/)
++ Unmanaged Type [:page_facing_up:](http://nshipster.com/unmanaged/)
++ try/catch with asynchronous closures [:page_facing_up:](http://appventure.me/2015/06/19/swift-try-catch-asynchronous-closures/)
++ Using the *assert()* keyword [:page_facing_up:](http://blog.krzyzanowskim.com/2015/03/09/swift-asserts-the-missing-manual/)
 #### **Functional Programming in Swift**
 + Deriving higher order functions in Swift [:page_facing_up:](http://ijoshsmith.com/2015/12/09/higher-order-functions-in-swift/)
 + Checking out Swiftz [:page_facing_up:](http://www.stackbuilders.com/news/swiftz-the-power-of-liftz)
@@ -333,39 +367,6 @@ A curated list of resources for learning about the Swift Language
 + The shortcomings of generic protocols [:page_facing_up:](http://krakendev.io/blog/generic-protocols-and-their-shortcomings)
 + Generics in Swift, Part 1 [:page_facing_up:](http://austinzheng.com/2015/01/02/swift-generics-pt-1/)
 + Generics in Swift, Part 2 [:page_facing_up:](http://austinzheng.com/)
-
-#### **Enums and Pattern Matching**
-+ Enums
-    + Enums in Swift [:link:](http://austinzheng.com/2014/12/16/swift-enums/)
-    + Advanced and Practical Enum Usage in Swift [:page_facing_up:](http://appventure.me/2015/10/17/advanced-practical-enum-examples/) 
-    + Enumerating Tuple Values in Swift [:page_facing_up:](http://design.featherless.software/enumerating-tuple-values-swift/?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_12)
-    + Simplfied Login with Swift Enums [:page_facing_up:](https://realm.io/news/david-east-simplifying-login-swift-enums/)
-    + Testing of Enums made easy [:page_facing_up:](http://www.obqo.de/blog/2015/10/31/testing-enumerations-made-easy/)
-    + How to compare Enums with Equatable [:page_facing_up:](http://www.jessesquires.com/swift-enumerations-and-equatable/)
-    + Raw representable enumeration [:page_facing_up:](http://blog.krzyzanowskim.com/2015/03/12/swift-raw-not-representable-enum/)
-    + Enums with Associated Data vs Structs [:page_facing_up:](http://owensd.io/2015/09/13/enums-with-associated-data-vs-structs.html)
-    + The Sum Types are here [:page_facing_up:](http://chadaustin.me/2015/07/sum-types/)
-+ Pattern Matching
-    + Swift's pattern-matching switch statement [:page_facing_up:](http://austinzheng.com/2014/12/16/swift-pattern-matching-switch/)
-    + Custom pattern matching in Swift [:page_facing_up:](http://austinzheng.com/2014/12/17/custom-pattern-matching/)
-    + Advanced Swift Pattern Matching in Detail [:page_facing_up:](http://appventure.me/2015/08/20/swift-pattern-matching-in-detail/)
-    + Control Flow & Pattern Matching [:page_facing_up:](http://austinzheng.com/2015/09/23/pmatch-control-flow/)
-    + Ranges and Intervals in Swift [:page_facing_up:](http://oleb.net/blog/2015/09/swift-ranges-and-intervals/)
-    + What is a variadic parameter? [:page_facing_up:](https://www.quora.com/Apple-Swift-programming-language/What-is-a-variadic-parameter)
-    + Pattern Matching in Swift [:page_facing_up:](http://oleb.net/blog/2015/09/swift-pattern-matching/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_54)
-    + Swift Pattern Matching in Detail [:page_facing_up:](http://appventure.me/2015/08/20/swift-pattern-matching-in-detail/#toptop)
-    + Pattern Matching with an *if case* [:page_facing_up:](http://natashatherobot.com/swift-2-pattern-matching-with-if-case/)
-
-#### **Error Handling**
-+ Easy Error Handing [:page_facing_up:](https://littlebitesofcocoa.com/108-error-handling)
-+ Swift Failiable Initializers [:page_facing_up:](http://www.jessesquires.com/swift-failable-initializers-revisited/)
-+ Swift 2.0: Why Guard is Better than If [:page_facing_up:](http://natashatherobot.com/swift-guard-better-than-if/)
-+ Swift 2 Error Handling [:page_facing_up:](http://austinzheng.com/2015/06/08/swift-2-control-flow/)
-+ Swift 2 Error Handling and Pattern Matching [:page_facing_up:](http://austinzheng.com/2015/09/23/pmatch-control-flow/)
-+ Guard and Defer [:page_facing_up:](http://nshipster.com/guard-and-defer/)
-+ Unmanaged Type [:page_facing_up:](http://nshipster.com/unmanaged/)
-+ try/catch with asynchronous closures [:page_facing_up:](http://appventure.me/2015/06/19/swift-try-catch-asynchronous-closures/)
-+ Using the *assert()* keyword [:page_facing_up:](http://blog.krzyzanowskim.com/2015/03/09/swift-asserts-the-missing-manual/)
 
 #### **Initializers**
 + Swift Initializers [:page_facing_up:](http://ashfurrow.com/blog/swift-initializers/)
