@@ -308,7 +308,7 @@ A curated list of resources for learning about the Swift Language
 
 #### **Functional Programming in Swift**
 + Deriving higher order functions in Swift [:page_facing_up:](http://ijoshsmith.com/2015/12/09/higher-order-functions-in-swift/)
-+ Checking out Swiftz [:page_facing_up:](http://www.stackbuilders.com/news/swiftz-the-power-of-liftz)
++ :raised_hands: Checking out Swiftz [:pencil2:](http://www.stackbuilders.com/news/swiftz-the-power-of-liftz)
 + Functional View Controllers [:page_facing_up:](http://chris.eidhof.nl/posts/functional-view-controllers.html)
 + Covariance and Contravariance in Swift 2.1 [:page_facing_up:](http://www.uraimo.com/2015/09/29/Swift2.1-Function-Types-Conversion-Covariance-Contravariance/)
 + Monads & C# Tasks in Swift [:page_facing_up:](https://realm.io/news/swift-tasks-nevyn-bengtsson/)
@@ -343,6 +343,7 @@ A curated list of resources for learning about the Swift Language
 + Chris Eidhof Functional Swift Talk [:microphone:](https://vimeo.com/107419503)
 + Transducers and Reducers in Swift 2 [:pencil2:](https://gist.github.com/rjchatfield/14e2869b0c572696ea3c)
 + Lenses, Prisms, Isos in Swift 2 [pencil2](https://github.com/typelift/Focus)
++ Better Recursion with Swift [:microphone:](https://vimeo.com/138092644)
 
 #### **Functional Reactive Programming in Swift**
 + MVVM + FRP [:page_facing_up:](http://www.sprynthesis.com/2014/12/06/reactivecocoa-mvvm-introduction/)
