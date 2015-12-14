@@ -270,7 +270,7 @@ A curated list of resources for learning about the Swift Language
 - Library Oriented Programming [:microphone:](https://realm.io/news/justin-spahr-summers-library-oriented-programming/)
 - * Oriented Programming [:microphone:](https://realm.io/news/pragma-graham-lee-oriented-programming-paradigms/)
 - Hole Driven Development [:page_facing_up:](http://oleb.net/blog/2015/07/swift-type-system/)
-
+- Entering a New Codebase [:floppy_disk:](https://speakerdeck.com/dbgrandi/how-to-understand-other-peoples-code)
 
 #### **Enums and Pattern Matching**
 + Enums
