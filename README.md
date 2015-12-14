@@ -233,6 +233,7 @@ A curated list of resources for learning about the Swift Language
 - Core Data in 2015 and Magical Record in Swift [:microphone:](https://www.youtube.com/watch?v=1jSuXbeIKuk&list=PLEx5khR4g7PL0fDNJkI2dHhqeckQTAbes&index=46)
 
 #### **Data Structures and Algorithms**
++ An Array implemented in Swift by Mike Ash [:pencil2:](https://gist.github.com/mikeash/63a791f2aec3318c7c5c)
 + A Trie [:bar_chart:](https://bigonotetaking.wordpress.com/2015/08/11/a-trie-in-swift/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_2)
 + A persistent tree using indirect enums [:bar_chart:](http://airspeedvelocity.net/2015/07/22/a-persistent-tree-using-indirect-enums-in-swift/)
 + Deques, Queues, and Lists in Swift with indirect [:page_facing_up:](https://bigonotetaking.wordpress.com/2015/07/29/deques-queues-and-lists-in-swift-with-indirect/)
