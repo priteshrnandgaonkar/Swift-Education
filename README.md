@@ -348,7 +348,7 @@ A curated list of resources for learning about the Swift Language
 + Transducers and Reducers in Swift 2 [:pencil2:](https://gist.github.com/rjchatfield/14e2869b0c572696ea3c)
 + Lenses, Prisms, Isos in Swift 2 [pencil2](https://github.com/typelift/Focus)
 + Better Recursion with Swift [:microphone:](https://vimeo.com/138092644)
-+ Folds in Swift [:page_facing_up:](http://thepurecoder.com/more-on-fold/)
++ Folds in Swift [:page_facing_up:](http://thepurecoder.com/functional-swift-fold-it-baby/) [:page_facing_up:](http://thepurecoder.com/more-on-fold/)
 
 #### **Functional Reactive Programming in Swift**
 + MVVM + FRP [:page_facing_up:](http://www.sprynthesis.com/2014/12/06/reactivecocoa-mvvm-introduction/)
