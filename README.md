@@ -176,6 +176,7 @@ A curated list of resources for learning about the Swift Language
 - Metal and Swift [:microphone:](https://realm.io/news/swift-summit-simon-gladman-metal/)
 - Animating Constraints [:page_facing_up:](https://littlebitesofcocoa.com/9-animating-constraints)
 - Advanced UITableViews [:microphone:](https://realm.io/news/altconf-mason-glidden-advanced-uitableviews-for-fun-and-profit/)
+- SpriteKit as an intro to SceneKit [:floppy_disk:](https://speakerdeck.com/bklnswift/joseph-mcmahon-spritekit-as-an-intro-to-scenekit-and-metal)
 
 #### **Application Structure / Architecture**
 + Class or Struct? [:page_facing_up:](http://faq.sealedabstract.com/structs_or_classes/) 
