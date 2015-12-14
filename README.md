@@ -1,4 +1,6 @@
-# :orange_book: Awesome-Swift-Education
+
+![]({{site.baseurl}}/http://www.joomlavision.com/wp-content/uploads/2014/08/swift-apple-logo.jpg)
+# Awesome-Swift-Education 
 A curated list of resources for learning about the Swift Language
 
 
