@@ -502,6 +502,7 @@ A curated list of resources for learning about the Swift Language
 
 #### **Security** 
 - Encryptor / Decryptor Data Format [:pencil2:](https://github.com/RNCryptor/RNCryptor)
+- CommonCrypto in Swift [:microphone:](https://realm.io/news/danny-keogan-swift-cryptography/)
 
 #### **Swift Language**
 - Best of Swift 2 [:page_facing_up:](https://www.mikeash.com/pyblog/friday-qa-2015-06-19-the-best-of-whats-new-in-swift.html)
