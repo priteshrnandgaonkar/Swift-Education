@@ -362,6 +362,7 @@ A curated list of resources for learning about the Swift Language
 + Functor and Monad in Swift [:page_facing_up:](http://www.javiersoto.me/post/106875422394)
 + Llama Calculus [:floppy_disk:](https://github.com/rnapier/llama-calculus)
 + FingerTrees [:page_facing_up:](http://andrew.gibiansky.com/blog/haskell/finger-trees/)
++ FizzBuzz with infinite streams [:page_facing_up:](http://cutting.io/posts/completely-overengineering-fizzbuzz-with-infinite-streams/)
 
 #### **Functional Reactive Programming in Swift**
 + MVVM + FRP [:page_facing_up:](http://www.sprynthesis.com/2014/12/06/reactivecocoa-mvvm-introduction/)
