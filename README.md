@@ -120,6 +120,7 @@ A curated list of resources for learning about the Swift Language
 - ThinkAndBuild [:notebook:](http://www.thinkandbuild.it/)
 - MetalByExample.com [:link:](http://metalbyexample.com)
 - David Owens [:notebook:](http://owensd.io/posts/)
+- The iOS Times Curated Review of the latest leading Github Projects [:notebook:](http://theiostimes.com/)
 
 ## **Newsletters**
 - This Week in Swift News: Curated Swift News [:newspaper:](https://swiftnews.curated.co/issues?page=6)
