@@ -353,6 +353,7 @@ A curated list of resources for learning about the Swift Language
 + Better Recursion with Swift [:microphone:](https://vimeo.com/138092644)
 + Folds in Swift [:page_facing_up:](http://thepurecoder.com/functional-swift-fold-it-baby/) [:page_facing_up:](http://thepurecoder.com/more-on-fold/)
 + Swift Adventures in Monad Land [:pencil:](https://github.com/alskipp/Swift-Adventures-In-Monad-Land)
++ Functor and Monad in Swift [:page_facing_up:](http://www.javiersoto.me/post/106875422394)
 
 #### **Functional Reactive Programming in Swift**
 + MVVM + FRP [:page_facing_up:](http://www.sprynthesis.com/2014/12/06/reactivecocoa-mvvm-introduction/)
