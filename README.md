@@ -248,6 +248,7 @@ A curated list of resources for learning about the Swift Language
 + Open sourced CFArray [:link:](http://opensource.apple.com/source/CF/CF-855.11/CFArray.c)
 + Abstract Algebraic Structures in Swift 2 [:pencil2:](https://github.com/typelift/Algebra)
 + Patricia/Radix trees for Swift [:pencil2:](https://github.com/haveahennessy/Patrician)
++ Genetic Programming in Swift [:pencil2:](https://github.com/NachoSoto/swift-genetics)
 
 #### **Design Patterns**
 - Swift Design Patterns [:floppy_disk:](http://www.slideshare.net/micheletitolo/cocoa-design-patterns-in-swift?qid=7d2c3760-f640-49be-b204-25d086da4e78&v=qf1&b=&from_search=7)
