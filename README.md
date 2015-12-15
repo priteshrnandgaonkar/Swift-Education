@@ -248,7 +248,7 @@ A curated list of resources for learning about the Swift Language
 + Deques, Queues, and Lists in Swift with indirect [:page_facing_up:](https://bigonotetaking.wordpress.com/2015/07/29/deques-queues-and-lists-in-swift-with-indirect/)
 + Linked Lists are really slow [:bar_chart:](http://airspeedvelocity.net/2015/08/03/arrays-linked-listss-and-performance/)
 + Linked Lists, Enums, Value Types [:bar_chart:](http://airspeedvelocity.net/2015/07/26/linked-lists-enums-value-types-and-identity/)
-+ Singly Linked List [:bar_chart:](https://gist.github.com/hsavit1/b3522101722d6bd0b14b)
++ Singly Linked List [:pencil2:](https://gist.github.com/airspeedswift/7e233e723e458b1eacfe)
 + Deques, Queues, and Lists in Swift [:bar_chart:](https://bigonotetaking.wordpress.com/2015/07/29/deques-queues-and-lists-in-swift-with-indirect/) [:link:](https://github.com/oisdk/Deques-Queues-and-Lists-in-Swift-with-indirect)
 + Contiguous Arrays in Swift [:bar_chart:](https://bigonotetaking.wordpress.com/2015/08/09/yet-another-root-of-all-evil/)
 + NSArrays are implemente with Circular Buffers [:bar_chart:](https://en.wikipedia.org/wiki/Circular_buffer)
