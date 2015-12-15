@@ -187,6 +187,7 @@ A curated list of resources for learning about the Swift Language
 
 #### **Application Structure / Architecture**
 + You Used To Inject Me In Your Constructor [:floppy_disk:](https://speakerdeck.com/mathonsunday/you-used-to-inject-me-in-your-constructor)
++ Swift Inject Dependency Injection [:pencil2:](https://github.com/Swinject/Swinject)
 + Class or Struct? [:page_facing_up:](http://faq.sealedabstract.com/structs_or_classes/) 
 + RE: Class or Struct [:page_facing_up:](http://owensd.io/2015/07/05/re-struct-or-class.html)
 + Uber Jetstream [:pencil:](https://github.com/uber/jetstream-ios)
