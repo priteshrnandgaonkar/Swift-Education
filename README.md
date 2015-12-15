@@ -178,7 +178,7 @@ A curated list of resources for learning about the Swift Language
 #### **Animations and Front End Stuff**
 + Mixing SpriteKit with UIKit in iOS 9 [:page_facing_up:](https://littlebitesofcocoa.com/8-mixing-spritekit-into-uikit)
 - AdaptiveUI Animations [:microphone:](https://www.youtube.com/watch?v=Z8QA9IYB67o&list=PLEx5khR4g7PL0fDNJkI2dHhqeckQTAbes&index=48) and [:floppy_disk:](http://gotocon.com/dl/goto-cph-2015/slides/SamDavies_AdaptiveUI.pdf)
-- iOS Animations with AutoLayout [:microphone:](https://realm.io/news/gotocph-marin-todorov-auto-layout-animations-ios/) and [Github](https://github.com/sammyd/AdaptiveUI-GOTOConf)
+- iOS Animations with AutoLayout [:microphone:](https://realm.io/news/gotocph-marin-todorov-auto-layout-animations-ios/) and [:pencil2:](https://github.com/sammyd/AdaptiveUI-GOTOConf)
 - Metal and Swift [:microphone:](https://realm.io/news/swift-summit-simon-gladman-metal/)
 - Animating Constraints [:page_facing_up:](https://littlebitesofcocoa.com/9-animating-constraints)
 - Advanced UITableViews [:microphone:](https://realm.io/news/altconf-mason-glidden-advanced-uitableviews-for-fun-and-profit/)
