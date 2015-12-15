@@ -185,6 +185,7 @@ A curated list of resources for learning about the Swift Language
 - SpriteKit as an intro to SceneKit [:floppy_disk:](https://speakerdeck.com/bklnswift/joseph-mcmahon-spritekit-as-an-intro-to-scenekit-and-metal)
 
 #### **Application Structure / Architecture**
+= Dependency Injection in Swift [:floppy_disk:](https://speakerdeck.com/mathonsunday/you-used-to-inject-me-in-your-constructor)
 + Class or Struct? [:page_facing_up:](http://faq.sealedabstract.com/structs_or_classes/) 
 + RE: Class or Struct [:page_facing_up:](http://owensd.io/2015/07/05/re-struct-or-class.html)
 + Uber Jetstream [:pencil:](https://github.com/uber/jetstream-ios)
@@ -377,6 +378,7 @@ A curated list of resources for learning about the Swift Language
 + Monadic Functions in Swift [:pencil2:](https://github.com/thoughtbot/Runes)
 + Lazy Streams in Swift [:pencil2:](https://github.com/antitypical/Stream)
 + Funky Functional Programming Tools and Experiements [:pencil2:](https://github.com/brynbellomy/Funky)
++ Functional Memoization in Swift [:page_facing_up:](http://blog.scottlogic.com/2014/09/22/swift-memoization.html)
 
 #### **Functional Reactive Programming in Swift**
 + MVVM + FRP [:page_facing_up:](http://www.sprynthesis.com/2014/12/06/reactivecocoa-mvvm-introduction/)
