@@ -218,6 +218,7 @@ A curated list of resources for learning about the Swift Language
 + Truly Lazy Sequences [:link:](http://www.obqo.de/blog/2015/11/25/true-lazy-sequences/)
 - Using Generators for UITableView Pagination Purposes [:page_facing_up:](http://blog.krzyzanowskim.com/2015/06/26/paging/)
 - A Little Respect for AnySequence [:page_facing_up:](http://robnapier.net/erasure)
+- Swift Sequence Lib [:pencil2:](https://github.com/oisdk/SwiftSequence)
 
 #### **Command Line and Swift Scripting**
 + Swift Scripting [:microphone:](https://realm.io/news/swift-scripting/)
@@ -258,6 +259,9 @@ A curated list of resources for learning about the Swift Language
 + Finger Trees in Swift [:pencil2:](https://github.com/lazytype/FingerTree/tree/master)
 + Neural Networks in Swift [:pencil2:](https://github.com/vlall/Swift-Brain)
 + Swift AI [:pencil2:](https://github.com/collinhundley/Swift-AI?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
++ Lazy infinite streams [:pencil2:](https://github.com/antitypical/Stream)
++ Naive Bayes Classifier [:pencil2:](https://github.com/fcanas/Bayes)
++ Swix Swift Matrix Math Library [:pencil2:](http://scottsievert.com/swix/)
 
 #### **Design Patterns**
 - Swift Design Patterns [:floppy_disk:](http://www.slideshare.net/micheletitolo/cocoa-design-patterns-in-swift?qid=7d2c3760-f640-49be-b204-25d086da4e78&v=qf1&b=&from_search=7)
@@ -321,7 +325,8 @@ A curated list of resources for learning about the Swift Language
 
 #### **Functional Programming in Swift**
 + Deriving higher order functions in Swift [:page_facing_up:](http://ijoshsmith.com/2015/12/09/higher-order-functions-in-swift/)
-+ :raised_hands: Checking out Swiftz [:pencil2:](http://www.stackbuilders.com/news/swiftz-the-power-of-liftz)
++ :raised_hands: Swiftz Functional Programming Library [:pencil2:](http://www.stackbuilders.com/news/swiftz-the-power-of-liftz)
++ Swiftx Functional Data Types [:pencil2:](https://github.com/typelift/Swiftx)
 + Functional View Controllers [:page_facing_up:](http://chris.eidhof.nl/posts/functional-view-controllers.html)
 + Covariance and Contravariance in Swift 2.1 [:page_facing_up:](http://www.uraimo.com/2015/09/29/Swift2.1-Function-Types-Conversion-Covariance-Contravariance/)
 + Monads & C# Tasks in Swift [:page_facing_up:](https://realm.io/news/swift-tasks-nevyn-bengtsson/)
@@ -364,6 +369,14 @@ A curated list of resources for learning about the Swift Language
 + FingerTrees [:page_facing_up:](http://andrew.gibiansky.com/blog/haskell/finger-trees/)
 + FizzBuzz with infinite streams [:page_facing_up:](http://cutting.io/posts/completely-overengineering-fizzbuzz-with-infinite-streams/)
 + 6 Killer Functional Swift Features [:page_facing_up:](http://ericasadun.com/2015/05/21/swift-six-killer-features/)
++ Thunks in Swift [:page_facing_up:](https://plus.google.com/+ShriramKrishnamurthi/posts/dXd71hueSvH)
++ 7 Habits for more functional Swift [:floppy_disk:](http://www.slideshare.net/jarsen7/7-habits-for-a-more-functional-swift) 
++ Y Combinators in Swift [:pencil2:](https://gist.github.com/kongtomorrow/e95bea13162ca0e29d4b#file-gistfile1-swift)
++ Arrows in Swift [:pencil2:](https://github.com/typelift/Swiftz/blob/master/Swiftz/Arrow.swift)
++ Understanding Reduce in Swift [:page_facing_up:](http://ijoshsmith.com/2014/06/25/understanding-swifts-reduce-method/)
++ Monadic Functions in Swift [:pencil2:](https://github.com/thoughtbot/Runes)
++ Lazy Streams in Swift [:pencil2:](https://github.com/antitypical/Stream)
++ Funky Functional Programming Tools and Experiements [:pencil2:](https://github.com/brynbellomy/Funky)
 
 #### **Functional Reactive Programming in Swift**
 + MVVM + FRP [:page_facing_up:](http://www.sprynthesis.com/2014/12/06/reactivecocoa-mvvm-introduction/)
@@ -504,6 +517,7 @@ A curated list of resources for learning about the Swift Language
 - 55 Standard Library Swift Protocols [:floppy_disk:](https://speakerdeck.com/gregheo/what-i-learned-from-55-star-swift-standard-library-protocols)
 - Current Recommmended Protocol Usage [:page_facing_up:](http://owensd.io/2015/08/06/protocols.html)
 - POP in Swift vs ObjC and C++ [:page_facing_up:](http://owensd.io/2015/06/16/protocol-oriented-programming.html)
+- POP Utility Belt [:pencil2:](https://github.com/tptee/Oriole)
 
 #### **Realm**
 - Super simple Realm Intro [:electric_plug:](https://littlebitesofcocoa.com/49-realm-basics)
