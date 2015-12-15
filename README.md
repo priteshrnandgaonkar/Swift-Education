@@ -382,7 +382,7 @@ A curated list of resources for learning about the Swift Language
 + Lazy Streams in Swift [:pencil2:](https://github.com/antitypical/Stream)
 + Funky Functional Programming Tools and Experiements [:pencil2:](https://github.com/brynbellomy/Funky)
 + Functional Memoization in Swift [:page_facing_up:](http://blog.scottlogic.com/2014/09/22/swift-memoization.html)
-+ Reader Monad in Swift [:penil2:](https://gist.github.com/tLewisII/bfee33f69ddb8e03b379)
++ Reader Monad in Swift [:pencil2:](https://gist.github.com/tLewisII/bfee33f69ddb8e03b379)
 + Writer Monad in Swift [:pencil2:](https://gist.github.com/tLewisII/987d7c0f4ecd873b89a7)
 
 #### **Functional Reactive Programming in Swift**
