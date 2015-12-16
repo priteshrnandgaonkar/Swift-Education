@@ -399,7 +399,7 @@ A curated list of resources for learning about the Swift Language
 + Functional Thinking [:floppy_disk:](https://prezi.com/pgqshla_nuoe/functional-thinking/)
 + Chris Eidhof Functional Swift Talk [:microphone:](https://vimeo.com/107419503)
 + Transducers and Reducers in Swift 2 [:pencil2:](https://gist.github.com/rjchatfield/14e2869b0c572696ea3c)
-+ Lenses, Prisms, Isos in Swift 2 [pencil2](https://github.com/typelift/Focus)
++ Lenses, Prisms, Isos in Swift 2 [:pencil2:](https://github.com/typelift/Focus)
 + Better Recursion with Swift [:microphone:](https://vimeo.com/138092644)
 + Folds in Swift [:page_facing_up:](http://thepurecoder.com/functional-swift-fold-it-baby/) [:page_facing_up:](http://thepurecoder.com/more-on-fold/)
 + Swift Adventures in Monad Land [:pencil2:](https://github.com/alskipp/Swift-Adventures-In-Monad-Land)
@@ -421,6 +421,7 @@ A curated list of resources for learning about the Swift Language
 + Writer Monad in Swift [:pencil2:](https://gist.github.com/tLewisII/987d7c0f4ecd873b89a7)
 + Back to the Futures with Swift [:floppy_disk:](https://speakerdeck.com/javisoto/back-to-the-futures)
 + State Monads in Swift [:pencil2:](https://github.com/sharplet/State?files=1)
++ Array to Zipper [:pencil2:](https://github.com/rnapier/array-zipper)
 
 #### **Functional Reactive Programming in Swift**
 + MVVM + FRP [:page_facing_up:](http://www.sprynthesis.com/2014/12/06/reactivecocoa-mvvm-introduction/)
