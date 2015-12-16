@@ -381,6 +381,7 @@ A curated list of resources for learning about the Swift Language
 + Using Local Closures with Swift [:page_facing_up:](http://www.thomashanning.com/swift-using-local-closures/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_59)
 + Function Params are Tuples in Swift [:page_facing_up:](http://www.paulrobinson.net/function-parameters-are-tuples-in-swift/)
 + Lenses in Swift [:page_facing_up:](http://chris.eidhof.nl/posts/lenses-in-swift.html)
++ Lenses [:pencil:](https://gist.github.com/mbrandonw/4acd26ab01bb6140af69)
 + Prelude Library [:page_facing_up:](https://github.com/robrix/Prelude)
 - Functional Programming in a Playground [:microphone:](https://www.youtube.com/watch?v=estNbh2TF3E)
 - Functional Programming as a Functionalist [:microphone:](https://www.youtube.com/watch?v=rJosPrqBqrA)
