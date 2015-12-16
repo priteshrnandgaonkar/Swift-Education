@@ -30,7 +30,7 @@ A curated list of resources for learning about the Swift Language
 - [Newsletters](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#newsletters)
 - [Great Learning Resources](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#great-learning-resources)
 - [Free Books](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#free-books)
-- [Not Free (but still awesome) Swift Books](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#not-free-(but-still-awesome)-swift-books)
+- [Not Free (but still awesome) Swift Books](https://github.com/hsavit1/Awesome-Swift-Education#not-free-but-still-awesome-swift-books)
 - [Presentations](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#presentations)
 - [WWDC Presentations](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#wwdc-presentations)
 - [Other Video](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#other-video)
