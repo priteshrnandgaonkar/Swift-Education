@@ -11,7 +11,7 @@ A curated list of resources for learning about the Swift Language
 - :page_facing_up: = Blog Post
 - :floppy_disk: = Slides
 - :microphone: = Video Presentation
-- :vcr: = Video
+- :video_camera: = Video
 - :link: = Link
 - :book: = Book
 - :fire: = Awesome List
@@ -165,7 +165,7 @@ A curated list of resources for learning about the Swift Language
 - All the slides from Swift Summit 2015 [:link:](https://speakerdeck.com/swiftsummit) and highlights from the talks [:link:](http://www.raywenderlich.com/120096/swift-summit-sf-2015-highlights) and notes [:page_facing_up:](https://www.facebook.com/notes/austen-mcdonald/field-notes-from-swift-summit-sf-2015/10153133369935811)
 - All the Presentations from Swift Summit London [:link:](https://realm.io/news/swift-summit/)
 - All Presentations from #Pragma Conference [:link:](https://www.youtube.com/playlist?list=PLAVm70iJlMusekZaxufRPS4OjNOs7L7zi&utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_226)
-- MobileKonf 2015 [:vcr:]( https://www.youtube.com/channel/UCMMbKC1Jh5KirZc3rnem4kg/videos
+- MobileKonf 2015 [:video_camera:]( https://www.youtube.com/channel/UCMMbKC1Jh5KirZc3rnem4kg/videos
 )
 - Functional Swift Conf 2014 [:vhs:](https://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g)
 - CocoaConf Videos [:vhs:](http://cocoaconf.com/videos)
@@ -612,7 +612,7 @@ A curated list of resources for learning about the Swift Language
 + Using YapDatabase [:electric_plug:](https://github.com/yapstudios/YapDatabase)
 - { JSON, Swift, and Type Safety } [:floppy_disk:](https://speakerdeck.com/swiftsummit/anthony-levings-json-swift-and-type-safety-its-a-wrap)
 - MagicalRecord loves Swift [:microphone:](http://gotocon.com/dl/goto-cph-2015/slides/SaulMora_CoreDataIn2015andMagicalRecordMeetsSwift.pdf)
-- Networking with Monads [:vcr:](https://www.youtube.com/watch?v=LqwrUmuodyY)
+- Networking with Monads [:video_camera:](https://www.youtube.com/watch?v=LqwrUmuodyY)
 - Swift-MongoDB [:pencil:](https://github.com/Danappelxx/SwiftMongoDB)
 
 ## **Interview Situations**
