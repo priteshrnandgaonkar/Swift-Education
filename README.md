@@ -150,6 +150,7 @@ A curated list of resources for learning about the Swift Language
 - Gettin' Swifty With It [:newspaper:](http://gettinswiftywithit.curated.co/)
 
 ## **Great Learning Resources**
+- iOS Swfit Reference [:pencil2:](https://github.com/ricardorauber/iOS-Swift)
 - Hacking With Swift [:mortar_board:](https://www.hackingwithswift.com/)
 - A Better way to learn Swift [:mortar_board:](https://github.com/GoThinkster/swift/blob/master/a-better-way-to-learn-swift.mdown)
 - Ray Wenderlich Tutorial Pages [:mortar_board:](http://www.raywenderlich.com/category/swift)
