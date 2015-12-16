@@ -346,6 +346,7 @@ A curated list of resources for learning about the Swift Language
 + Using the *assert()* keyword [:page_facing_up:](http://blog.krzyzanowskim.com/2015/03/09/swift-asserts-the-missing-manual/)
 + Result: Swift type modelling the success/failure of arbitrary operations [:pencil2:](https://github.com/antitypical/Result)
 + Error Styling in Swift [:pencil:](https://gist.github.com/erica/b203a13b0b71db430801)
++ Async Error Handling in Swift [:floppy_disk:](https://speakerdeck.com/javisoto/ios-conf-singapore-october-2015)
 
 #### **Functional Programming in Swift**
 + Deriving higher order functions in Swift [:page_facing_up:](http://ijoshsmith.com/2015/12/09/higher-order-functions-in-swift/)
