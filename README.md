@@ -154,6 +154,7 @@ A curated list of resources for learning about the Swift Language
 - Ray Wenderlich Tutorial Pages [:mortar_board:](http://www.raywenderlich.com/category/swift)
 - Swift Education [:mortar_board:](http://swifteducation.github.io/)
 - Play with Swift [:mortar_board:](http://brettbukowski.github.io/SwiftExamples/)
+- CS193P: Developing iOS 8 Apps with Swift [:mortar_board:](https://itunes.apple.com/en/course/developing-ios-8-apps-swift/id961180099)
 - Realm Roundup: 25 Realm Resources and Tutorials [:scroll:](https://realm.io/news/top-realm-resources/)
 - Funcitonal Reactive Programming iOS Learning Resources [:scroll:](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6)
 - Learn Core Data [:scroll:](http://www.learncoredata.com/)
