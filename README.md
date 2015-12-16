@@ -91,6 +91,7 @@ A curated list of resources for learning about the Swift Language
 - Swift Packages [:pencil2:](https://github.com/donald-pinckney/swift-packages)
 - Swift Compiler Crashes [:pencil2:](https://github.com/practicalswift/swift-compiler-crashes)
 - Open Radar Swift [:page_facing_up:](http://www.openradar.me/19770770)
+- How to run Swift within a Docker container [:page_facing_up:](https://developer.ibm.com/swift/2015/12/15/running-swift-within-docker/)
 
 ## **Swift Style**
 
@@ -460,7 +461,7 @@ A curated list of resources for learning about the Swift Language
 #### **GCD and NSOperation**
 + Basics [:page_facing_up:](https://littlebitesofcocoa.com/85-grand-central-dispatch-basics)
 + Methods of concurrency — GCD, agents, tasks and invocations [:page_facing_up:](http://overooped.com/post/41803252527/methods-of-concurrency)
-+ Code at the end of the queue [:link:](http://blog.krzyzanowskim.com/2015/11/25/code-at-the-end-of-the-queue/?utm_campaign=ThomasHanning%2BNewsletter&utm_medium=web&utm_source=ThomasHanning_Newsletter2)
++ Code at the end of the queue [:link:](http://blog.krzyzanowskim.com/2015/11/25/code-at-the-end-of-the-queue/)
 + Delaying Code Execution through Closures [:page_facing_up:](http://blog.matthewcheok.com/delaying-code-execution-in-swift/)
 
 #### **Generics** 
@@ -511,6 +512,7 @@ A curated list of resources for learning about the Swift Language
 - Building for Open Source [:floppy_disk:](https://speakerdeck.com/kylef/building-for-open-source)
 - Swift Android [:pencil2:](https://github.com/SwiftAndroid/swift)
 - Swift Version Manager [:pencil2:](https://github.com/kylef/swiftenv)
+- Keeping up with Open Source Swift [:page_faing_up:](http://dev.iachieved.it/iachievedit/keeping-up-with-open-source-swift/)
 
 #### **Operator Overloading**
 + Operator Overloading and JSON Parsing in Swift [:page_facing_up:](https://realm.io/news/swift-thinking/)
@@ -648,7 +650,7 @@ A curated list of resources for learning about the Swift Language
 - SwiftCheck: QuickCheck for Swift [:pencil2:](https://github.com/typelift/SwiftCheck)
     
 #### **Text Manipulation and RegEx**
-+ Swift String Cheat Sheet [:page_facing_up:](http://useyourloaf.com/blog/swift-string-cheat-sheet.html)
++ Swift String Cheat Sheet [:page_facing_up:](http://useyourloaf.com/blog/swift-string-cheat-sheet.html) [:pencil:](https://gist.github.com/kharrison/08d1db4169d70a88b194)
 + RegularExpressions in Swift [:page_facing_up:](https://littlebitesofcocoa.com/121-swiftier-regular-expressions-with-regex)
 + Creating a Lexer in Swift [:page_facing_up:](http://blog.matthewcheok.com/writing-a-lexer-in-swift/)
 + Creating an Abstract Syntax Tree Parser in Swift [:page_facing_up:](http://blog.matthewcheok.com/writing-a-parser-in-swift/)
