@@ -488,6 +488,7 @@ A curated list of resources for learning about the Swift Language
 + Swift Open Source Overview [:page_facing_up:](http://www.jessesquires.com/swift-open-source/)
 + Open Source Swift 3.0 Roadmap [:page_facing_up:](https://realm.io/news/swift-opensource/)
 - Building for Open Source [:floppy_disk:](https://speakerdeck.com/kylef/building-for-open-source)
+- Swift Android [:pencil2:](https://github.com/SwiftAndroid/swift)
 
 #### **Operator Overloading**
 + Operator Overloading and JSON Parsing in Swift [:page_facing_up:](https://realm.io/news/swift-thinking/)
