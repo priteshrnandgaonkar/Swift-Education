@@ -167,7 +167,9 @@ A curated list of resources for learning about the Swift Language
 - Swift for Programmers [:books:](https://www.safaribooksonline.com/library/view/swifttm-for-programmers/9780134021584/)
 
 ## **Presentations**
-- All the slides from Swift Summit 2015 [:link:](https://speakerdeck.com/swiftsummit) and highlights from the talks [:link:](http://www.raywenderlich.com/120096/swift-summit-sf-2015-highlights) and notes [:page_facing_up:](https://www.facebook.com/notes/austen-mcdonald/field-notes-from-swift-summit-sf-2015/10153133369935811)
+- All the slides from Swift Summit London 2015 [:link:](https://speakerdeck.com/swiftsummit)
++ Some talks from Swift Summit SF [:link:](http://www.skilled.io/)
++ Highlights from Swift Summit SF [:link:](http://www.raywenderlich.com/120096/swift-summit-sf-2015-highlights) and notes [:page_facing_up:](https://www.facebook.com/notes/austen-mcdonald/field-notes-from-swift-summit-sf-2015/10153133369935811)
 - All the Presentations from Swift Summit London [:video_camera:](https://realm.io/news/swift-summit/)
 - All Presentations from #Pragma Conference [:video_camera:](https://www.youtube.com/playlist?list=PLAVm70iJlMusekZaxufRPS4OjNOs7L7zi&utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_226)
 - MobileKonf 2015 [:video_camera:]( https://www.youtube.com/channel/UCMMbKC1Jh5KirZc3rnem4kg/videos
@@ -208,6 +210,7 @@ A curated list of resources for learning about the Swift Language
 - SpriteKit as an intro to SceneKit [:floppy_disk:](https://speakerdeck.com/bklnswift/joseph-mcmahon-spritekit-as-an-intro-to-scenekit-and-metal)
 
 #### **Application Structure / Architecture**
+- Demystifying iOS Architecture Patterns [:page_facing_up:](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52#.5zn7t5oh2)
 + You Used To Inject Me In Your Constructor [:floppy_disk:](https://speakerdeck.com/mathonsunday/you-used-to-inject-me-in-your-constructor)
 + Swift Inject Dependency Injection [:pencil2:](https://github.com/Swinject/Swinject)
 + Class or Struct? [:page_facing_up:](http://faq.sealedabstract.com/structs_or_classes/) 
@@ -333,6 +336,7 @@ A curated list of resources for learning about the Swift Language
     + Enums with Associated Data vs Structs [:page_facing_up:](http://owensd.io/2015/09/13/enums-with-associated-data-vs-structs.html)
     + The Sum Types are here [:page_facing_up:](http://chadaustin.me/2015/07/sum-types/)
     + Algebraic Data Types in Swift [:page_facing_up:](http://thepurecoder.com/algebraic-data-types-in-swift/)
+    + Handling Enums with Raw Values [:page_facing_up:](http://kostiakoval.github.io/posts/enum-with-raw-value/)
 + Pattern Matching
     + Swift's pattern-matching switch statement [:page_facing_up:](http://austinzheng.com/2014/12/16/swift-pattern-matching-switch/)
     + Custom pattern matching in Swift [:page_facing_up:](http://austinzheng.com/2014/12/17/custom-pattern-matching/)
@@ -488,6 +492,7 @@ A curated list of resources for learning about the Swift Language
 
 #### **Objective C Transitioning to Swift**
 + Method Swizzling in Swift [:page_facing_up:](http://www.uraimo.com/2015/10/23/effective-method-swizzling-with-swift/)
++ How to Method Swizzle in Swift [:page_facing_up:](http://kostiakoval.github.io/posts/methods-swizzling-in-swift/)
 - A Eulogy for Objective C [:microphone:](https://realm.io/news/altconf-aaron-hillegass-eulogy-for-objective-c/)
 - The best of Obj-C to Swift [:microphone:](https://realm.io/news/altconf-jaim-zuber-the-stylish-objective-c-developer-s-guide-to-swift/)
 
@@ -541,6 +546,8 @@ A curated list of resources for learning about the Swift Language
 - Bottom Up Programming in Swift [:microphone:](https://realm.io/news/altconf-airspeed-velocity-bottom-up-programming-in-swift/)
 - Make a Cocoapods Framework [:microphone:](https://realm.io/news/altconf-billy-tobon-brew-your-own-cocoa-framework/)
 - Lessons from Production Swift [:floppy_disk:](https://speakerdeck.com/ashfurrow/lessons-from-production-swift)
+- Using the Swift Package Manager [:page_facing_up:](http://kostiakoval.github.io/posts/swift-package-manager/)
+- Exclude folders in the SPM [:page_facing_up:](http://kostiakoval.github.io/posts/exclude-folders---new-feature-in-swift-package-manager/)
 
 #### **Protocol Oriented Programming in Swift 2**
 + Protocols in Swift [:page_facing_up:](http://austinzheng.com/2014/12/24/protocols-in-swift/)
@@ -566,10 +573,9 @@ A curated list of resources for learning about the Swift Language
 + Minimal Swift 2.1 Protocol Coformance [:page_facing_up:](http://softwaredesign.jeffverkoeyen.com/minimal-swift-protocol-conformance/?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_13)
 + Favor Mixins over inheritance [:page_facing_up:](http://alisoftware.github.io/swift/protocol/2015/11/08/mixins-over-inheritance/)
 + Use Protocol Composition [:page_facing_up:](http://natashatherobot.com/swift-protocol-composition/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_62)
-+ The 55 Standard Lib Protocols Broken Down [:page_facing_up:](http://swiftunboxed.com/protocols/swift-standard-library-protocols-lessons/)
 + Can Swift have Dependent Types? [:page_facing_up:](https://github.com/oisdk/ConstArray/blob/master/Playground.playground/Contents.swift)
 + More Misunderstanding of Dependent Types [:page_facing_up:](https://bigonotetaking.wordpress.com/2015/09/06/yet-more-misunderstanding-of-dependent-types/)
-- 55 Standard Library Swift Protocols [:floppy_disk:](https://speakerdeck.com/gregheo/what-i-learned-from-55-star-swift-standard-library-protocols)
+- 55 Standard Library Swift Protocols [:floppy_disk:](https://speakerdeck.com/gregheo/what-i-learned-from-55-star-swift-standard-library-protocols) [:page_facing_up:](http://swiftunboxed.com/protocols/swift-standard-library-protocols-lessons/) [:microphone:](http://www.skilled.io/gregheo/what-the-55-swift-standard-library-protocols-taught-me?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=web&utm_source=This_Week_in_Swift_65)
 - Current Recommmended Protocol Usage [:page_facing_up:](http://owensd.io/2015/08/06/protocols.html)
 - POP in Swift vs ObjC and C++ [:page_facing_up:](http://owensd.io/2015/06/16/protocol-oriented-programming.html)
 - POP Utility Belt [:pencil2:](https://github.com/tptee/Oriole)
@@ -604,6 +610,7 @@ A curated list of resources for learning about the Swift Language
 - Making Friends with Value Types [:microphone:](https://realm.io/news/andy-matuschak-controlling-complexity/)
 - Catching up with Swift [:floppy_disk:](https://speakerdeck.com/ashfurrow/catching-up-with-swift)
 - Idiomatic Swift [:floppy_disk:](https://speakerdeck.com/ashfurrow/solving-problems-the-swift-way)
+- Swiftly Methods [:page_facing_up:](http://radex.io/swift/methods/)
 
 #### **Testing**
 - BDD Testing with Swift [:page_facing_up:](http://railsware.com/blog/2014/07/04/bdd-style-testing-in-swift-with-sleipnir/)
