@@ -420,6 +420,7 @@ A curated list of resources for learning about the Swift Language
 + Reader Monad in Swift [:pencil2:](https://gist.github.com/tLewisII/bfee33f69ddb8e03b379)
 + Writer Monad in Swift [:pencil2:](https://gist.github.com/tLewisII/987d7c0f4ecd873b89a7)
 + Back to the Futures with Swift [:floppy_disk:](https://speakerdeck.com/javisoto/back-to-the-futures)
++ State Monads in Swift [:pencil2:](https://github.com/sharplet/State?files=1)
 
 #### **Functional Reactive Programming in Swift**
 + MVVM + FRP [:page_facing_up:](http://www.sprynthesis.com/2014/12/06/reactivecocoa-mvvm-introduction/)
