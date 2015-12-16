@@ -30,6 +30,7 @@ A curated list of resources for learning about the Swift Language
 - [Newsletters](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#newsletters)
 - [Great Learning Resources](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#great-learning-resources)
 - [Free Books](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#free-books)
+- [Not Free (but still awesome) Swift Books](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#not-free-(but-still-awesome)-swift-books)
 - [Presentations](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#presentations)
 - [WWDC Presentations](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#wwdc-presentations)
 - [Other Video](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#other-video)
@@ -165,6 +166,13 @@ A curated list of resources for learning about the Swift Language
 ## **Free Books**
 - Learn Swift [:books:](http://books.aidanf.net/learn-swift)
 - Swift for Programmers [:books:](https://www.safaribooksonline.com/library/view/swifttm-for-programmers/9780134021584/)
+
+## **Not Free (but still awesome) Swift Books**
+- Objc.io Book Series [:books:](https://www.objc.io/books/)
+- Ray Wenderlich Book Series [:books:](http://www.raywenderlich.com/store)
+- Packt Publishing Book Series [:books:](https://www.packtpub.com/tech/swift#) 
+- Apress Book Series [:books:](http://www.apress.com/swift)
+- Oreilly Book Series [:books:](http://search.oreilly.com/?q=swift&x=0&y=0)
 
 ## **Presentations**
 - All the slides from Swift Summit London 2015 [:link:](https://speakerdeck.com/swiftsummit)
