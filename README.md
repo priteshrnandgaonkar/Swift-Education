@@ -13,7 +13,7 @@ A curated list of resources for learning about the Swift Language
 - :microphone: = Video Presentation
 - :video_camera: = Video
 - :link: = Link
-- :book: = Book
+- :book: = Guide Book
 - :fire: = Awesome List
 - :mortar_board: = Learning Resource
 - :clipboard: = Interview Questions
@@ -598,7 +598,7 @@ A curated list of resources for learning about the Swift Language
 - BDD Testing with Swift [:page_facing_up:](http://railsware.com/blog/2014/07/04/bdd-style-testing-in-swift-with-sleipnir/)
 - TDD with Swift [:page_facing_up:](http://swiftandpainless.com/category/tdd/)
 - Unit Testing in Swift [:page_facing_up:](https://bendyworks.com/unit-testing-in-swift/)
-- Xcode 7 UI Testing [page_facing_up](http://www.mokacoding.com/blog/xcode-7-ui-testing/)
+- Xcode 7 UI Testing [:page_facing_up:](http://www.mokacoding.com/blog/xcode-7-ui-testing/)
 - Better Unit Testing with Swift [:page_facing_up:](http://masilotti.com/better-swift-unit-testing/)
 - UI Testing Cheat Sheet [:page_facing_up:](http://masilotti.com/ui-testing-cheat-sheet/)
 - More functional testing [:page_facing_up:](http://www.thinkandbuild.it/ios-functional-testing-with-user-stories-uitest-and-local-server/)
@@ -618,6 +618,7 @@ A curated list of resources for learning about the Swift Language
 - How to configure Travis CI for iOS Testing [:page_facing_up:](http://www.mokacoding.com/blog/travis-ci-ios-testing/)
 - Setting up KIF for iOS Acceptance Testing [:page_facing_up:](http://www.mokacoding.com/blog/setting-up-kif-for-ios-acceptance-testing/)
 - Replacing KIF with XCUI Tests [:page_facing_up:](http://www.catehuston.com/blog/2015/11/11/replacing-kif-tests-with-xcui-tests/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_62)
+- SwiftCheck: QuickCheck for Swift [:pencil2:](https://github.com/typelift/SwiftCheck)
     
 #### **Text Manipulation and RegEx**
 + RegularExpressions in Swift [:page_facing_up:](https://littlebitesofcocoa.com/121-swiftier-regular-expressions-with-regex)
