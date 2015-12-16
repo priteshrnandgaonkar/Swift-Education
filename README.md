@@ -219,6 +219,7 @@ A curated list of resources for learning about the Swift Language
 - Dependency Injection in Swift [:page_facing_up:](http://natashatherobot.com/ios-unit-testing-dependency-injection-with-structs-in-swift/)
 - Preventing Massive View Controllers [:microphone:](https://www.youtube.com/watch?v=dgOdsh1Bq10&feature=youtu.be&list=PLy2fR8K1ngurocVMEL0qHn0ik2MDYewLJ)
 - A Structy Model Layer [:page_facing_up:](http://khanlou.com/2015/12/a-structy-model-layer/)
+- Unidirectional Data Flow Architecture [:pencil2:](https://github.com/Swift-Flow/Swift-Flow)
 
 #### **Associated Types and Objects**
 + Protocols with Associated Types and how they got that way [:floppy_disk:](https://speakerdeck.com/algal/protocols-with-associated-types-and-how-they-got-that-way)
@@ -492,6 +493,7 @@ A curated list of resources for learning about the Swift Language
 + Open Source Swift 3.0 Roadmap [:page_facing_up:](https://realm.io/news/swift-opensource/)
 - Building for Open Source [:floppy_disk:](https://speakerdeck.com/kylef/building-for-open-source)
 - Swift Android [:pencil2:](https://github.com/SwiftAndroid/swift)
+- Swift Version Manager [:pencil2:](https://github.com/kylef/swiftenv)
 
 #### **Operator Overloading**
 + Operator Overloading and JSON Parsing in Swift [:page_facing_up:](https://realm.io/news/swift-thinking/)
