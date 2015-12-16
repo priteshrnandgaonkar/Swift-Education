@@ -359,6 +359,7 @@ A curated list of resources for learning about the Swift Language
 + Result: Swift type modelling the success/failure of arbitrary operations [:pencil2:](https://github.com/antitypical/Result)
 + Error Styling in Swift [:pencil:](https://gist.github.com/erica/b203a13b0b71db430801)
 + Async Error Handling in Swift [:floppy_disk:](https://speakerdeck.com/javisoto/ios-conf-singapore-october-2015)
+- When to (not) use guard [:page_facing_up:](http://radex.io/swift/guard/)
 
 #### **Extensions**
 + ExSwift [:pencil2:](https://github.com/pNre/ExSwift) 
@@ -528,6 +529,7 @@ A curated list of resources for learning about the Swift Language
 + Magic Methods in Swift [:page_facing_up:](https://developer.apple.com/swift/blog/?id=15)
 + weak vs unowned [:page_facing_up:](http://krakendev.io/blog/weak-and-unowned-references-in-swift)
 + Swift weak references [:page_facing_up:](https://www.mikeash.com/pyblog/friday-qa-2015-12-11-swift-weak-references.html)
++ Difference between weak self vs weak self() [:page_facing_up:](http://stackoverflow.com/questions/34305439/difference-between-weak-self-vs-weak-self)
 
 #### **Problem Solving**
 - Creating and Building a DSL in Swift [:floppy_disk:](https://speakerdeck.com/kylef/dsls-in-swift)
@@ -610,6 +612,7 @@ A curated list of resources for learning about the Swift Language
 - Xcode 7 UI Testing [:page_facing_up:](http://www.mokacoding.com/blog/xcode-7-ui-testing/)
 - Better Unit Testing with Swift [:page_facing_up:](http://masilotti.com/better-swift-unit-testing/)
 - UI Testing Cheat Sheet [:page_facing_up:](http://masilotti.com/ui-testing-cheat-sheet/)
+- SwiftTest BDD Testing Framework [:pencil2:](https://github.com/bppr/Swiftest)
 - More functional testing [:page_facing_up:](http://www.thinkandbuild.it/ios-functional-testing-with-user-stories-uitest-and-local-server/)
 - Unit Testing with @testable in Xcode 7 [:page_facing_up:](http://natashatherobot.com/swift-2-xcode-7-unit-testing-access/)
 - Mocking Objects in Swift [:page_facing_up:](http://www.raywenderlich.com/101306/unit-testing-tutorial-mocking-objects)
@@ -630,6 +633,7 @@ A curated list of resources for learning about the Swift Language
 - SwiftCheck: QuickCheck for Swift [:pencil2:](https://github.com/typelift/SwiftCheck)
     
 #### **Text Manipulation and RegEx**
++ Swift String Cheat Sheet [:page_facing_up:](http://useyourloaf.com/blog/swift-string-cheat-sheet.html)
 + RegularExpressions in Swift [:page_facing_up:](https://littlebitesofcocoa.com/121-swiftier-regular-expressions-with-regex)
 + Creating a Lexer in Swift [:page_facing_up:](http://blog.matthewcheok.com/writing-a-lexer-in-swift/)
 + Creating an Abstract Syntax Tree Parser in Swift [:page_facing_up:](http://blog.matthewcheok.com/writing-a-parser-in-swift/)
