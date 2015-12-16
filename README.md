@@ -171,7 +171,7 @@ A curated list of resources for learning about the Swift Language
 - MobileKonf 2015 [:video_camera:]( https://www.youtube.com/channel/UCMMbKC1Jh5KirZc3rnem4kg/videos
 )
 - Functional Swift Conf 2014 [:video_camera:](https://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g)
-- Functional Swift Conf 2015 [:movie_camera:]
+- Functional Swift Conf 2015 [:video_camera:](https://github.com/chriseidhof/ios-videos
 - CocoaConf Videos [:video_camera:](http://cocoaconf.com/videos)
 - :fire: Awesome iOS Conferences [:pencil2:](https://github.com/Lascorbe/CocoaConferences)
 
@@ -189,10 +189,10 @@ A curated list of resources for learning about the Swift Language
 + Networking with NSURLSession [:floppy_disk:](file:///Users/henrysavit/Downloads/711_networking_with_nsurlsession.pdf)
 
 ## **Other Video**
-- Swift Language Youtube Channel [:vhs:](https://www.youtube.com/channel/UCml4lCH0xdl6Jm91RiPPIig)
-- Free Swift Lang Course [:vhs:](https://www.youtube.com/playlist?list=PLxwBNxx9j4PW8bsVaXia9c20I87YEGNRu)
-- Explaining the mutating keyword [:vhs:](https://www.youtube.com/watch?v=uOrKvPDfLoE)
-- Swift tutorial Video Series [:vhs:](https://www.youtube.com/playlist?list=PLfOZCUzRoPfKeOS_pwpiqbdviGcCOcTYb)
+- Swift Language Youtube Channel [:video_camera:](https://www.youtube.com/channel/UCml4lCH0xdl6Jm91RiPPIig)
+- Free Swift Lang Course [:video_camera:](https://www.youtube.com/playlist?list=PLxwBNxx9j4PW8bsVaXia9c20I87YEGNRu)
+- Explaining the mutating keyword [:video_camera:](https://www.youtube.com/watch?v=uOrKvPDfLoE)
+- Swift tutorial Video Series [:video_camera:](https://www.youtube.com/playlist?list=PLfOZCUzRoPfKeOS_pwpiqbdviGcCOcTYb)
 
 ## **Posts**
 
@@ -643,6 +643,7 @@ A curated list of resources for learning about the Swift Language
 + Parsing Embedded JSON and Arrays in Swift [:page_facing_up:](https://robots.thoughtbot.com/parsing-embedded-json-and-arrays-in-swift)
 + Real World JSON Parsing [:page_facing_up:](https://robots.thoughtbot.com/real-world-json-parsing-with-swift)
 + Efficient JSON Parsing with Functional Concepts [:page_facing_up:](https://robots.thoughtbot.com/efficient-json-in-swift-with-functional-concepts-and-generics)
++ Swift and JSON: Are we doing it right? [:microphone:](https://skillsmatter.com/skillscasts/6202-swift-and-json-are-we-doing-it-right)
 + Calling a REST Api in Swift [:page_facing_up:](http://stackoverflow.com/questions/24321165/make-rest-api-call-in-swift)
 + How to Make REST API Calls and Parse JSON with Swift [:page_facing_up:](http://devdactic.com/rest-api-parse-json-swift/)
 + HTTP in Swift [:page_facing_up:](https://medium.com/swift-programming/http-in-swift-693b3a7bf086)
