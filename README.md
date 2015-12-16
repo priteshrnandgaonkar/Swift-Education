@@ -1,5 +1,3 @@
-
-
 ![Swift Logo](http://www.joomlavision.com/wp-content/uploads/2014/08/swift-apple-logo.jpg)
 # Awesome-Swift-Education 
 A curated list of resources for learning about the Swift Language
@@ -9,6 +7,8 @@ A curated list of resources for learning about the Swift Language
 - :pencil2: = Repository
 - :notebook: = Blog
 - :page_facing_up: = Blog Post
+- :scroll: = Quick Reference
+- :books: = Book
 - :floppy_disk: = Slides
 - :microphone: = Video Presentation
 - :video_camera: = Video
@@ -67,7 +67,8 @@ A curated list of resources for learning about the Swift Language
     + [Realm](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#realm)
     + [Security](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#security)
     + [Swift Language](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#swift-language)
-    + [Text Manipulation](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#text-manipulation)
+    + [Testing](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#testing)
+    + [Text Manipulation](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#text-manipulation-and-regex)
     + [Type Reflection and Casting](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#type-reflection-and-casting)
     + [Web Services and Networking](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#web-services-and-networking)
     + [Web Services - Other](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#web-services---other)
@@ -77,17 +78,17 @@ A curated list of resources for learning about the Swift Language
 ## **Open Source Swift** 
 
 - Apple Master Github Repository [:crown:](https://github.com/apple)
-- Swift Master Repository [:pencil:](https://github.com/apple/swift)
+- Swift Master Repository [:pencil2:](https://github.com/apple/swift)
 - Download Swift [:link:](https://swift.org/download/#latest-development-snapshots)
-- Core Libs Unimplemented Parts [:pencil:](https://github.com/apple/swift-corelibs-foundation/search?utf8=%E2%9C%93&q=NSUnimplemented)
-- Swift Core Libs Foundation Repository [:pencil:](https://github.com/apple/swift-corelibs-foundation)
-- Swift Core Libs Dispatch Repository [:pencil:](https://github.com/apple/swift-corelibs-libdispatch)
-- Swift CommonMark parsing and rendering library in C [:pencil:](https://github.com/apple/swift-cmark)
-- Swift Clang Repositroy [:pencil:](https://github.com/apple/swift-clang)
-- Swift LLDB Repository [:pencil:](https://github.com/apple/swift-lldb)
-- Docker Swift [:pencil:](https://github.com/swiftdocker/docker-swift)
-- Swift Packages [:pencil:](https://github.com/donald-pinckney/swift-packages)
-- Swift Compiler Crashes [:pencil:](https://github.com/practicalswift/swift-compiler-crashes)
+- Core Libs Unimplemented Parts [:pencil2:](https://github.com/apple/swift-corelibs-foundation/search?utf8=%E2%9C%93&q=NSUnimplemented)
+- Swift Core Libs Foundation Repository [:pencil2:](https://github.com/apple/swift-corelibs-foundation)
+- Swift Core Libs Dispatch Repository [:pencil2:](https://github.com/apple/swift-corelibs-libdispatch)
+- Swift CommonMark parsing and rendering library in C [:pencil2:](https://github.com/apple/swift-cmark)
+- Swift Clang Repositroy [:pencil2:](https://github.com/apple/swift-clang)
+- Swift LLDB Repository [:pencil2:](https://github.com/apple/swift-lldb)
+- Docker Swift [:pencil2:](https://github.com/swiftdocker/docker-swift)
+- Swift Packages [:pencil2:](https://github.com/donald-pinckney/swift-packages)
+- Swift Compiler Crashes [:pencil2:](https://github.com/practicalswift/swift-compiler-crashes)
 - Open Radar Swift [:page_facing_up:](http://www.openradar.me/19770770)
 
 ## **Swift Style**
@@ -171,7 +172,7 @@ A curated list of resources for learning about the Swift Language
 )
 - Functional Swift Conf 2014 [:vhs:](https://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g)
 - CocoaConf Videos [:vhs:](http://cocoaconf.com/videos)
-- :fire: Awesome iOS Conferences [:pencil:](https://github.com/Lascorbe/CocoaConferences)
+- :fire: Awesome iOS Conferences [:pencil2:](https://github.com/Lascorbe/CocoaConferences)
 
 ## **WWDC Presentations**
 + Search through WWDC Presentations [:microphone:](https://developer.apple.com/search/?q=wwdc&type=Videos&utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_10) 
@@ -208,7 +209,7 @@ A curated list of resources for learning about the Swift Language
 + Swift Inject Dependency Injection [:pencil2:](https://github.com/Swinject/Swinject)
 + Class or Struct? [:page_facing_up:](http://faq.sealedabstract.com/structs_or_classes/) 
 + RE: Class or Struct [:page_facing_up:](http://owensd.io/2015/07/05/re-struct-or-class.html)
-+ Uber Jetstream [:pencil:](https://github.com/uber/jetstream-ios)
++ Uber Jetstream [:pencil2:](https://github.com/uber/jetstream-ios)
 - Mutating Funcs in Swift Structs [:page_facing_up:](http://natashatherobot.com/mutating-functions-swift-structs/)
 + MVVM in Swift [:page_facing_up:](http://artsy.github.io/blog/2015/09/24/mvvm-in-swift/)
 - Refractor the Mega Controller [:microphone:](https://realm.io/news/andy-matuschak-refactor-mega-controller/)
@@ -246,7 +247,7 @@ A curated list of resources for learning about the Swift Language
 + Swift Scripting [:microphone:](https://realm.io/news/swift-scripting/)
 + Learn Swift by running Scripts [:page_facing_up:](https://medium.com/swift-programming/1-learn-swift-by-running-scripts-73fdf8507f4b)
 + Scripting in Swift is Pretty Awesome! [:page_facing_up:](http://krakendev.io/blog/scripting-in-swift)
-+ Swiftline [:pencil:](https://github.com/Swiftline/Swiftline)
++ Swiftline [:pencil2:](https://github.com/Swiftline/Swiftline)
 + How Swift Scripting was used to make iOS Cookies [:page_facing_up:](https://medium.com/@bardonadam/how-i-m-using-swift-scripting-to-create-newsletter-for-ios-cookies-93db5deca4c#.cwgws2399)
 + Writing an Xcode Plugin with Swift [:page_facing_up:](http://merowing.info/2015/12/writing-xcode-plugin-in-swift/?utm_campaign=Indie%2BiOS%2BFocus%2BWeekly&utm_medium=email&utm_source=Indie_iOS_Focus_Weekly_47)
 
@@ -264,13 +265,13 @@ A curated list of resources for learning about the Swift Language
 - Core Data in 2015 and Magical Record in Swift [:microphone:](https://www.youtube.com/watch?v=1jSuXbeIKuk&list=PLEx5khR4g7PL0fDNJkI2dHhqeckQTAbes&index=46)
 
 #### **Data Structures and Algorithms**
-+ An Array implemented in Swift by Mike Ash [:pencil2:](https://gist.github.com/mikeash/63a791f2aec3318c7c5c)
++ An Array implemented in Swift by Mike Ash [:pencil:](https://gist.github.com/mikeash/63a791f2aec3318c7c5c)
 + A Trie [:bar_chart:](https://bigonotetaking.wordpress.com/2015/08/11/a-trie-in-swift/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_2)
 + A persistent tree using indirect enums [:bar_chart:](http://airspeedvelocity.net/2015/07/22/a-persistent-tree-using-indirect-enums-in-swift/)
 + Deques, Queues, and Lists in Swift with indirect [:page_facing_up:](https://bigonotetaking.wordpress.com/2015/07/29/deques-queues-and-lists-in-swift-with-indirect/)
 + Linked Lists are really slow [:bar_chart:](http://airspeedvelocity.net/2015/08/03/arrays-linked-listss-and-performance/)
 + Linked Lists, Enums, Value Types [:bar_chart:](http://airspeedvelocity.net/2015/07/26/linked-lists-enums-value-types-and-identity/)
-+ Singly Linked List [:pencil2:](https://gist.github.com/airspeedswift/7e233e723e458b1eacfe)
++ Singly Linked List [:pencil:](https://gist.github.com/airspeedswift/7e233e723e458b1eacfe)
 + Deques, Queues, and Lists in Swift [:bar_chart:](https://bigonotetaking.wordpress.com/2015/07/29/deques-queues-and-lists-in-swift-with-indirect/) [:link:](https://github.com/oisdk/Deques-Queues-and-Lists-in-Swift-with-indirect)
 + Contiguous Arrays in Swift [:bar_chart:](https://bigonotetaking.wordpress.com/2015/08/09/yet-another-root-of-all-evil/)
 + NSArrays are implemente with Circular Buffers [:bar_chart:](https://en.wikipedia.org/wiki/Circular_buffer)
@@ -314,6 +315,7 @@ A curated list of resources for learning about the Swift Language
 - * Oriented Programming [:microphone:](https://realm.io/news/pragma-graham-lee-oriented-programming-paradigms/)
 - Hole Driven Development [:page_facing_up:](http://oleb.net/blog/2015/07/swift-type-system/)
 - Entering a New Codebase [:floppy_disk:](https://speakerdeck.com/dbgrandi/how-to-understand-other-peoples-code)
+- Railway Oriented Programming [:microphone:](http://fsharpforfunandprofit.com/rop/)
 
 #### **Enums and Pattern Matching**
 + Enums
@@ -355,6 +357,7 @@ A curated list of resources for learning about the Swift Language
 + Async Error Handling in Swift [:floppy_disk:](https://speakerdeck.com/javisoto/ios-conf-singapore-october-2015)
 
 #### **Extensions**
++ ExSwift [:pencil2:](https://github.com/pNre/ExSwift) 
 + Useful Swift Extensions [:pencil2:](https://github.com/yingogobot/Swift-Useful-Extensions)
 + EZSwiftExtensions [:pencil2:](https://github.com/goktugyil/EZSwiftExtensions)
 + Public Extension [:notebook:](https://twitter.com/publicextension)
@@ -399,7 +402,7 @@ A curated list of resources for learning about the Swift Language
 + Lenses, Prisms, Isos in Swift 2 [pencil2](https://github.com/typelift/Focus)
 + Better Recursion with Swift [:microphone:](https://vimeo.com/138092644)
 + Folds in Swift [:page_facing_up:](http://thepurecoder.com/functional-swift-fold-it-baby/) [:page_facing_up:](http://thepurecoder.com/more-on-fold/)
-+ Swift Adventures in Monad Land [:pencil:](https://github.com/alskipp/Swift-Adventures-In-Monad-Land)
++ Swift Adventures in Monad Land [:pencil2:](https://github.com/alskipp/Swift-Adventures-In-Monad-Land)
 + Functor and Monad in Swift [:page_facing_up:](http://www.javiersoto.me/post/106875422394)
 + Llama Calculus [:floppy_disk:](https://github.com/rnapier/llama-calculus)
 + FingerTrees [:page_facing_up:](http://andrew.gibiansky.com/blog/haskell/finger-trees/)
@@ -591,7 +594,32 @@ A curated list of resources for learning about the Swift Language
 - Catching up with Swift [:floppy_disk:](https://speakerdeck.com/ashfurrow/catching-up-with-swift)
 - Idiomatic Swift [:floppy_disk:](https://speakerdeck.com/ashfurrow/solving-problems-the-swift-way)
 
-#### **Text Manipulation**
+#### **Testing**
+- BDD Testing with Swift [:page_facing_up:](http://railsware.com/blog/2014/07/04/bdd-style-testing-in-swift-with-sleipnir/)
+- TDD with Swift [:page_facing_up:](http://swiftandpainless.com/category/tdd/)
+- Unit Testing in Swift [:page_facing_up:](https://bendyworks.com/unit-testing-in-swift/)
+- Xcode 7 UI Testing [page_facing_up](http://www.mokacoding.com/blog/xcode-7-ui-testing/)
+- Better Unit Testing with Swift [:page_facing_up:](http://masilotti.com/better-swift-unit-testing/)
+- UI Testing Cheat Sheet [:page_facing_up:](http://masilotti.com/ui-testing-cheat-sheet/)
+- More functional testing [:page_facing_up:](http://www.thinkandbuild.it/ios-functional-testing-with-user-stories-uitest-and-local-server/)
+- Unit Testing with @testable in Xcode 7 [:page_facing_up:](http://natashatherobot.com/swift-2-xcode-7-unit-testing-access/)
+- Mocking Objects in Swift [:page_facing_up:](http://www.raywenderlich.com/101306/unit-testing-tutorial-mocking-objects)
+- Reverse Engineering iOS Apps [:microphone:](https://realm.io/news/conrad-kramer-reverse-engineering-ios-apps-lyft/)
+- TDD on iOS [:microphone:](https://realm.io/news/altconf-glen-tregoning-paul-zabelin-successful-test-driven-development-on-ios/)
+- The state of iOS testing in 2015 [:page_facing_up:](http://www.mokacoding.com/blog/ios-testing-in-2015/)
+- Testing in Swift with Quick [:microphone:](https://realm.io/news/testing-in-swift/)
+- Network Testing in Swift [:microphone:](https://realm.io/news/soffes-swift-network-testing-dvr/)
+- Testing View Controllers with Quick [:microphone:](https://realm.io/news/rachel-bobbins-testing-view-controllers-quick/)
+- TDD By Controlling Dependencies in Swift [:microphone:](https://www.youtube.com/watch?v=qYpURmZcCKs&index=47&list=PLEx5khR4g7PL0fDNJkI2dHhqeckQTAbes), [:microphone:](http://gotocon.com/dl/goto-cph-2015/slides/JorgeD.OrtizFuentes_TestDrivenDevelopmentbyControllingDependencies.pdf)
+- iOS Snapshot Test Cases [:pencil2:](https://github.com/facebook/ios-snapshot-test-case)
+- Quick Testing Framework [:pencil2:](https://github.com/Quick/Quick)
+- Nimble Matcher Framework [:pencil2:](https://github.com/Quick/Nimble)
+- Swift Lint [:pencil2:](https://github.com/realm/SwiftLint)
+- How to configure Travis CI for iOS Testing [:page_facing_up:](http://www.mokacoding.com/blog/travis-ci-ios-testing/)
+- Setting up KIF for iOS Acceptance Testing [:page_facing_up:](http://www.mokacoding.com/blog/setting-up-kif-for-ios-acceptance-testing/)
+- Replacing KIF with XCUI Tests [:page_facing_up:](http://www.catehuston.com/blog/2015/11/11/replacing-kif-tests-with-xcui-tests/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_62)
+    
+#### **Text Manipulation and RegEx**
 + RegularExpressions in Swift [:page_facing_up:](https://littlebitesofcocoa.com/121-swiftier-regular-expressions-with-regex)
 + Creating a Lexer in Swift [:page_facing_up:](http://blog.matthewcheok.com/writing-a-lexer-in-swift/)
 + Creating an Abstract Syntax Tree Parser in Swift [:page_facing_up:](http://blog.matthewcheok.com/writing-a-parser-in-swift/)
@@ -628,7 +656,7 @@ A curated list of resources for learning about the Swift Language
 - { JSON, Swift, and Type Safety } [:floppy_disk:](https://speakerdeck.com/swiftsummit/anthony-levings-json-swift-and-type-safety-its-a-wrap)
 - MagicalRecord loves Swift [:microphone:](http://gotocon.com/dl/goto-cph-2015/slides/SaulMora_CoreDataIn2015andMagicalRecordMeetsSwift.pdf)
 - Networking with Monads [:video_camera:](https://www.youtube.com/watch?v=LqwrUmuodyY)
-- Swift-MongoDB [:pencil:](https://github.com/Danappelxx/SwiftMongoDB)
+- Swift-MongoDB [:pencil2:](https://github.com/Danappelxx/SwiftMongoDB)
 
 ## **Interview Situations**
 + Ray Wenderlich [:clipboard:](http://www.raywenderlich.com/110982/swift-interview-questions-answers)
