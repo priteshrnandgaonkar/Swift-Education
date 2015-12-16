@@ -9,11 +9,11 @@ A curated list of resources for learning about the Swift Language
 - :page_facing_up: = Blog Post
 - :scroll: = Quick Reference
 - :books: = Book
+- :book: = Guide Book
 - :floppy_disk: = Slides
 - :microphone: = Video Presentation
 - :video_camera: = Video
 - :link: = Link
-- :book: = Guide Book
 - :fire: = Awesome List
 - :mortar_board: = Learning Resource
 - :clipboard: = Interview Questions
@@ -166,12 +166,13 @@ A curated list of resources for learning about the Swift Language
 
 ## **Presentations**
 - All the slides from Swift Summit 2015 [:link:](https://speakerdeck.com/swiftsummit) and highlights from the talks [:link:](http://www.raywenderlich.com/120096/swift-summit-sf-2015-highlights) and notes [:page_facing_up:](https://www.facebook.com/notes/austen-mcdonald/field-notes-from-swift-summit-sf-2015/10153133369935811)
-- All the Presentations from Swift Summit London [:link:](https://realm.io/news/swift-summit/)
-- All Presentations from #Pragma Conference [:link:](https://www.youtube.com/playlist?list=PLAVm70iJlMusekZaxufRPS4OjNOs7L7zi&utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_226)
+- All the Presentations from Swift Summit London [:video_camera:](https://realm.io/news/swift-summit/)
+- All Presentations from #Pragma Conference [:video_camera:](https://www.youtube.com/playlist?list=PLAVm70iJlMusekZaxufRPS4OjNOs7L7zi&utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_226)
 - MobileKonf 2015 [:video_camera:]( https://www.youtube.com/channel/UCMMbKC1Jh5KirZc3rnem4kg/videos
 )
-- Functional Swift Conf 2014 [:vhs:](https://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g)
-- CocoaConf Videos [:vhs:](http://cocoaconf.com/videos)
+- Functional Swift Conf 2014 [:video_camera:](https://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g)
+- Functional Swift Conf 2015 [:movie_camera:]
+- CocoaConf Videos [:video_camera:](http://cocoaconf.com/videos)
 - :fire: Awesome iOS Conferences [:pencil2:](https://github.com/Lascorbe/CocoaConferences)
 
 ## **WWDC Presentations**
