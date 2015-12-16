@@ -43,13 +43,14 @@ A curated list of resources for learning about the Swift Language
     + [Core Data](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#core-data)
     + [Data Structures and Algorithms](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#data-structures-and-algorithms)
     + [Design Patterns](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#design-patterns)
-    + [Functional Programming in Swift](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#functional-programming-in-swift)
-    + [Functional Reactive Programming in Swift](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#functional-reactive-programming-in-swift)
     + [GCD and NSOperation](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#gcd-and-nsoperation)
     + [Generics](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#generics)
     + [Development](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#development)
     + [Enums and Pattern Matching](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#enums-and-pattern-matching)
     + [Error Handling](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#error-handling)
+    + [Extensions](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#extensions)
+    + [Functional Programming in Swift](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#functional-programming-in-swift)
+    + [Functional Reactive Programming in Swift](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#functional-reactive-programming-in-swift)
     + [Initializers](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#initializers)
     + [Interpolability](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#interpolability-with-c-and-objective-c)
     + [Language Comparisons](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#language-comparisons)
@@ -351,6 +352,11 @@ A curated list of resources for learning about the Swift Language
 + Result: Swift type modelling the success/failure of arbitrary operations [:pencil2:](https://github.com/antitypical/Result)
 + Error Styling in Swift [:pencil:](https://gist.github.com/erica/b203a13b0b71db430801)
 + Async Error Handling in Swift [:floppy_disk:](https://speakerdeck.com/javisoto/ios-conf-singapore-october-2015)
+
+#### **Extensions**
++ Useful Swift Extensions [:pencil2:](https://github.com/yingogobot/Swift-Useful-Extensions)
++ EZSwiftExtensions [:pencil2:](https://github.com/goktugyil/EZSwiftExtensions)
++ Public Extension [:notebook:](https://twitter.com/publicextension)
 
 #### **Functional Programming in Swift**
 + Deriving higher order functions in Swift [:page_facing_up:](http://ijoshsmith.com/2015/12/09/higher-order-functions-in-swift/)
