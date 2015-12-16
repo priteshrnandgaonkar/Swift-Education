@@ -5,18 +5,18 @@
 A curated list of resources for learning about the Swift Language
 
 ## Key
-:pencil: = Gist
-:pencil2: = Repository
-:notebook: = Blog
-:page_facing_up: = Blog Post
-:floppy_disk: = Slides
-:microphone: = Video Presentation
-:book: = Book
-:fire: = Awesome List
-:mortar_board: = Learning Resource
-:clipboard: = Interview Questions
-:electric_plug: = Networking Related Post
-:bar_chart: = Algorithm Related Post
+- :pencil: = Gist
+- :pencil2: = Repository
+- :notebook: = Blog
+- :page_facing_up: = Blog Post
+- :floppy_disk: = Slides
+- :microphone: = Video Presentation
+- :book: = Book
+- :fire: = Awesome List
+- :mortar_board: = Learning Resource
+- :clipboard: = Interview Questions
+- :electric_plug: = Networking Related Post
+- :bar_chart: = Algorithm Related Post
 
 ## **Index**
 
