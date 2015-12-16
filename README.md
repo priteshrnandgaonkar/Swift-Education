@@ -564,7 +564,8 @@ A curated list of resources for learning about the Swift Language
 + RegularExpressions in Swift [:page_facing_up:](https://littlebitesofcocoa.com/121-swiftier-regular-expressions-with-regex)
 + Creating a Lexer in Swift [:page_facing_up:](http://blog.matthewcheok.com/writing-a-lexer-in-swift/)
 + Creating an Abstract Syntax Tree Parser in Swift [:page_facing_up:](http://blog.matthewcheok.com/writing-a-parser-in-swift/)
-+ Part 2 of the AST [:page_facing_up:](http://blog.matthewcheok.com/writing-a-parser-in-swift-part-2/)+ *LLVM*
++ Part 2 of the AST [:page_facing_up:](http://blog.matthewcheok.com/writing-a-parser-in-swift-part-2/)
++ String to Number Parser [:pencil2:](https://github.com/davedelong/DDMathParser)
 
 #### **Type Reflection and Casting**
 + Simple Reflection in Swift [:page_facing_up:](http://freecake.angelodipaolo.org/simple-reflection-in-swift/)
