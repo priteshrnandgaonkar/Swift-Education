@@ -285,6 +285,9 @@ A curated list of resources for learning about the Swift Language
 + Red Black Tree [:pencil:](https://gist.github.com/airspeedswift/8fd42496679c51b34859)
 + Tensor Methods in Swift [:pencil2:](https://github.com/aleph7/Upsurge)
 + Sort Utils [:pencil2:](https://github.com/dsmatter/SwiftSortUtils)
++ Disjoint Sets [:pencil2:](https://github.com/antitypical/DisjointSet)
++ Metaprogrammable [:pencil2:](https://github.com/antitypical/Metaprogrammable)
++ Binary Tree [:pencil2:](https://github.com/antitypical/BinaryTree)
 
 #### **Design Patterns**
 - Swift Design Patterns [:floppy_disk:](http://www.slideshare.net/micheletitolo/cocoa-design-patterns-in-swift?qid=7d2c3760-f640-49be-b204-25d086da4e78&v=qf1&b=&from_search=7)
@@ -333,6 +336,7 @@ A curated list of resources for learning about the Swift Language
     + Pattern Matching in Swift [:page_facing_up:](http://oleb.net/blog/2015/09/swift-pattern-matching/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_54)
     + Swift Pattern Matching in Detail [:page_facing_up:](http://appventure.me/2015/08/20/swift-pattern-matching-in-detail/#toptop)
     + Pattern Matching with an *if case* [:page_facing_up:](http://natashatherobot.com/swift-2-pattern-matching-with-if-case/)
+    + Pattern Matching with Recursive Values in Swift [:page_facing_up:](http://antitypical.com/swift/2015/07/01/pattern-matching-over-recursive-values-in-swift/)
 
 #### **Error Handling**
 + Easy Error Handing [:page_facing_up:](https://littlebitesofcocoa.com/108-error-handling)
