@@ -11,6 +11,8 @@ A curated list of resources for learning about the Swift Language
 - :page_facing_up: = Blog Post
 - :floppy_disk: = Slides
 - :microphone: = Video Presentation
+- :vcr: = Video
+- :link: = Link
 - :book: = Book
 - :fire: = Awesome List
 - :mortar_board: = Learning Resource
