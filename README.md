@@ -171,7 +171,7 @@ A curated list of resources for learning about the Swift Language
 - MobileKonf 2015 [:video_camera:]( https://www.youtube.com/channel/UCMMbKC1Jh5KirZc3rnem4kg/videos
 )
 - Functional Swift Conf 2014 [:video_camera:](https://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g)
-- Functional Swift Conf 2015 [:video_camera:](https://github.com/chriseidhof/ios-videos
+- Functional Swift Conf 2015 [:video_camera:](http://2015.funswiftconf.com/)
 - CocoaConf Videos [:video_camera:](http://cocoaconf.com/videos)
 - :fire: Awesome iOS Conferences [:pencil2:](https://github.com/Lascorbe/CocoaConferences)
 
