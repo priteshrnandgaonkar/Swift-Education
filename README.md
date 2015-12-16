@@ -217,6 +217,7 @@ A curated list of resources for learning about the Swift Language
 - A Structy Model Layer [:page_facing_up:](http://khanlou.com/2015/12/a-structy-model-layer/)
 
 #### **Associated Types and Objects**
++ Protocols with Associated Types and how they got that way [:floppy_disk:](https://speakerdeck.com/algal/protocols-with-associated-types-and-how-they-got-that-way)
 + Associated Types in Swift Explained [:page_facing_up:](http://www.russbishop.net/swift-associated-types)
 + Illuminating Forum Post [:page_facing_up:](https://forums.developer.apple.com/message/18038)
 + How to make Generic Protocols in Swift [:page_facing_up:](http://milen.me/writings/swift-generic-protocols/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_6)
