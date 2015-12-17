@@ -115,7 +115,7 @@ A curated list of resources for learning about the Swift Language
 - iOS Cookies [:scroll:](http://www.ioscookies.com/)
 - :fire: Awesome Swift [:scroll:](https://github.com/matteocrippa/awesome-swift)
 - :fire: Another Awesome Swift [:scroll:](https://github.com/Wolg/awesome-swift)
-- :fire: Awesome Pure Swift [:scroll:](https://github.com/PureSwift/PureSwiftList)
+- Pure Swift List [:scroll:](https://github.com/PureSwift/PureSwiftList)
 - :fire: Awesome iOS [:scroll:](https://github.com/vsouza/awesome-ios)
 - iOS Good Practices [:scroll:](https://github.com/futurice/ios-good-practices)
 - Little Bites of Cocoa [:scroll:](https://littlebitesofcocoa.com/)
@@ -147,13 +147,12 @@ A curated list of resources for learning about the Swift Language
 - iOS Dev Weekly [:newspaper:](https://iosdevweekly.com/)
 - Swift Sandbox Newsletter [:newspaper:](http://swiftsandbox.io/)
 - SwiftLang Website [:newspaper:](http://swiftlang.eu/)
-- :fire: Awesome Swift News [:newspaper:](https://github.com/ksm/SwiftInFlux)
 - Swift Weekly [:newspaper:](http://swiftweekly.com/issues)
 - Gettin' Swifty With It [:newspaper:](http://gettinswiftywithit.curated.co/)
 
 ## **Great Learning Resources**
 - Swift Education Community Repository [:pencil2:](https://github.com/swifteducation)
-- iOS Swfit Reference [:pencil2:](https://github.com/ricardorauber/iOS-Swift)
+- iOS Swift Reference [:pencil2:](https://github.com/ricardorauber/iOS-Swift)
 - Hacking With Swift [:mortar_board:](https://www.hackingwithswift.com/)
 - A Better way to learn Swift [:mortar_board:](https://github.com/GoThinkster/swift/blob/master/a-better-way-to-learn-swift.mdown)
 - Ray Wenderlich Tutorial Pages [:mortar_board:](http://www.raywenderlich.com/category/swift)
@@ -279,6 +278,7 @@ A curated list of resources for learning about the Swift Language
 - Using Core Data with Swift [:microphone:](https://realm.io/news/jesse-squires-core-data-swift/)
 - Better Core Data Models with Swift [:page_facing_up:](http://www.jessesquires.com/better-coredata-models-in-swift/)
 - Core Data in 2015 and Magical Record in Swift [:microphone:](https://www.youtube.com/watch?v=1jSuXbeIKuk&list=PLEx5khR4g7PL0fDNJkI2dHhqeckQTAbes&index=46)
+- Core Data Threading Demystified [:microphone:](https://realm.io/news/marcus-zarra-core-data-threading/)
 
 #### **Data Structures and Algorithms**
 + An Array implemented in Swift by Mike Ash [:pencil:](https://gist.github.com/mikeash/63a791f2aec3318c7c5c)
