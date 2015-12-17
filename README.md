@@ -32,7 +32,6 @@ A curated list of resources for learning about the Swift Language
 - [Free Books](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#free-books)
 - [Not Free (but still awesome) Swift Books](https://github.com/hsavit1/Awesome-Swift-Education#not-free-but-still-awesome-swift-books)
 - [Presentations](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#presentations)
-- [WWDC Presentations](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#wwdc-presentations)
 - [Other Video](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#other-video)
 - [Posts](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#posts)
     + [Animations and Front End Stuff](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#animations-and-front-end-stuff)
@@ -175,9 +174,9 @@ A curated list of resources for learning about the Swift Language
 - Oreilly Book Series [:books:](http://search.oreilly.com/?q=swift&x=0&y=0)
 
 ## **Presentations**
++ WWDC 2015 Presentations [:microphone:](https://developer.apple.com/search/?q=wwdc&type=Videos) [:pencil2:](https://developer.apple.com/sample-code/wwdc/2015/) [:pencil:](http://asciiwwdc.com/)
 - All the slides from Swift Summit London 2015 [:link:](https://speakerdeck.com/swiftsummit)
-+ Some talks from Swift Summit SF [:link:](http://www.skilled.io/)
-+ Highlights from Swift Summit SF [:link:](http://www.raywenderlich.com/120096/swift-summit-sf-2015-highlights) and notes [:page_facing_up:](https://www.facebook.com/notes/austen-mcdonald/field-notes-from-swift-summit-sf-2015/10153133369935811)
++ Some talks from Swift Summit SF 2015 [:microphone:](http://www.skilled.io/)  [:page_facing_up:](http://www.raywenderlich.com/120096/swift-summit-sf-2015-highlights) [:page_facing_up:](https://www.facebook.com/notes/austen-mcdonald/field-notes-from-swift-summit-sf-2015/10153133369935811)
 - All the Presentations from Swift Summit London [:video_camera:](https://realm.io/news/swift-summit/)
 - All Presentations from #Pragma Conference [:video_camera:](https://www.youtube.com/playlist?list=PLAVm70iJlMusekZaxufRPS4OjNOs7L7zi&utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_226)
 - MobileKonf 2015 [:video_camera:]( https://www.youtube.com/channel/UCMMbKC1Jh5KirZc3rnem4kg/videos
@@ -186,19 +185,6 @@ A curated list of resources for learning about the Swift Language
 - Functional Swift Conf 2015 [:video_camera:](http://2015.funswiftconf.com/)
 - CocoaConf Videos [:video_camera:](http://cocoaconf.com/videos)
 - :fire: Awesome iOS Conferences [:pencil2:](https://github.com/Lascorbe/CocoaConferences)
-
-## **WWDC Presentations**
-+ Search through WWDC Presentations [:microphone:](https://developer.apple.com/search/?q=wwdc&type=Videos&utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_10) 
-+ Code Samples From WWDC [:microphone:](https://developer.apple.com/sample-code/wwdc/2015/)
-+ WWDC Full Text WriteUps [:microphone:](http://asciiwwdc.com/)
-+ :raised_hands: Protocol-Oriented Programming in Swift [:microphone:](https://developer.apple.com/videos/wwdc/2015/?id=408)
-+ Make all Value Types Equatable [:microphone:](https://developer.apple.com/videos/wwdc/2015/?id=414)
-+ Advanced NSOperations [:microphone:](https://developer.apple.com/videos/wwdc/2015/?id=226)
-+ UI Testing in Xcode [:microphone:](https://developer.apple.com/videos/wwdc/2015/?id=406)
-+ Continuous Integration made Easy in Xcode 7 [:microphone:](https://developer.apple.com/videos/wwdc/2015/?id=410)
-+ What's new in Xcode [:microphone:](https://developer.apple.com/videos/wwdc/2015/?id=104)
-+ Swift in Practice [:microphone:](https://developer.apple.com/videos/wwdc/2015/?id=411)
-+ Networking with NSURLSession [:floppy_disk:](file:///Users/henrysavit/Downloads/711_networking_with_nsurlsession.pdf)
 
 ## **Other Video**
 - Swift Language Youtube Channel [:video_camera:](https://www.youtube.com/channel/UCml4lCH0xdl6Jm91RiPPIig)
@@ -539,7 +525,8 @@ A curated list of resources for learning about the Swift Language
 + Make a DSL in Swift [:page_facing_up:](http://colindrake.me/2015/10/28/implementing-a-small-dsl-in-swift/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_60)
 + Type-Erased Wrappers in Swift [:microphone:](https://realm.io/news/type-erased-wrappers-in-swift/)
 + Swift MetaTypes [:page_facing_up:](http://jasdev.me/lets-get-meta/)
-+ Typing the Knot in Swift [:link:](http://stackoverflow.com/a/24026196/2855836)
++ Tying the Knot in Swift [:link:](http://stackoverflow.com/a/24026196/2855836)
++ Make all Value Types Equatable [:microphone:](https://developer.apple.com/videos/wwdc/2015/?id=414)
 
 #### **Other**
 + @autoclosure, @inline, @noescape, and @noreturn Keywords [:page_facing_up:](https://github.com/vandadnp/swift-weekly/blob/master/issue11/README.md)
@@ -554,6 +541,7 @@ A curated list of resources for learning about the Swift Language
 - Creating and Building a DSL in Swift [:floppy_disk:](https://speakerdeck.com/kylef/dsls-in-swift)
 - :raised_hands: FizzBuzz on steroids with Swift [:floppy_disk:](https://speakerdeck.com/abizern/fizz-buzz-in-swift)
 - Learning Swift the Euler Way [:microphone:](https://vimeo.com/136059613)
++ Swift in Practice [:microphone:](https://developer.apple.com/videos/wwdc/2015/?id=411)
 
 #### **Production Swift**
 - How Carthage works [:floppy_disk:](https://speakerdeck.com/jspahrsummers/ruthlessly-simple-dependency-management-with-carthage)
@@ -564,6 +552,7 @@ A curated list of resources for learning about the Swift Language
 - Exclude folders in the SPM [:page_facing_up:](http://kostiakoval.github.io/posts/exclude-folders---new-feature-in-swift-package-manager/)
 
 #### **Protocol Oriented Programming in Swift 2**
++ :raised_hands: Protocol-Oriented Programming in Swift [:microphone:](https://developer.apple.com/videos/wwdc/2015/?id=408)
 + Protocols in Swift [:page_facing_up:](http://austinzheng.com/2014/12/24/protocols-in-swift/)
 + POP is OOP Thesis [:page_facing_up:](http://blog.metaobject.com/2015/06/protocol-oriented-programming-is-object.html)
 + Standard Template Protocols [:link:](https://github.com/cconeil/Standard-Template-Protocols?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_63)
@@ -631,7 +620,7 @@ A curated list of resources for learning about the Swift Language
 - BDD Testing with Swift [:page_facing_up:](http://railsware.com/blog/2014/07/04/bdd-style-testing-in-swift-with-sleipnir/)
 - TDD with Swift [:page_facing_up:](http://swiftandpainless.com/category/tdd/)
 - Unit Testing in Swift [:page_facing_up:](https://bendyworks.com/unit-testing-in-swift/)
-- Xcode 7 UI Testing [:page_facing_up:](http://www.mokacoding.com/blog/xcode-7-ui-testing/)
++ UI Testing in Xcode [:microphone:](https://developer.apple.com/videos/wwdc/2015/?id=406) [:page_facing_up:](http://www.mokacoding.com/blog/xcode-7-ui-testing/)
 - Better Unit Testing with Swift [:page_facing_up:](http://masilotti.com/better-swift-unit-testing/)
 - UI Testing Cheat Sheet [:page_facing_up:](http://masilotti.com/ui-testing-cheat-sheet/)
 - SwiftTest BDD Testing Framework [:pencil2:](https://github.com/bppr/Swiftest)
@@ -658,8 +647,7 @@ A curated list of resources for learning about the Swift Language
 + Swift String Cheat Sheet [:page_facing_up:](http://useyourloaf.com/blog/swift-string-cheat-sheet.html) [:pencil:](https://gist.github.com/kharrison/08d1db4169d70a88b194)
 + RegularExpressions in Swift [:page_facing_up:](https://littlebitesofcocoa.com/121-swiftier-regular-expressions-with-regex)
 + Creating a Lexer in Swift [:page_facing_up:](http://blog.matthewcheok.com/writing-a-lexer-in-swift/)
-+ Creating an Abstract Syntax Tree Parser in Swift [:page_facing_up:](http://blog.matthewcheok.com/writing-a-parser-in-swift/)
-+ Part 2 of the AST [:page_facing_up:](http://blog.matthewcheok.com/writing-a-parser-in-swift-part-2/)
++ Creating an Abstract Syntax Tree Parser in Swift [:page_facing_up:](http://blog.matthewcheok.com/writing-a-parser-in-swift/) [:page_facing_up:](http://blog.matthewcheok.com/writing-a-parser-in-swift-part-2/)
 + String to Number Parser [:pencil2:](https://github.com/davedelong/DDMathParser)
 
 #### **Type Reflection and Casting**
