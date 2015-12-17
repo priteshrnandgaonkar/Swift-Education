@@ -99,8 +99,6 @@ A curated list of resources for learning about the Swift Language
 - Swift Language Evolution [:book:](https://github.com/apple/swift-evolution)
 + Swift Stye Rules [:book:](http://ericasadun.com/2015/11/17/a-handful-of-swift-style-rules-swiftlang/)
 + SwiftLint [:book:](https://github.com/realm/SwiftLint)
-- Swift Language Philosophies [:book:](https://github.com/apple/swift/blob/master/www/Philosophies.rst)
-- Swift Lang F.A.Q. [:book:](https://github.com/apple/swift/blob/master/www/FAQ.rst)
 
 ## **In-Browser Swift Editors**
 
@@ -151,6 +149,7 @@ A curated list of resources for learning about the Swift Language
 - Gettin' Swifty With It [:newspaper:](http://gettinswiftywithit.curated.co/)
 
 ## **Great Learning Resources**
+- Official Swift Documentation [:pencil:](https://github.com/apple/swift/tree/master/docs) 
 - Swift Education Community Repository [:pencil2:](https://github.com/swifteducation)
 - iOS Swift Reference [:pencil2:](https://github.com/ricardorauber/iOS-Swift)
 - Hacking With Swift [:mortar_board:](https://www.hackingwithswift.com/)
@@ -699,8 +698,5 @@ A curated list of resources for learning about the Swift Language
 + Toptal [:clipboard:](http://www.toptal.com/swift/interview-questions)
 + LeetCode [:clipboard:](https://github.com/diwu/LeetCode-Solutions-in-Swift)
 + Coding Questions [:clipboard:](https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions#code)
-+ iOS Dev interview questions [:clipboard:](https://blackpixel.com/writing/2013/04/interview-questions-for-ios-and-mac-developers-1.html)
-+ Macroscopic iOS interview questions [:clipboard:](http://macoscope.com/blog/so-you-have-a-technical-interview-at-macoscope/)
 + :fire: Awesome Swift Interview Questions [:clipboard:](https://github.com/MaximAbramchuck/awesome-interviews#swift)
 + :fire: Awesome iOS Interview Questions [:clipboard:](https://github.com/MaximAbramchuck/awesome-interviews#ios)
-+ From a FB Group [:clipboard:](https://github.com/AtharvaVaidya/iOS-Interview-Prep)
