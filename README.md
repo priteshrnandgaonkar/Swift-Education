@@ -245,7 +245,7 @@ A curated list of resources for learning about the Swift Language
 #### **Closures**
 + Closures and Capturing Values in Swift [:page_facing_up:](http://www.codingexplorer.com/closures-capturing-values-swift/)
 + Instance methods are Curried Functions in Swift [:page_facing_up:](http://oleb.net/blog/2014/07/swift-instance-methods-curried-functions/)
-
++ Using Local Closures with Swift [:page_facing_up:](http://www.thomashanning.com/swift-using-local-closures/)
 
 #### **Collections / Sequences / Generators**
 + A quick guide to SequenceType [:page_facing_up:](https://medium.com/swift-programming/swift-sequences-ce22d76f120c#.edaemcmqc)
@@ -362,19 +362,20 @@ A curated list of resources for learning about the Swift Language
     + Pattern Matching with Recursive Values in Swift [:page_facing_up:](http://antitypical.com/swift/2015/07/01/pattern-matching-over-recursive-values-in-swift/)
 
 #### **Error Handling**
++ The Value of Guard [:page_facing_up:](http://www.iosinsight.com/the-value-of-guard-in-swift/)
++ Swift 2.0: Why Guard is Better than If [:page_facing_up:](http://natashatherobot.com/swift-guard-better-than-if/)
++ Guard and Defer [:page_facing_up:](http://nshipster.com/guard-and-defer/)
++ When to (not) use guard [:page_facing_up:](http://radex.io/swift/guard/)
 + Easy Error Handing [:page_facing_up:](https://littlebitesofcocoa.com/108-error-handling)
 + Swift Failiable Initializers [:page_facing_up:](http://www.jessesquires.com/swift-failable-initializers-revisited/)
-+ Swift 2.0: Why Guard is Better than If [:page_facing_up:](http://natashatherobot.com/swift-guard-better-than-if/)
 + Swift 2 Error Handling [:page_facing_up:](http://austinzheng.com/2015/06/08/swift-2-control-flow/)
 + Swift 2 Error Handling and Pattern Matching [:page_facing_up:](http://austinzheng.com/2015/09/23/pmatch-control-flow/)
-+ Guard and Defer [:page_facing_up:](http://nshipster.com/guard-and-defer/)
 + Unmanaged Type [:page_facing_up:](http://nshipster.com/unmanaged/)
 + try/catch with asynchronous closures [:page_facing_up:](http://appventure.me/2015/06/19/swift-try-catch-asynchronous-closures/)
 + Using the *assert()* keyword [:page_facing_up:](http://blog.krzyzanowskim.com/2015/03/09/swift-asserts-the-missing-manual/)
 + Result: Swift type modelling the success/failure of arbitrary operations [:pencil2:](https://github.com/antitypical/Result)
 + Error Styling in Swift [:pencil:](https://gist.github.com/erica/b203a13b0b71db430801)
 + Async Error Handling in Swift [:floppy_disk:](https://speakerdeck.com/javisoto/ios-conf-singapore-october-2015)
-- When to (not) use guard [:page_facing_up:](http://radex.io/swift/guard/)
 
 #### **Extensions**
 + ExSwift [:pencil2:](https://github.com/pNre/ExSwift) 
@@ -384,8 +385,12 @@ A curated list of resources for learning about the Swift Language
 
 #### **Functional Programming in Swift**
 + Deriving higher order functions in Swift [:page_facing_up:](http://ijoshsmith.com/2015/12/09/higher-order-functions-in-swift/)
++ Typelift Community Repo [:pencil:](https://github.com/typelift)
 + :raised_hands: Swiftz Functional Programming Library [:pencil2:](http://www.stackbuilders.com/news/swiftz-the-power-of-liftz)
 + Swiftx Functional Data Types [:pencil2:](https://github.com/typelift/Swiftx)
++ Aquifier Functional streaming abstractions in Swift [:pencil2:](https://github.com/typelift/Aquifer) 
++ Basis Pure Declarative Programming in Swift [:pencil2:](https://github.com/typelift/Basis)
++ Functional Concurrency Primitives [:pencil2:](https://github.com/typelift/Concurrent)
 + Functional View Controllers [:page_facing_up:](http://chris.eidhof.nl/posts/functional-view-controllers.html)
 + Covariance and Contravariance in Swift 2.1 [:page_facing_up:](http://www.uraimo.com/2015/09/29/Swift2.1-Function-Types-Conversion-Covariance-Contravariance/)
 + Monads & C# Tasks in Swift [:page_facing_up:](https://realm.io/news/swift-tasks-nevyn-bengtsson/)
@@ -396,8 +401,6 @@ A curated list of resources for learning about the Swift Language
 + Functional Paradigms in Swift [:page_facing_up:](http://blog.tackmobile.com/article/functional-paradigms-in-swift/)
 + Functional Programming in the Swift Language [:page_facing_up:](https://medium.com/swift-programming/2-functional-swift-c98be9533183)
 + Map and FlatMap demystified [:page_facing_up:](http://www.uraimo.com/2015/10/08/Swift2-map-flatmap-demystified/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_11)
-+ Using Local Closures with Swift [:page_facing_up:](http://www.thomashanning.com/swift-using-local-closures/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_59)
-+ Function Params are Tuples in Swift [:page_facing_up:](http://www.paulrobinson.net/function-parameters-are-tuples-in-swift/)
 + Lenses in Swift [:page_facing_up:](http://chris.eidhof.nl/posts/lenses-in-swift.html)
 + Lenses [:pencil:](https://gist.github.com/mbrandonw/4acd26ab01bb6140af69)
 + Prelude Library [:page_facing_up:](https://github.com/robrix/Prelude)
@@ -431,15 +434,15 @@ A curated list of resources for learning about the Swift Language
 + 6 Killer Functional Swift Features [:page_facing_up:](http://ericasadun.com/2015/05/21/swift-six-killer-features/)
 + Thunks in Swift [:page_facing_up:](https://plus.google.com/+ShriramKrishnamurthi/posts/dXd71hueSvH)
 + 7 Habits for more functional Swift [:floppy_disk:](http://www.slideshare.net/jarsen7/7-habits-for-a-more-functional-swift) 
-+ Y Combinators in Swift [:pencil2:](https://gist.github.com/kongtomorrow/e95bea13162ca0e29d4b#file-gistfile1-swift)
++ Y Combinators in Swift [:pencil:](https://gist.github.com/kongtomorrow/e95bea13162ca0e29d4b#file-gistfile1-swift)
 + Arrows in Swift [:pencil2:](https://github.com/typelift/Swiftz/blob/master/Swiftz/Arrow.swift)
 + Understanding Reduce in Swift [:page_facing_up:](http://ijoshsmith.com/2014/06/25/understanding-swifts-reduce-method/)
 + Monadic Functions in Swift [:pencil2:](https://github.com/thoughtbot/Runes)
 + Lazy Streams in Swift [:pencil2:](https://github.com/antitypical/Stream)
 + Funky Functional Programming Tools and Experiements [:pencil2:](https://github.com/brynbellomy/Funky)
 + Functional Memoization in Swift [:page_facing_up:](http://blog.scottlogic.com/2014/09/22/swift-memoization.html)
-+ Reader Monad in Swift [:pencil2:](https://gist.github.com/tLewisII/bfee33f69ddb8e03b379)
-+ Writer Monad in Swift [:pencil2:](https://gist.github.com/tLewisII/987d7c0f4ecd873b89a7)
++ Reader Monad in Swift [:pencil:](https://gist.github.com/tLewisII/bfee33f69ddb8e03b379)
++ Writer Monad in Swift [:pencil:](https://gist.github.com/tLewisII/987d7c0f4ecd873b89a7)
 + Back to the Futures with Swift [:floppy_disk:](https://speakerdeck.com/javisoto/back-to-the-futures)
 + State Monads in Swift [:pencil2:](https://github.com/sharplet/State?files=1)
 + Array to Zipper [:pencil2:](https://github.com/rnapier/array-zipper)
@@ -485,7 +488,7 @@ A curated list of resources for learning about the Swift Language
 + Wrapping a C library in a Swift Framework [:page_facing_up:](http://colindrake.me/2015/10/05/wrapping-a-c-library-in-a-swift-framework/)
 + How are NSDictionaries implemented in-memory? [:page_facing_up:](http://ciechanowski.me/blog/2014/04/08/exposing-nsdictionary/#comment-1345004966)
 + Exposing NSMutableArray [:page_facing_up:](http://ciechanowski.me/blog/2014/03/05/exposing-nsmutablearray/)
-+ Source-Code for the Objective-C Runtime [:link:](http://opensource.apple.com/source/objc4/objc4-551.1/)
++ Source-Code for the Objective-C Runtime [:pencil2:](http://opensource.apple.com/source/objc4/objc4-551.1/)
 
 #### **Language Comparisons**
 + Comparing Swift and Javascript [:page_facing_up:](http://www.mircozeiss.com/swift-for-javascript-developers/)
@@ -525,7 +528,6 @@ A curated list of resources for learning about the Swift Language
 + The Death of Cocoa [:page_facing_up:](http://nshipster.com/the-death-of-cocoa/)
 
 #### **Optionals and Types** 
-+ Typelift Community Repo [:pencil:](https://github.com/typelift)
 + Swift Optionals Made Simple [:page_facing_up:](http://appventure.me/2014/06/13/swift-optionals-made-simple/)
 + Swift's Type System [:page_facing_up:](http://oleb.net/blog/2015/07/swift-type-system/)
 + Every Kind of Optional [:page_facing_up:](http://www.fantageek.com/blog/2015/12/04/optional-in-swift/)  
@@ -623,6 +625,7 @@ A curated list of resources for learning about the Swift Language
 - Catching up with Swift [:floppy_disk:](https://speakerdeck.com/ashfurrow/catching-up-with-swift)
 - Idiomatic Swift [:floppy_disk:](https://speakerdeck.com/ashfurrow/solving-problems-the-swift-way)
 - Swiftly Methods [:page_facing_up:](http://radex.io/swift/methods/)
++ Function Params are Tuples in Swift [:page_facing_up:](http://www.paulrobinson.net/function-parameters-are-tuples-in-swift/)
 
 #### **Testing**
 - BDD Testing with Swift [:page_facing_up:](http://railsware.com/blog/2014/07/04/bdd-style-testing-in-swift-with-sleipnir/)
