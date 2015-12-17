@@ -94,6 +94,7 @@ A curated list of resources for learning about the Swift Language
 
 ## **Swift Style**
 
+- Functional Swift Style Guide [:book:](https://github.com/CodaFi/functional-swift-style-guide)
 - The Official Swift Language Docs [:book:](https://github.com/apple/swift/tree/master/docs)
 - Swift Language Evolution [:book:](https://github.com/apple/swift-evolution)
 + Swift Stye Rules [:book:](http://ericasadun.com/2015/11/17/a-handful-of-swift-style-rules-swiftlang/)
@@ -231,12 +232,13 @@ A curated list of resources for learning about the Swift Language
 + Closures and Capturing Values in Swift [:page_facing_up:](http://www.codingexplorer.com/closures-capturing-values-swift/)
 + Instance methods are Curried Functions in Swift [:page_facing_up:](http://oleb.net/blog/2014/07/swift-instance-methods-curried-functions/)
 + Using Local Closures with Swift [:page_facing_up:](http://www.thomashanning.com/swift-using-local-closures/)
++ Delaying Code Execution through Closures [:page_facing_up:](http://blog.matthewcheok.com/delaying-code-execution-in-swift/)
++ Can we please make a standard style for closures? [:page_facing_up:](https://bigonotetaking.wordpress.com/2015/08/04/ramblings-on-stylish-closures-currying-and-operators/)
 
 #### **Collections / Sequences / Generators**
 + A quick guide to SequenceType [:page_facing_up:](https://medium.com/swift-programming/swift-sequences-ce22d76f120c#.edaemcmqc)
 + Sequences and Generators in Swift [:page_facing_up:](http://austinzheng.com/2015/01/24/swift-seq/)
 + Experimenting with Seqs and Generators [:page_facing_up:](http://www.uraimo.com/2015/11/12/experimenting-with-swift-2-sequencetype-generatortype/?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_16)
-+ Can we please make a standard style for closures? [:page_facing_up:](https://bigonotetaking.wordpress.com/2015/08/04/ramblings-on-stylish-closures-currying-and-operators/)
 + Sets vs Dictionaries in Swift [:page_facing_up:](http://ericasadun.com/2015/10/19/sets-vs-dictionaries-smackdown-in-swiftlang/?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_12)
 + The Fibonacci SequenceType [:page_facing_up:](http://bandes-stor.ch/blog/2015/08/05/the-fibonacci-sequencetype/)
 + Truly Lazy Sequences [:link:](http://www.obqo.de/blog/2015/11/25/true-lazy-sequences/)
@@ -405,7 +407,7 @@ A curated list of resources for learning about the Swift Language
 + Futures and Latency as an effect in Swift [:page_facing_up:](https://sideeffects.xyz/2015/latency-as-effect-in-swift/)
 + Continuation Passing Style in Swift [:page_facing_up:](https://github.com/mbrandonw/mbrandonw.github.io/blob/master/_drafts/continuation-passing-in-swift.markdownhttps://github.com/mbrandonw/mbrandonw.github.io/blob/master/_drafts/continuation-passing-in-swift.markdown)
 + An intro to Continuation Passing Style in Swift [:page_facing_up:](https://medium.com/swift-programming/continuation-passing-style-in-swift-e4d825962803#.o41p6fw4j)
-+ Proof in Functions [:page_facing_up:](http://www.fewbutripe.com/swift/math/2015/01/06/proof-in-functions.html)
++ Proof in Functions [:page_facing_up:](http://www.fewbutripe.com/swift/math/2015/01/06/proof-in-functions.html) [:page_facing_up:](https://www.reddit.com/r/programming/comments/2rjnou/proof_in_functions_curryhoward_explained_through/)
 + Functional Thinking [:floppy_disk:](https://prezi.com/pgqshla_nuoe/functional-thinking/)
 + Chris Eidhof Functional Swift Talk [:microphone:](https://vimeo.com/107419503)
 + Transducers and Reducers in Swift 2 [:pencil2:](https://gist.github.com/rjchatfield/14e2869b0c572696ea3c)
@@ -433,6 +435,7 @@ A curated list of resources for learning about the Swift Language
 + State Monads in Swift [:pencil2:](https://github.com/sharplet/State?files=1)
 + Array to Zipper [:pencil2:](https://github.com/rnapier/array-zipper)
 + From Category Theory to Swift [:page_facing_up:](http://karumiblog-env.elasticbeanstalk.com/monad/) [:pencil2:](https://github.com/mbrandonw/naturally-swift)
++ Higher Kinded Types [:pencil:](https://gist.github.com/adamkuipers/bb7bdb9cc425de8905c7)
 
 #### **Functional Reactive Programming in Swift**
 + MVVM + FRP [:page_facing_up:](http://www.sprynthesis.com/2014/12/06/reactivecocoa-mvvm-introduction/)
@@ -454,7 +457,6 @@ A curated list of resources for learning about the Swift Language
 + Basics [:page_facing_up:](https://littlebitesofcocoa.com/85-grand-central-dispatch-basics)
 + Methods of concurrency — GCD, agents, tasks and invocations [:page_facing_up:](http://overooped.com/post/41803252527/methods-of-concurrency)
 + Code at the end of the queue [:link:](http://blog.krzyzanowskim.com/2015/11/25/code-at-the-end-of-the-queue/)
-+ Delaying Code Execution through Closures [:page_facing_up:](http://blog.matthewcheok.com/delaying-code-execution-in-swift/)
 
 #### **Generics** 
 + Generic Arrays in Swift 2.0 [:page_facing_up:](http://blog.krzyzanowskim.com/2015/10/07/generic-array-uint8/)
@@ -516,19 +518,23 @@ A curated list of resources for learning about the Swift Language
 + The Death of Cocoa [:page_facing_up:](http://nshipster.com/the-death-of-cocoa/)
 
 #### **Optionals and Types** 
-+ Swift Optionals Made Simple [:page_facing_up:](http://appventure.me/2014/06/13/swift-optionals-made-simple/)
-+ Swift's Type System [:page_facing_up:](http://oleb.net/blog/2015/07/swift-type-system/)
-+ Every Kind of Optional [:page_facing_up:](http://www.fantageek.com/blog/2015/12/04/optional-in-swift/)  
-+ Understanding Downcasting Operators in Swift [:page_facing_up:](http://stackoverflow.com/questions/25708649/downcasting-optionals-in-swift-as-type-or-as-type) 
-+ Swift Manual Retain/Release [:page_facing_up:](http://www.russbishop.net/swift-manual-retain-release)
-+ How I handle Optionals in Swift [:page_facing_up:](http://blog.human-friendly.com/how-i-handle-optionals-in-swift)
-+ How to unwrap an optional in 9 different ways [:page_facing_up:](https://twitter.com/Kametrixom/status/636187970509406209)
-+ Optional Protocol Methodsin Pure Swift [:page_facing_up:](http://blog.stablekernel.com/optional-protocol-methods-in-pure-swift?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_12)
-+ Make a DSL in Swift [:page_facing_up:](http://colindrake.me/2015/10/28/implementing-a-small-dsl-in-swift/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_60)
-+ Type-Erased Wrappers in Swift [:microphone:](https://realm.io/news/type-erased-wrappers-in-swift/)
-+ Swift MetaTypes [:page_facing_up:](http://jasdev.me/lets-get-meta/)
-+ Tying the Knot in Swift [:link:](http://stackoverflow.com/a/24026196/2855836)
-+ Make all Value Types Equatable [:microphone:](https://developer.apple.com/videos/wwdc/2015/?id=414)
++ Optionals
+    + How I handle Optionals in Swift [:page_facing_up:](http://blog.human-friendly.com/how-i-handle-optionals-in-swift)
+    + How to unwrap an optional in 9 different ways [:page_facing_up:](https://twitter.com/Kametrixom/status/636187970509406209)
+    + Optional Protocol Methodsin Pure Swift [:page_facing_up:](http://blog.stablekernel.com/optional-protocol-methods-in-pure-swift?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_12)
+    + Swift Optionals Made Simple [:page_facing_up:](http://appventure.me/2014/06/13/swift-optionals-made-simple/)
+    + Every Kind of Optional [:page_facing_up:](http://www.fantageek.com/blog/2015/12/04/optional-in-swift/)  
++ Types
+    + Swift's Type System [:page_facing_up:](http://oleb.net/blog/2015/07/swift-type-system/)
+    + Typeclasses in Swift, Haskell and Scala [:page_facing_up:](http://siejkowski.net/typeclasses-in-swift/)
+    + Understanding Downcasting Operators in Swift [:page_facing_up:](http://stackoverflow.com/questions/25708649/downcasting-optionals-in-swift-as-type-or-as-type) 
+    + Swift Manual Retain/Release [:page_facing_up:](http://www.russbishop.net/swift-manual-retain-release)
+    + Make a DSL in Swift [:page_facing_up:](http://colindrake.me/2015/10/28/implementing-a-small-dsl-in-swift/)
+    + Type-Erased Wrappers in Swift [:microphone:](https://realm.io/news/type-erased-wrappers-in-swift/)
+    + Swift MetaTypes [:page_facing_up:](http://jasdev.me/lets-get-meta/)
+    + Tying the Knot in Swift [:link:](http://stackoverflow.com/a/24026196/2855836)
+    + Make all Value Types Equatable [:microphone:](https://developer.apple.com/videos/wwdc/2015/?id=414)
+    + The Natural Numbers Encoded as Types [:page_facing_up:](https://forums.developer.apple.com/thread/19942)
 
 #### **Other**
 + @autoclosure, @inline, @noescape, and @noreturn Keywords [:page_facing_up:](https://github.com/vandadnp/swift-weekly/blob/master/issue11/README.md)
