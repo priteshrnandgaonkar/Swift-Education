@@ -432,6 +432,7 @@ A curated list of resources for learning about the Swift Language
 + Back to the Futures with Swift [:floppy_disk:](https://speakerdeck.com/javisoto/back-to-the-futures)
 + State Monads in Swift [:pencil2:](https://github.com/sharplet/State?files=1)
 + Array to Zipper [:pencil2:](https://github.com/rnapier/array-zipper)
++ From Category Theory to Swift [:page_facing_up:](http://karumiblog-env.elasticbeanstalk.com/monad/) [:pencil2:](https://github.com/mbrandonw/naturally-swift)
 
 #### **Functional Reactive Programming in Swift**
 + MVVM + FRP [:page_facing_up:](http://www.sprynthesis.com/2014/12/06/reactivecocoa-mvvm-introduction/)
@@ -484,6 +485,7 @@ A curated list of resources for learning about the Swift Language
 - Swift vs Golang [:floppy_disk:](http://go-talks.appspot.com/github.com/wangkuiyi/swiftgo/swiftgo.slide#1)
 
 #### **LLVM Compiler** 
++ LLVM by Chris Lattner [:page_facing_up:](http://aosabook.org/en/llvm.html)
 + Swift Intermediate Language [:floppy_disk:](http://llvm.org/devmtg/2015-10/slides/GroffLattner-SILHighLevelIR.pdf)
 + Using the LLVM API With Swift [:page_facing_up:](http://lowlevelbits.org/how-to-use-llvm-api-with-swift/)
 - LLVM and Swift [:microphone:](https://www.youtube.com/watch?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_62&v=Ntj8ab-5cvE)
