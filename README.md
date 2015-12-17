@@ -307,6 +307,8 @@ A curated list of resources for learning about the Swift Language
 + Disjoint Sets [:pencil2:](https://github.com/antitypical/DisjointSet)
 + Metaprogrammable [:pencil2:](https://github.com/antitypical/Metaprogrammable)
 + Binary Tree [:pencil2:](https://github.com/antitypical/BinaryTree)
++ SwiftPriorityQueue [:pencil2:](https://github.com/davecom/SwiftPriorityQueue)
++ SwiftGraph [:pencil2:](https://github.com/davecom/SwiftGraph)
 
 #### **Design Patterns**
 - Swift Design Patterns [:floppy_disk:](http://www.slideshare.net/micheletitolo/cocoa-design-patterns-in-swift?qid=7d2c3760-f640-49be-b204-25d086da4e78&v=qf1&b=&from_search=7)
