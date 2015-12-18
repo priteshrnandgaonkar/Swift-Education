@@ -140,7 +140,7 @@ A curated list of resources for learning about the Swift Language
 - This Week in Swift News [:newspaper:](https://swiftnews.curated.co/issues)
 - iOS Goodies [:newspaper:](http://ios-goodies.com/)
 - iOS Dev Weekly [:newspaper:](https://iosdevweekly.com/)
-- Swift Sandbox Newsletter [:newspaper:](http://swiftsandbox.io/)
+- Swift Open Source Newsletter [:newspaper:](http://swiftsandbox.io/)
 - SwiftLang Website [:newspaper:](http://swiftlang.eu/)
 - Swift Weekly [:newspaper:](http://swiftweekly.com/issues)
 - Gettin' Swifty With It [:newspaper:](http://gettinswiftywithit.curated.co/)
