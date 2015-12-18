@@ -219,6 +219,8 @@ A curated list of resources for learning about the Swift Language
 - Preventing Massive View Controllers [:microphone:](https://www.youtube.com/watch?v=dgOdsh1Bq10&feature=youtu.be&list=PLy2fR8K1ngurocVMEL0qHn0ik2MDYewLJ)
 - A Structy Model Layer [:page_facing_up:](http://khanlou.com/2015/12/a-structy-model-layer/)
 - Unidirectional Data Flow Architecture [:pencil2:](https://github.com/Swift-Flow/Swift-Flow)
+- Ziggurat iOS App Architecture [:page_facing_up:](https://corner.squareup.com/2015/12/ziggurat-ios-app-architecture.html)
+- CocoaFlow Architecture [:page_facing_up:](http://www.skilled.io/paulyoung/cocoaflow)
 
 #### **Associated Types and Objects**
 + Protocols with Associated Types and how they got that way [:floppy_disk:](https://speakerdeck.com/algal/protocols-with-associated-types-and-how-they-got-that-way)
@@ -241,7 +243,7 @@ A curated list of resources for learning about the Swift Language
 + Experimenting with Seqs and Generators [:page_facing_up:](http://www.uraimo.com/2015/11/12/experimenting-with-swift-2-sequencetype-generatortype/?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_16)
 + Sets vs Dictionaries in Swift [:page_facing_up:](http://ericasadun.com/2015/10/19/sets-vs-dictionaries-smackdown-in-swiftlang/?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_12)
 + The Fibonacci SequenceType [:page_facing_up:](http://bandes-stor.ch/blog/2015/08/05/the-fibonacci-sequencetype/)
-+ Truly Lazy Sequences [:link:](http://www.obqo.de/blog/2015/11/25/true-lazy-sequences/)
++ Truly Lazy Sequences [:page_facing_up:](http://www.obqo.de/blog/2015/11/25/true-lazy-sequences/)
 - Using Generators for UITableView Pagination Purposes [:page_facing_up:](http://blog.krzyzanowskim.com/2015/06/26/paging/)
 - A Little Respect for AnySequence [:page_facing_up:](http://robnapier.net/erasure)
 - Swift Sequence Lib [:pencil2:](https://github.com/oisdk/SwiftSequence)
@@ -257,7 +259,7 @@ A curated list of resources for learning about the Swift Language
 #### **Concurrency**
 + Basics of GCD [:page_facing_up:](https://littlebitesofcocoa.com/85-grand-central-dispatch-basics)
 + Methods of concurrency — GCD, agents, tasks and invocations [:page_facing_up:](http://overooped.com/post/41803252527/methods-of-concurrency)
-+ Code at the end of the queue [:link:](http://blog.krzyzanowskim.com/2015/11/25/code-at-the-end-of-the-queue/)
++ Code at the end of the queue [:page_facing_up:](http://blog.krzyzanowskim.com/2015/11/25/code-at-the-end-of-the-queue/)
 + Actor Model Concurrency in Swift [:pencil2:](https://github.com/tomekc/SwiftActors)
 + Coroutines in Swift [:pencil:](https://gist.github.com/mikeash/454f3ba5c2f575d63cb3)
 + STM in Swift [:pencil2:](https://github.com/f-dz-v/SwiftSTM)
@@ -721,4 +723,4 @@ A curated list of resources for learning about the Swift Language
 
 ## **Contributing Guidelines**
 
-Let this list serve as a huge thank you to the incredible Swift Community. It would not exist if the people behind Swift were not so incredibly innovative, intellectual, and enthusiastic about the language and about open source. If you would like to contribute to this list, make sure to check out the enoji key and please open up a pull request or send a tweet of the content to @FeelFunnyFlow. I realize that this list is by no means perfect, so if you have an idea as to how I can change it, please let me know! 
+Let this list serve as a huge thank you to the incredible Swift Community. It would not exist if the people behind Swift were not so incredibly innovative, intellectual, and enthusiastic about the language and about open source. If you would like to contribute to this list, make sure to check out the enoji key and please open up a pull request or send a tweet of the content to @FeelFunnyFlow. I realize that this list is by no means perfect, so if you have an idea as to how I can change it, please let me know!
