@@ -635,7 +635,7 @@ A curated list of resources for learning about the Swift Language
 + Madness: Parsing strings in simple context-free grammars [:pencil2:](https://github.com/robrix/Madness)
 + NSRegularExpression Cheat Sheet [:page_facing_up:](http://www.raywenderlich.com/86205/nsregularexpression-swift-tutorial)
 + Parser combinators, for Swift [:pencil2:](https://github.com/hlian/jiffy)
-+ Clean Regular Expressions in Swift [:page_facing_up:]()http://nomothetis.svbtle.com/clean-regular-expressions-using-conversions
++ Clean Regular Expressions in Swift [:page_facing_up:](http://nomothetis.svbtle.com/clean-regular-expressions-using-conversions)
 
 #### **Swift Language**
 - Best of Swift 2 [:page_facing_up:](https://www.mikeash.com/pyblog/friday-qa-2015-06-19-the-best-of-whats-new-in-swift.html)
@@ -722,4 +722,4 @@ A curated list of resources for learning about the Swift Language
 
 ## **Contributing Guidelines**
 
-Le this list serve as a huge thank you to the incredible Swift Community. It would not exist if the people behind Swift were not so incredibly innovative, intellectual, and enthusiastic about the language and about open source. If you would like to contribute to this list, make sure to check out the enoji key and please open up a pull request or send a tweet of the content to @FeelFunnyFlow. I realize that this list is by no means perfect, so if you have an idea as to how I can change it, please let me know! 
+Let this list serve as a huge thank you to the incredible Swift Community. It would not exist if the people behind Swift were not so incredibly innovative, intellectual, and enthusiastic about the language and about open source. If you would like to contribute to this list, make sure to check out the enoji key and please open up a pull request or send a tweet of the content to @FeelFunnyFlow. I realize that this list is by no means perfect, so if you have an idea as to how I can change it, please let me know! 
