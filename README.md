@@ -10,6 +10,7 @@ A curated list of resources for learning about the Swift Language
 - :scroll: = Quick Reference
 - :books: = Book
 - :book: = Guide Book
+- :newspaper: = Newsletter
 - :floppy_disk: = Slides
 - :microphone: = Video Presentation
 - :video_camera: = Video
@@ -40,10 +41,10 @@ A curated list of resources for learning about the Swift Language
     + [Closures](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#closures)
     + [Collections / Sequences / Generators](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#collections--sequences--generators)
     + [Command Line and Swift Scripting](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#command-line-and-swift-scripting)
+    + [Concurrency](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#concurrency)
     + [Core Data](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#core-data)
     + [Data Structures and Algorithms](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#data-structures-and-algorithms)
     + [Design Patterns](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#design-patterns)
-    + [GCD and NSOperation](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#gcd-and-nsoperation)
     + [Generics](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#generics)
     + [Development](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#development)
     + [Enums and Pattern Matching](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#enums-and-pattern-matching)
@@ -132,7 +133,7 @@ A curated list of resources for learning about the Swift Language
 - Swift Weekly [:notebook:](https://github.com/vandadnp/swift-weekly)
 - Erica Sadun [:notebook:](http://ericasadun.com)
 - ThinkAndBuild [:notebook:](http://www.thinkandbuild.it/)
-- MetalByExample.com [:link:](http://metalbyexample.com)
+- MetalByExample.com [:notebook:](http://metalbyexample.com)
 - David Owens [:notebook:](http://owensd.io/posts/)
 - The iOS Times Curated Review of the latest leading Github Projects [:notebook:](http://theiostimes.com/)
 
@@ -252,6 +253,14 @@ A curated list of resources for learning about the Swift Language
 + How Swift Scripting was used to make iOS Cookies [:page_facing_up:](https://medium.com/@bardonadam/how-i-m-using-swift-scripting-to-create-newsletter-for-ios-cookies-93db5deca4c#.cwgws2399)
 + Writing an Xcode Plugin with Swift [:page_facing_up:](http://merowing.info/2015/12/writing-xcode-plugin-in-swift/?utm_campaign=Indie%2BiOS%2BFocus%2BWeekly&utm_medium=email&utm_source=Indie_iOS_Focus_Weekly_47)
 
+#### **Concurrency**
++ Basics of GCD [:page_facing_up:](https://littlebitesofcocoa.com/85-grand-central-dispatch-basics)
++ Methods of concurrency — GCD, agents, tasks and invocations [:page_facing_up:](http://overooped.com/post/41803252527/methods-of-concurrency)
++ Code at the end of the queue [:link:](http://blog.krzyzanowskim.com/2015/11/25/code-at-the-end-of-the-queue/)
++ Actor Model Concurrency in Swift [:pencil2:](https://github.com/tomekc/SwiftActors)
++ Coroutines in Swift [:pencil:](https://gist.github.com/mikeash/454f3ba5c2f575d63cb3)
++ STM in Swift [:pencil2:](https://github.com/f-dz-v/SwiftSTM)
+
 #### **Core Data**
 - Core Competencies [:electric_plug:](https://developer.apple.com/library/ios/documentation/DataManagement/Devpedia-CoreData/coreDataStack.html#//apple_ref/doc/uid/TP40010398-CH25-SW1)
 + A Swift Into To Core Data [:electric_plug:](https://github.com/andyshep/CoreDataPlayground?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_2)
@@ -336,6 +345,7 @@ A curated list of resources for learning about the Swift Language
     + Algebraic Data Types in Swift [:page_facing_up:](http://thepurecoder.com/algebraic-data-types-in-swift/)
     + Handling Enums with Raw Values [:page_facing_up:](http://kostiakoval.github.io/posts/enum-with-raw-value/)
 + Pattern Matching
+    + Official Docs [:pencil:](https://github.com/apple/swift/blob/master/docs/Pattern%20Matching.rst)
     + Swift's pattern-matching switch statement [:page_facing_up:](http://austinzheng.com/2014/12/16/swift-pattern-matching-switch/)
     + Custom pattern matching in Swift [:page_facing_up:](http://austinzheng.com/2014/12/17/custom-pattern-matching/)
     + Advanced Swift Pattern Matching in Detail [:page_facing_up:](http://appventure.me/2015/08/20/swift-pattern-matching-in-detail/)
@@ -379,7 +389,7 @@ A curated list of resources for learning about the Swift Language
 + Aquifier Functional streaming abstractions in Swift [:pencil2:](https://github.com/typelift/Aquifer) 
 + Basis Pure Declarative Programming in Swift [:pencil2:](https://github.com/typelift/Basis)
 + Functional Concurrency Primitives [:pencil2:](https://github.com/typelift/Concurrent)
-+ Functional View Controllers [:page_facing_up:](http://chris.eidhof.nl/posts/functional-view-controllers.html)
++ Functional View Controllers [:page_facing_up:](http://chris.eidhof.nl/posts/functional-view-controllers.html) [:pencil:](https://gist.github.com/chriseidhof/244f1a9c8a39a4c809f9)
 + Covariance and Contravariance in Swift 2.1 [:page_facing_up:](http://www.uraimo.com/2015/09/29/Swift2.1-Function-Types-Conversion-Covariance-Contravariance/)
 + Monads & C# Tasks in Swift [:page_facing_up:](https://realm.io/news/swift-tasks-nevyn-bengtsson/)
 + Introduction to Function Currying in Swift [:page_facing_up:](https://robots.thoughtbot.com/introduction-to-function-currying-in-swift)
@@ -437,6 +447,9 @@ A curated list of resources for learning about the Swift Language
 + From Category Theory to Swift [:page_facing_up:](http://karumiblog-env.elasticbeanstalk.com/monad/) [:pencil2:](https://github.com/mbrandonw/naturally-swift)
 + Higher Kinded Types [:pencil:](https://gist.github.com/adamkuipers/bb7bdb9cc425de8905c7)
 + Categories in Swift [:pencil:](https://gist.github.com/CodaFi/4d0ce6a3cc0cb1085720)
++ Applicatives in Swift [:pencil2:](https://github.com/koher/ApplicativeSwift)
++ Church Encoding [:pencil:](https://gist.github.com/CodaFi/b9ca5bcee6d7ea9ff158)
++ Lambda Calculus in Swift 2 [:pencil:](https://gist.github.com/bellbind/6ffb0add23990eb5bef4)
 
 #### **Functional Reactive Programming in Swift**
 + MVVM + FRP [:page_facing_up:](http://www.sprynthesis.com/2014/12/06/reactivecocoa-mvvm-introduction/)
@@ -456,18 +469,13 @@ A curated list of resources for learning about the Swift Language
 - State, Promises, and Reactive Programming [:microphone:](https://realm.io/news/state-promises-reactive-programming/) [:pencil2:](https://github.com/ReactKit/ReactKit)
 - State Machines in Swift [:pencil2:](https://github.com/ReactKit/SwiftState)
 
-#### **GCD and NSOperation**
-+ Basics [:page_facing_up:](https://littlebitesofcocoa.com/85-grand-central-dispatch-basics)
-+ Methods of concurrency — GCD, agents, tasks and invocations [:page_facing_up:](http://overooped.com/post/41803252527/methods-of-concurrency)
-+ Code at the end of the queue [:link:](http://blog.krzyzanowskim.com/2015/11/25/code-at-the-end-of-the-queue/)
-+ Actor Model Concurrency in Swift [:pencil2:](https://github.com/tomekc/SwiftActors)
-
 #### **Generics** 
 + Generic Arrays in Swift 2.0 [:page_facing_up:](http://blog.krzyzanowskim.com/2015/10/07/generic-array-uint8/)
 + The shortcomings of generic protocols [:page_facing_up:](http://krakendev.io/blog/generic-protocols-and-their-shortcomings)
 + Generics in Swift, Part 1 [:page_facing_up:](http://austinzheng.com/2015/01/02/swift-generics-pt-1/)
 + Generics in Swift, Part 2 [:page_facing_up:](http://austinzheng.com/)
-
++ Official Docs [:pencil:](https://github.com/apple/swift/blob/master/docs/Generics.rst)
+ 
 #### **Initializers**
 + Swift Initializers [:page_facing_up:](http://ashfurrow.com/blog/swift-initializers/)
 + Immutable Swift [:page_facing_up:](http://nomothetis.svbtle.com/immutable-swift)
@@ -663,6 +671,9 @@ A curated list of resources for learning about the Swift Language
 + Creating a Lexer in Swift [:page_facing_up:](http://blog.matthewcheok.com/writing-a-lexer-in-swift/)
 + Creating an Abstract Syntax Tree Parser in Swift [:page_facing_up:](http://blog.matthewcheok.com/writing-a-parser-in-swift/) [:page_facing_up:](http://blog.matthewcheok.com/writing-a-parser-in-swift-part-2/)
 + String to Number Parser [:pencil2:](https://github.com/davedelong/DDMathParser)
++ Madness: Parsing strings in simple context-free grammars [:pencil2:](https://github.com/robrix/Madness)
++ NSRegularExpression Cheat Sheet [:page_facing_up:](http://www.raywenderlich.com/86205/nsregularexpression-swift-tutorial)
++ Parser combinators, for Swift [:pencil2:](https://github.com/hlian/jiffy)
 
 #### **Type Reflection and Casting**
 + Simple Reflection in Swift [:page_facing_up:](http://freecake.angelodipaolo.org/simple-reflection-in-swift/)
