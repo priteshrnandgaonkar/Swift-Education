@@ -159,6 +159,7 @@ A curated list of resources for learning about the Swift Language
 - Realm Roundup: 25 Realm Resources and Tutorials [:scroll:](https://realm.io/news/top-realm-resources/)
 - Funcitonal Reactive Programming iOS Learning Resources [:scroll:](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6)
 - Learn Core Data [:scroll:](http://www.learncoredata.com/)
+- Udacity Swift Syntax Course [:mortar_board:](https://www.udacity.com/course/learn-swift-programming-syntax--ud902)
 
 ## **Free Books**
 - Learn Swift [:books:](http://books.aidanf.net/learn-swift)
