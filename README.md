@@ -176,7 +176,7 @@ A curated list of resources for learning about the Swift Language
 - All the slides from Swift Summit London 2015 [:link:](https://speakerdeck.com/swiftsummit)
 + Some talks from Swift Summit SF 2015 [:microphone:](http://www.skilled.io/)  [:page_facing_up:](http://www.raywenderlich.com/120096/swift-summit-sf-2015-highlights) [:page_facing_up:](https://www.facebook.com/notes/austen-mcdonald/field-notes-from-swift-summit-sf-2015/10153133369935811)
 - All the Presentations from Swift Summit London [:video_camera:](https://realm.io/news/swift-summit/)
-- All Presentations from #Pragma Conference [:video_camera:](https://www.youtube.com/playlist?list=PLAVm70iJlMusekZaxufRPS4OjNOs7L7zi&utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_226)
+- All Presentations from #Pragma Conference [:video_camera:](https://www.youtube.com/playlist?list=PLAVm70iJlMusekZaxufRPS4OjNOs7L7zi)
 - MobileKonf 2015 [:video_camera:]( https://www.youtube.com/channel/UCMMbKC1Jh5KirZc3rnem4kg/videos
 )
 - Functional Swift Conf 2014 [:video_camera:](https://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g)
@@ -224,7 +224,7 @@ A curated list of resources for learning about the Swift Language
 + Protocols with Associated Types and how they got that way [:floppy_disk:](https://speakerdeck.com/algal/protocols-with-associated-types-and-how-they-got-that-way)
 + Associated Types in Swift Explained [:page_facing_up:](http://www.russbishop.net/swift-associated-types)
 + Illuminating Forum Post [:page_facing_up:](https://forums.developer.apple.com/message/18038)
-+ How to make Generic Protocols in Swift [:page_facing_up:](http://milen.me/writings/swift-generic-protocols/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_6)
++ How to make Generic Protocols in Swift [:page_facing_up:](http://milen.me/writings/swift-generic-protocols/)
 + Associated Enum Data As Types [:page_facing_up:](http://owensd.io/2015/09/15/associated-enum-cases-as-types.html)
 + Typesafe Associated Objects [:pencil2:](https://github.com/kballard/swift-tsao)
 
@@ -238,8 +238,8 @@ A curated list of resources for learning about the Swift Language
 #### **Collections / Sequences / Generators**
 + A quick guide to SequenceType [:page_facing_up:](https://medium.com/swift-programming/swift-sequences-ce22d76f120c#.edaemcmqc)
 + Sequences and Generators in Swift [:page_facing_up:](http://austinzheng.com/2015/01/24/swift-seq/)
-+ Experimenting with Seqs and Generators [:page_facing_up:](http://www.uraimo.com/2015/11/12/experimenting-with-swift-2-sequencetype-generatortype/?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_16)
-+ Sets vs Dictionaries in Swift [:page_facing_up:](http://ericasadun.com/2015/10/19/sets-vs-dictionaries-smackdown-in-swiftlang/?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_12)
++ Experimenting with Seqs and Generators [:page_facing_up:](http://www.uraimo.com/2015/11/12/experimenting-with-swift-2-sequencetype-generatortype/)
++ Sets vs Dictionaries in Swift [:page_facing_up:](http://ericasadun.com/2015/10/19/sets-vs-dictionaries-smackdown-in-swiftlang/)
 + The Fibonacci SequenceType [:page_facing_up:](http://bandes-stor.ch/blog/2015/08/05/the-fibonacci-sequencetype/)
 + Truly Lazy Sequences [:link:](http://www.obqo.de/blog/2015/11/25/true-lazy-sequences/)
 - Using Generators for UITableView Pagination Purposes [:page_facing_up:](http://blog.krzyzanowskim.com/2015/06/26/paging/)
@@ -252,7 +252,7 @@ A curated list of resources for learning about the Swift Language
 + Scripting in Swift is Pretty Awesome! [:page_facing_up:](http://krakendev.io/blog/scripting-in-swift)
 + Swiftline [:pencil2:](https://github.com/Swiftline/Swiftline)
 + How Swift Scripting was used to make iOS Cookies [:page_facing_up:](https://medium.com/@bardonadam/how-i-m-using-swift-scripting-to-create-newsletter-for-ios-cookies-93db5deca4c#.cwgws2399)
-+ Writing an Xcode Plugin with Swift [:page_facing_up:](http://merowing.info/2015/12/writing-xcode-plugin-in-swift/?utm_campaign=Indie%2BiOS%2BFocus%2BWeekly&utm_medium=email&utm_source=Indie_iOS_Focus_Weekly_47)
++ Writing an Xcode Plugin with Swift [:page_facing_up:](http://merowing.info/2015/12/writing-xcode-plugin-in-swift/)
 
 #### **Concurrency**
 + Basics of GCD [:page_facing_up:](https://littlebitesofcocoa.com/85-grand-central-dispatch-basics)
@@ -264,7 +264,7 @@ A curated list of resources for learning about the Swift Language
 
 #### **Core Data**
 - Core Competencies [:electric_plug:](https://developer.apple.com/library/ios/documentation/DataManagement/Devpedia-CoreData/coreDataStack.html#//apple_ref/doc/uid/TP40010398-CH25-SW1)
-+ A Swift Into To Core Data [:electric_plug:](https://github.com/andyshep/CoreDataPlayground?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_2)
++ A Swift Into To Core Data [:electric_plug:](https://github.com/andyshep/CoreDataPlayground)
 + Moving from ObjC to Swift with Core Data [:electric_plug:](http://martiancraft.com/blog/2015/07/objective-c-swift-core-data/)
 + What, if any, ACID gurantees does Core Data Make? [:electric_plug:](http://stackoverflow.com/questions/6634731/what-if-any-acid-guarantees-can-core-data-provide-on-ios)
 + Core Data Libraries and NSKeyedArchiver [:electric_plug:](http://nshipster.com/core-data-libraries-and-utilities/)
@@ -278,7 +278,7 @@ A curated list of resources for learning about the Swift Language
 
 #### **Data Structures and Algorithms**
 + An Array implemented in Swift by Mike Ash [:pencil:](https://gist.github.com/mikeash/63a791f2aec3318c7c5c)
-+ A Trie [:bar_chart:](https://bigonotetaking.wordpress.com/2015/08/11/a-trie-in-swift/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_2)
++ A Trie [:bar_chart:](https://bigonotetaking.wordpress.com/2015/08/11/a-trie-in-swift/)
 + A persistent tree using indirect enums [:bar_chart:](http://airspeedvelocity.net/2015/07/22/a-persistent-tree-using-indirect-enums-in-swift/)
 + Deques, Queues, and Lists in Swift with indirect [:page_facing_up:](https://bigonotetaking.wordpress.com/2015/07/29/deques-queues-and-lists-in-swift-with-indirect/)
 + Linked Lists are really slow [:bar_chart:](http://airspeedvelocity.net/2015/08/03/arrays-linked-listss-and-performance/)
@@ -293,7 +293,7 @@ A curated list of resources for learning about the Swift Language
 + Genetic Programming in Swift [:pencil2:](https://github.com/NachoSoto/swift-genetics)
 + Finger Trees in Swift [:pencil2:](https://github.com/lazytype/FingerTree/tree/master)
 + Neural Networks in Swift [:pencil2:](https://github.com/vlall/Swift-Brain)
-+ Swift AI [:pencil2:](https://github.com/collinhundley/Swift-AI?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
++ Swift AI [:pencil2:](https://github.com/collinhundley/Swift-AI)
 + Lazy infinite streams [:pencil2:](https://github.com/antitypical/Stream)
 + Naive Bayes Classifier [:pencil2:](https://github.com/fcanas/Bayes)
 + Swix Swift Matrix Math Library [:pencil2:](http://scottsievert.com/swix/)
@@ -311,14 +311,14 @@ A curated list of resources for learning about the Swift Language
 - Swift Design Patterns [:floppy_disk:](http://www.slideshare.net/micheletitolo/cocoa-design-patterns-in-swift?qid=7d2c3760-f640-49be-b204-25d086da4e78&v=qf1&b=&from_search=7)
 + Template Method Pattern in Swift [:bar_chart:](http://stackoverflow.com/questions/31757514/swift-how-to-support-template-method-design-pattern-since-swift-doesnt-have)
 + Design Patterns Library in Swift [:bar_chart:](https://github.com/ochococo/Design-Patterns-In-Swift)
-+ Creating a Cocoa Bindings Observable Pattern in Swift [:bar_chart:](http://colindrake.me/2015/10/01/an-observable-pattern-implementation-in-swift/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_11)
++ Creating a Cocoa Bindings Observable Pattern in Swift [:bar_chart:](http://colindrake.me/2015/10/01/an-observable-pattern-implementation-in-swift/)
 + Observer Pattern in Swift [:bar_chart:](http://masteringswift.blogspot.com/2015/05/swift-and-observer-design-pattern.html)
 + The Sin of Singletons [:bar_chart:](https://sandofsky.com/blog/singletons.html) 
 + The Null Object Pattern [:bar_chart:](https://medium.com/swift-programming/null-object-pattern-in-swift-1b96e03b2756)
 + Segues > Delegation [:bar_chart:](http://useyourloaf.com/blog/unwind-segues-as-an-alternative-to-delegation.html)
 + Functions as Factories [:bar_chart:](http://cocoa.tumblr.com/post/123737170023/functions-as-factories?is_related_post=1)
 + Conform to Objective C Protocols in Swift [:bar_chart:](http://cocoa.tumblr.com/post/128293810968/conforming-to-objective-c-protocols-with-custom?is_related_post=1)
-+ Optional Protocol Methods [:bar_chart:](http://useyourloaf.com/blog/swift-optional-protocol-methods.html?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_16)
++ Optional Protocol Methods [:bar_chart:](http://useyourloaf.com/blog/swift-optional-protocol-methods.html)
 + The Builder Pattern and Fluent Interface [:bar_chart:](https://github.com/vandadnp/swift-weekly/blob/master/issue05/README.md)
 + A Better NSNotificationCenter Observer Pattern [:bar_chart:](http://blog.matthewcheok.com/a-better-nsnotificationcenter/)
 + Key Value Coding in Swift [:bar_chart:](http://owensd.io/2015/07/14/key-value-coding-in-swift.html)
@@ -336,7 +336,7 @@ A curated list of resources for learning about the Swift Language
 + Enums
     + Enums in Swift [:link:](http://austinzheng.com/2014/12/16/swift-enums/)
     + Advanced and Practical Enum Usage in Swift [:page_facing_up:](http://appventure.me/2015/10/17/advanced-practical-enum-examples/) 
-    + Enumerating Tuple Values in Swift [:page_facing_up:](http://design.featherless.software/enumerating-tuple-values-swift/?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_12)
+    + Enumerating Tuple Values in Swift [:page_facing_up:](http://design.featherless.software/enumerating-tuple-values-swift/)
     + Simplfied Login with Swift Enums [:page_facing_up:](https://realm.io/news/david-east-simplifying-login-swift-enums/)
     + Testing of Enums made easy [:page_facing_up:](http://www.obqo.de/blog/2015/10/31/testing-enumerations-made-easy/)
     + How to compare Enums with Equatable [:page_facing_up:](http://www.jessesquires.com/swift-enumerations-and-equatable/)
@@ -355,7 +355,7 @@ A curated list of resources for learning about the Swift Language
     + Ranges and Intervals in Swift [:page_facing_up:](http://oleb.net/blog/2015/09/swift-ranges-and-intervals/)
     + More Pattern Matching Examples [:page_facing_up:](http://oleb.net/blog/2015/09/more-pattern-matching-examples/)
     + What is a variadic parameter? [:page_facing_up:](https://www.quora.com/Apple-Swift-programming-language/What-is-a-variadic-parameter)
-    + Pattern Matching in Swift [:page_facing_up:](http://oleb.net/blog/2015/09/swift-pattern-matching/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_54)
+    + Pattern Matching in Swift [:page_facing_up:](http://oleb.net/blog/2015/09/swift-pattern-matching/)
     + Swift Pattern Matching in Detail [:page_facing_up:](http://appventure.me/2015/08/20/swift-pattern-matching-in-detail/#toptop)
     + Pattern Matching with an *if case* [:page_facing_up:](http://natashatherobot.com/swift-2-pattern-matching-with-if-case/)
     + Pattern Matching with Recursive Values in Swift [:page_facing_up:](http://antitypical.com/swift/2015/07/01/pattern-matching-over-recursive-values-in-swift/)
@@ -401,7 +401,7 @@ A curated list of resources for learning about the Swift Language
 + Swift is _not_ functional [:page_facing_up:](https://www.reddit.com/r/swift/comments/281jqe/rob_napier_swift_is_not_functional/)
 + Functional Paradigms in Swift [:page_facing_up:](http://blog.tackmobile.com/article/functional-paradigms-in-swift/)
 + Functional Programming in the Swift Language [:page_facing_up:](https://medium.com/swift-programming/2-functional-swift-c98be9533183)
-+ Map and FlatMap demystified [:page_facing_up:](http://www.uraimo.com/2015/10/08/Swift2-map-flatmap-demystified/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_11)
++ Map and FlatMap demystified [:page_facing_up:](http://www.uraimo.com/2015/10/08/Swift2-map-flatmap-demystified/)
 + Lenses in Swift [:page_facing_up:](http://chris.eidhof.nl/posts/lenses-in-swift.html)
 + Lenses [:pencil:](https://gist.github.com/mbrandonw/4acd26ab01bb6140af69) [:pencil2:](https://github.com/robb/Monocle/blob/master/Monocle/Lens.swift)
 + Prelude Library [:page_facing_up:](https://github.com/robrix/Prelude)
@@ -459,8 +459,8 @@ A curated list of resources for learning about the Swift Language
 + Introduction [:page_facing_up:](http://nomothetis.svbtle.com/an-introduction-to-reactivecocoa)
 + Reacting to Events [:page_facing_up:](http://nomothetis.svbtle.com/reactivecocoa-ii-reacting-to-signals) 
 + ReactiveCocoa 4.0 Info [:link:](https://blog.alltheflow.com/reactivecocoa-4-0-with-swift-2-0/)
-- The Difference between RxSwift and ReactiveCocoa [:page_facing_up:](http://stackoverflow.com/questions/32542846/reactivecocoa-vs-rxswift-pros-and-cons), [:page_facing_up:](https://ashfurrow.com/blog/reactivecocoa-vs-rxswift/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_63)
-- FRP in Swift 2.0 [:microphone:](https://realm.io/news/agnes-vasarhelyi-beer-app-frp-swift-2/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_61)
+- The Difference between RxSwift and ReactiveCocoa [:page_facing_up:](http://stackoverflow.com/questions/32542846/reactivecocoa-vs-rxswift-pros-and-cons), [:page_facing_up:](https://ashfurrow.com/blog/reactivecocoa-vs-rxswift/)
+- FRP in Swift 2.0 [:microphone:](https://realm.io/news/agnes-vasarhelyi-beer-app-frp-swift-2/)
 - Functional Reactive Programming in an Imperative World [:microphone:](https://realm.io/news/nacho-soto-functional-reactive-programming/)
 - :raised_hands: RAC 3 with Ash Furrow [:floppy_disk:](http://www.slideshare.net/colineberhardt/reactivecocoa-and-swift-better-together?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=10), and some other nice [:floppy_disk:](https://speakerdeck.com/romainpouclet/taking-a-peak-at-reactivecocoa-3-dot-0)
 - FRP with RAC in Swift [:floppy_disk:](https://speakerdeck.com/ashfurrow/functional-reactive-programming-in-swift)
@@ -504,7 +504,7 @@ A curated list of resources for learning about the Swift Language
 + LLVM by Chris Lattner [:page_facing_up:](http://aosabook.org/en/llvm.html)
 + Swift Intermediate Language [:floppy_disk:](http://llvm.org/devmtg/2015-10/slides/GroffLattner-SILHighLevelIR.pdf)
 + Using the LLVM API With Swift [:page_facing_up:](http://lowlevelbits.org/how-to-use-llvm-api-with-swift/)
-- LLVM and Swift [:microphone:](https://www.youtube.com/watch?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_62&v=Ntj8ab-5cvE)
+- LLVM and Swift [:microphone:](https://www.youtube.com/watch?v=Ntj8ab-5cvE)
 - Swift Performance [:floppy_disk:](http://blog.human-friendly.com/swift-performance-iosdevuk)
 - Swift 2 Under the Hood [:floppy_disk:](https://speakerdeck.com/alblue/swift-2-under-the-hood-gotober-2015)
 
@@ -537,7 +537,7 @@ A curated list of resources for learning about the Swift Language
 + Optionals
     + How I handle Optionals in Swift [:page_facing_up:](http://blog.human-friendly.com/how-i-handle-optionals-in-swift)
     + How to unwrap an optional in 9 different ways [:page_facing_up:](https://twitter.com/Kametrixom/status/636187970509406209)
-    + Optional Protocol Methodsin Pure Swift [:page_facing_up:](http://blog.stablekernel.com/optional-protocol-methods-in-pure-swift?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_12)
+    + Optional Protocol Methodsin Pure Swift [:page_facing_up:](http://blog.stablekernel.com/optional-protocol-methods-in-pure-swift)
     + Swift Optionals Made Simple [:page_facing_up:](http://appventure.me/2014/06/13/swift-optionals-made-simple/)
     + Every Kind of Optional [:page_facing_up:](http://www.fantageek.com/blog/2015/12/04/optional-in-swift/)  
 + Types
@@ -675,7 +675,7 @@ A curated list of resources for learning about the Swift Language
 - Swift Lint [:pencil2:](https://github.com/realm/SwiftLint)
 - How to configure Travis CI for iOS Testing [:page_facing_up:](http://www.mokacoding.com/blog/travis-ci-ios-testing/)
 - Setting up KIF for iOS Acceptance Testing [:page_facing_up:](http://www.mokacoding.com/blog/setting-up-kif-for-ios-acceptance-testing/)
-- Replacing KIF with XCUI Tests [:page_facing_up:](http://www.catehuston.com/blog/2015/11/11/replacing-kif-tests-with-xcui-tests/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_62)
+- Replacing KIF with XCUI Tests [:page_facing_up:](http://www.catehuston.com/blog/2015/11/11/replacing-kif-tests-with-xcui-tests/)
 - SwiftCheck: QuickCheck for Swift [:pencil2:](https://github.com/typelift/SwiftCheck)
     
 #### **Type Reflection and Casting**
@@ -694,7 +694,7 @@ A curated list of resources for learning about the Swift Language
 + Calling a REST Api in Swift [:page_facing_up:](http://stackoverflow.com/questions/24321165/make-rest-api-call-in-swift)
 + How to Make REST API Calls and Parse JSON with Swift [:page_facing_up:](http://devdactic.com/rest-api-parse-json-swift/)
 + HTTP in Swift [:page_facing_up:](https://medium.com/swift-programming/http-in-swift-693b3a7bf086)
-+ Reachability Library [:page_facing_up:](https://github.com/ashleymills/Reachability.swift?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_16)
++ Reachability Library [:page_facing_up:](https://github.com/ashleymills/Reachability.swift)
 - JSON in Swift [:electric_plug:](http://blog.matthewcheok.com/json-and-swift/)
 - Functional JSON Parsing [:electric_plug:](http://owensd.io/2014/08/06/functional-json.html)
 - NSURLSession Basics [:electric_plug:](https://littlebitesofcocoa.com/78-nsurlsession-basics)
