@@ -67,14 +67,14 @@ A curated list of resources for learning about the Swift Language
     + [Protocol Oriented Programming in Swift 2](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#protocol-oriented-programming-in-swift-2)
     + [Realm](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#realm)
     + [Security](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#security)
+    + [String Manipulation](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#string-manipulation-and-regex)
     + [Swift Language](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#swift-language)
     + [Testing](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#testing)
-    + [Text Manipulation](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#text-manipulation-and-regex)
     + [Type Reflection and Casting](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#type-reflection-and-casting)
     + [Web Services and Networking](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#web-services-and-networking)
     + [Web Services - Other](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#web-services---other)
 - [Interview Situations](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#interview-situations)
-
+- [Contributing Guidelines](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#contributing)
 
 ## **Open Source Swift** 
 
@@ -122,10 +122,8 @@ A curated list of resources for learning about the Swift Language
 
 ## **Blogs**
 - iOS at Artsy [:notebook:](https://github.com/orta/Swift-at-Artsy)
-- The Swift Diary [:notebook:](http://inessential.com/swiftdiary)
-- Human Friendly Swift Blog [:notebook:](http://blog.human-friendly.com/tag/swift)
 - :raised_hands: Objc.io [:notebook:](https://www.objc.io/)
-- NSBlog with Mike Ask [:notebook:](https://www.mikeash.com/pyblog/)
+- NSBlog with Mike Ash [:notebook:](https://www.mikeash.com/pyblog/)
 - Use Your Loaf [:notebook:](http://useyourloaf.com/blog/archives/)
 - Chris Eidhof [:notebook:](http://chris.eidhof.nl)
 - Ole Begemann [:notebook:](http://oleb.net/)
@@ -135,17 +133,18 @@ A curated list of resources for learning about the Swift Language
 - ThinkAndBuild [:notebook:](http://www.thinkandbuild.it/)
 - MetalByExample.com [:notebook:](http://metalbyexample.com)
 - David Owens [:notebook:](http://owensd.io/posts/)
-- The iOS Times Curated Review of the latest leading Github Projects [:notebook:](http://theiostimes.com/)
+- The iOS Times [:notebook:](http://theiostimes.com/)
 - Crunchy Development [:notebook:](http://alisoftware.github.io/)
 
 ## **Newsletters**
-- This Week in Swift News: Curated Swift News [:newspaper:](https://swiftnews.curated.co/issues?page=6)
+- This Week in Swift News [:newspaper:](https://swiftnews.curated.co/issues)
 - iOS Goodies [:newspaper:](http://ios-goodies.com/)
 - iOS Dev Weekly [:newspaper:](https://iosdevweekly.com/)
 - Swift Sandbox Newsletter [:newspaper:](http://swiftsandbox.io/)
 - SwiftLang Website [:newspaper:](http://swiftlang.eu/)
 - Swift Weekly [:newspaper:](http://swiftweekly.com/issues)
 - Gettin' Swifty With It [:newspaper:](http://gettinswiftywithit.curated.co/)
+- Indie iOS Dev Weekly [:newspaper:](https://indieiosfocus.curated.co/)
 
 ## **Great Learning Resources**
 - Official Swift Documentation [:pencil:](https://github.com/apple/swift/tree/master/docs) 
@@ -201,6 +200,7 @@ A curated list of resources for learning about the Swift Language
 - Animating Constraints [:page_facing_up:](https://littlebitesofcocoa.com/9-animating-constraints)
 - Advanced UITableViews [:microphone:](https://realm.io/news/altconf-mason-glidden-advanced-uitableviews-for-fun-and-profit/)
 - SpriteKit as an intro to SceneKit [:floppy_disk:](https://speakerdeck.com/bklnswift/joseph-mcmahon-spritekit-as-an-intro-to-scenekit-and-metal)
+- Cartography Autolayout DSL [:pencil2:](https://github.com/robb/Cartography)
 
 #### **Application Structure / Architecture**
 - Demystifying iOS Architecture Patterns [:page_facing_up:](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52#.5zn7t5oh2)
@@ -345,6 +345,7 @@ A curated list of resources for learning about the Swift Language
     + The Sum Types are here [:page_facing_up:](http://chadaustin.me/2015/07/sum-types/)
     + Algebraic Data Types in Swift [:page_facing_up:](http://thepurecoder.com/algebraic-data-types-in-swift/)
     + Handling Enums with Raw Values [:page_facing_up:](http://kostiakoval.github.io/posts/enum-with-raw-value/)
+    + Using Enums as Constants [:page_facing_up:](http://alisoftware.github.io/swift/enum/constants/2015/07/19/enums-as-constants/)
 + Pattern Matching
     + Official Docs [:pencil:](https://github.com/apple/swift/blob/master/docs/Pattern%20Matching.rst)
     + Swift's pattern-matching switch statement [:page_facing_up:](http://austinzheng.com/2014/12/16/swift-pattern-matching-switch/)
@@ -375,6 +376,7 @@ A curated list of resources for learning about the Swift Language
 + Result: Swift type modelling the success/failure of arbitrary operations [:pencil2:](https://github.com/antitypical/Result)
 + Error Styling in Swift [:pencil:](https://gist.github.com/erica/b203a13b0b71db430801)
 + Async Error Handling in Swift [:floppy_disk:](https://speakerdeck.com/javisoto/ios-conf-singapore-october-2015)
++ Let it Throw! [:page_facing_up:](http://alisoftware.github.io/2015/12/17/let-it-throw/)
 
 #### **Extensions**
 + ExSwift [:pencil2:](https://github.com/pNre/ExSwift) 
@@ -401,7 +403,7 @@ A curated list of resources for learning about the Swift Language
 + Functional Programming in the Swift Language [:page_facing_up:](https://medium.com/swift-programming/2-functional-swift-c98be9533183)
 + Map and FlatMap demystified [:page_facing_up:](http://www.uraimo.com/2015/10/08/Swift2-map-flatmap-demystified/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_11)
 + Lenses in Swift [:page_facing_up:](http://chris.eidhof.nl/posts/lenses-in-swift.html)
-+ Lenses [:pencil:](https://gist.github.com/mbrandonw/4acd26ab01bb6140af69)
++ Lenses [:pencil:](https://gist.github.com/mbrandonw/4acd26ab01bb6140af69) [:pencil2:](https://github.com/robb/Monocle/blob/master/Monocle/Lens.swift)
 + Prelude Library [:page_facing_up:](https://github.com/robrix/Prelude)
 - Functional Programming in a Playground [:microphone:](https://www.youtube.com/watch?v=estNbh2TF3E)
 - Functional Programming as a Functionalist [:microphone:](https://www.youtube.com/watch?v=rJosPrqBqrA)
@@ -424,7 +426,7 @@ A curated list of resources for learning about the Swift Language
 + Transducers and Reducers in Swift 2 [:pencil2:](https://gist.github.com/rjchatfield/14e2869b0c572696ea3c)
 + Lenses, Prisms, Isos in Swift 2 [:pencil2:](https://github.com/typelift/Focus)
 + Better Recursion with Swift [:microphone:](https://vimeo.com/138092644)
-+ Folds in Swift [:page_facing_up:](http://thepurecoder.com/functional-swift-fold-it-baby/) [:page_facing_up:](http://thepurecoder.com/more-on-fold/)
++ Folds in Swift [:page_facing_up:](http://thepurecoder.com/functional-swift-fold-it-baby/) [:page_facing_up:](http://thepurecoder.com/more-on-fold/) [:pencil:](https://gist.github.com/HenningBrandt/fd9a46d5abbc3b39a35e) [:pencil:](https://gist.github.com/HenningBrandt/f44a0f59c716e7fe4689)
 + Swift Adventures in Monad Land [:pencil2:](https://github.com/alskipp/Swift-Adventures-In-Monad-Land)
 + Functor and Monad in Swift [:page_facing_up:](http://www.javiersoto.me/post/106875422394)
 + Llama Calculus [:floppy_disk:](https://github.com/rnapier/llama-calculus)
@@ -624,6 +626,17 @@ A curated list of resources for learning about the Swift Language
 - CommonCrypto in Swift [:microphone:](https://realm.io/news/danny-keogan-swift-cryptography/)
 - :fire: Awesome iOS Security [:link:](https://github.com/ashishb/osx-and-ios-security-awesome)
 
+#### **String Manipulation and RegEx**
++ Swift String Cheat Sheet [:page_facing_up:](http://useyourloaf.com/blog/swift-string-cheat-sheet.html) [:pencil:](https://gist.github.com/kharrison/08d1db4169d70a88b194)
++ RegularExpressions in Swift [:page_facing_up:](https://littlebitesofcocoa.com/121-swiftier-regular-expressions-with-regex)
++ Creating a Lexer in Swift [:page_facing_up:](http://blog.matthewcheok.com/writing-a-lexer-in-swift/)
++ Creating an Abstract Syntax Tree Parser in Swift [:page_facing_up:](http://blog.matthewcheok.com/writing-a-parser-in-swift/) [:page_facing_up:](http://blog.matthewcheok.com/writing-a-parser-in-swift-part-2/)
++ String to Number Parser [:pencil2:](https://github.com/davedelong/DDMathParser)
++ Madness: Parsing strings in simple context-free grammars [:pencil2:](https://github.com/robrix/Madness)
++ NSRegularExpression Cheat Sheet [:page_facing_up:](http://www.raywenderlich.com/86205/nsregularexpression-swift-tutorial)
++ Parser combinators, for Swift [:pencil2:](https://github.com/hlian/jiffy)
++ Clean Regular Expressions in Swift [:page_facing_up:]()http://nomothetis.svbtle.com/clean-regular-expressions-using-conversions
+
 #### **Swift Language**
 - Best of Swift 2 [:page_facing_up:](https://www.mikeash.com/pyblog/friday-qa-2015-06-19-the-best-of-whats-new-in-swift.html)
 - New Features in Swift 2 [:page_facing_up:](https://www.hackingwithswift.com/new-features-swift-2)
@@ -666,16 +679,6 @@ A curated list of resources for learning about the Swift Language
 - Replacing KIF with XCUI Tests [:page_facing_up:](http://www.catehuston.com/blog/2015/11/11/replacing-kif-tests-with-xcui-tests/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_62)
 - SwiftCheck: QuickCheck for Swift [:pencil2:](https://github.com/typelift/SwiftCheck)
     
-#### **Text Manipulation and RegEx**
-+ Swift String Cheat Sheet [:page_facing_up:](http://useyourloaf.com/blog/swift-string-cheat-sheet.html) [:pencil:](https://gist.github.com/kharrison/08d1db4169d70a88b194)
-+ RegularExpressions in Swift [:page_facing_up:](https://littlebitesofcocoa.com/121-swiftier-regular-expressions-with-regex)
-+ Creating a Lexer in Swift [:page_facing_up:](http://blog.matthewcheok.com/writing-a-lexer-in-swift/)
-+ Creating an Abstract Syntax Tree Parser in Swift [:page_facing_up:](http://blog.matthewcheok.com/writing-a-parser-in-swift/) [:page_facing_up:](http://blog.matthewcheok.com/writing-a-parser-in-swift-part-2/)
-+ String to Number Parser [:pencil2:](https://github.com/davedelong/DDMathParser)
-+ Madness: Parsing strings in simple context-free grammars [:pencil2:](https://github.com/robrix/Madness)
-+ NSRegularExpression Cheat Sheet [:page_facing_up:](http://www.raywenderlich.com/86205/nsregularexpression-swift-tutorial)
-+ Parser combinators, for Swift [:pencil2:](https://github.com/hlian/jiffy)
-
 #### **Type Reflection and Casting**
 + Simple Reflection in Swift [:page_facing_up:](http://freecake.angelodipaolo.org/simple-reflection-in-swift/)
 + Understanding Reflection in Swift and how to use it [:page_facing_up:](http://appventure.me/2015/10/24/swift-reflection-api-what-you-can-do/)
@@ -716,3 +719,7 @@ A curated list of resources for learning about the Swift Language
 + Coding Questions [:clipboard:](https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions#code)
 + :fire: Awesome Swift Interview Questions [:clipboard:](https://github.com/MaximAbramchuck/awesome-interviews#swift)
 + :fire: Awesome iOS Interview Questions [:clipboard:](https://github.com/MaximAbramchuck/awesome-interviews#ios)
+
+## **Contributing Guidelines**
+
+Le this list serve as a huge thank you to the incredible Swift Community. It would not exist if the people behind Swift were not so incredibly innovative, intellectual, and enthusiastic about the language and about open source. If you would like to contribute to this list, make sure to check out the enoji key and please open up a pull request or send a tweet of the content to @FeelFunnyFlow. I realize that this list is by no means perfect, so if you have an idea as to how I can change it, please let me know! 
