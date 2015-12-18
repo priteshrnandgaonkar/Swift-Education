@@ -45,13 +45,13 @@ A curated list of resources for learning about the Swift Language
     + [Core Data](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#core-data)
     + [Data Structures and Algorithms](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#data-structures-and-algorithms)
     + [Design Patterns](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#design-patterns)
-    + [Generics](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#generics)
     + [Development](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#development)
     + [Enums and Pattern Matching](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#enums-and-pattern-matching)
     + [Error Handling](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#error-handling)
     + [Extensions](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#extensions)
     + [Functional Programming in Swift](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#functional-programming-in-swift)
     + [Functional Reactive Programming in Swift](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#functional-reactive-programming-in-swift)
+    + [Generics](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#generics)
     + [Initializers](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#initializers)
     + [Interpolability](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#interpolability-with-c-and-objective-c)
     + [Language Comparisons](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#language-comparisons)
@@ -475,8 +475,7 @@ A curated list of resources for learning about the Swift Language
 #### **Generics** 
 + Generic Arrays in Swift 2.0 [:page_facing_up:](http://blog.krzyzanowskim.com/2015/10/07/generic-array-uint8/)
 + The shortcomings of generic protocols [:page_facing_up:](http://krakendev.io/blog/generic-protocols-and-their-shortcomings)
-+ Generics in Swift, Part 1 [:page_facing_up:](http://austinzheng.com/2015/01/02/swift-generics-pt-1/)
-+ Generics in Swift, Part 2 [:page_facing_up:](http://austinzheng.com/)
++ Generics in Swift, Part 1 [:page_facing_up:](http://austinzheng.com/2015/01/02/swift-generics-pt-1/), Part 2 [:page_facing_up:](http://austinzheng.com/2015/09/29/swift-generics-pt-2/)
 + Official Docs [:pencil:](https://github.com/apple/swift/blob/master/docs/Generics.rst)
  
 #### **Initializers**
