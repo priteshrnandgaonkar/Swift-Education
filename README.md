@@ -136,6 +136,7 @@ A curated list of resources for learning about the Swift Language
 - MetalByExample.com [:notebook:](http://metalbyexample.com)
 - David Owens [:notebook:](http://owensd.io/posts/)
 - The iOS Times Curated Review of the latest leading Github Projects [:notebook:](http://theiostimes.com/)
+- Crunchy Development [:notebook:](http://alisoftware.github.io/)
 
 ## **Newsletters**
 - This Week in Swift News: Curated Swift News [:newspaper:](https://swiftnews.curated.co/issues?page=6)
