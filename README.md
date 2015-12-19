@@ -216,6 +216,7 @@ A curated list of resources for learning about the Swift Language
 - A Structy Model Layer [:page_facing_up:](http://khanlou.com/2015/12/a-structy-model-layer/)
 - Unidirectional Data Flow Architecture [:pencil2:](https://github.com/Swift-Flow/Swift-Flow)
 - Ziggurat iOS App Architecture [:page_facing_up:](https://corner.squareup.com/2015/12/ziggurat-ios-app-architecture.html) [:microphone:](https://www.youtube.com/watch?v=4cP1p5VOrSI)
+- Unidirectional Dataflow Architecture with Swift Flow [:floppy_disk:](https://speakerdeck.com/benjamin_encz/unidirectional-data-flow-in-swift) [:pencil2:](https://github.com/Swift-Flow/Swift-Flow)
 - CocoaFlow Architecture [:page_facing_up:](http://www.skilled.io/paulyoung/cocoaflow)
 + You Used To Inject Me In Your Constructor [:floppy_disk:](https://speakerdeck.com/mathonsunday/you-used-to-inject-me-in-your-constructor)
 + Swift Inject Dependency Injection [:pencil2:](https://github.com/Swinject/Swinject)
@@ -247,6 +248,7 @@ A curated list of resources for learning about the Swift Language
 - Using Generators for UITableView Pagination Purposes [:page_facing_up:](http://blog.krzyzanowskim.com/2015/06/26/paging/)
 - A Little Respect for AnySequence [:page_facing_up:](http://robnapier.net/erasure)
 - Swift Sequence Lib [:pencil2:](https://github.com/oisdk/SwiftSequence)
+- SINQ - Swift Integrated Query [:pencil2:](https://github.com/slazyk/SINQ)
 
 #### **Command Line and Swift Scripting**
 + Swift Scripting [:microphone:](https://realm.io/news/swift-scripting/)
@@ -279,6 +281,7 @@ A curated list of resources for learning about the Swift Language
 - Better Core Data Models with Swift [:page_facing_up:](http://www.jessesquires.com/better-coredata-models-in-swift/)
 - Core Data in 2015 and Magical Record in Swift [:microphone:](https://www.youtube.com/watch?v=1jSuXbeIKuk&list=PLEx5khR4g7PL0fDNJkI2dHhqeckQTAbes&index=46)
 - Core Data Threading Demystified [:microphone:](https://realm.io/news/marcus-zarra-core-data-threading/)
+- My Core Data Stack [:page_facing_up:](http://martiancraft.com/blog/2015/03/core-data-stack/) [:pencil:](https://gist.github.com/Ben-G/54f363482303b984574b)
 
 #### **Data Structures and Algorithms**
 + An Array implemented in Swift by Mike Ash [:pencil:](https://gist.github.com/mikeash/63a791f2aec3318c7c5c)
@@ -301,7 +304,7 @@ A curated list of resources for learning about the Swift Language
 + Lazy infinite streams [:pencil2:](https://github.com/antitypical/Stream)
 + Naive Bayes Classifier [:pencil2:](https://github.com/fcanas/Bayes)
 + Swix Swift Matrix Math Library [:pencil2:](http://scottsievert.com/swix/)
-+ Red Black Tree [:pencil:](https://gist.github.com/airspeedswift/8fd42496679c51b34859)
++ Red Black Tree [:pencil:](https://gist.github.com/airspeedswift/8fd42496679c51b34859) 
 + Tensor Methods in Swift [:pencil2:](https://github.com/aleph7/Upsurge)
 + Sort Utils [:pencil2:](https://github.com/dsmatter/SwiftSortUtils)
 + Disjoint Sets [:pencil2:](https://github.com/antitypical/DisjointSet)
@@ -328,6 +331,7 @@ A curated list of resources for learning about the Swift Language
 + Key Value Coding in Swift [:bar_chart:](http://owensd.io/2015/07/14/key-value-coding-in-swift.html)
 + Exploring KVO Alternatives in Swift [:bar_chart:](http://blog.scottlogic.com/2015/02/11/swift-kvo-alternatives.html)
 + Facade Functions [:bar_chart:](https://tetontech.wordpress.com/2014/06/25/swift-facades-and-objects-with-collection-type-properties/)
++ Observable-Swift KVO Replacement [:pencil2:](https://github.com/slazyk/Observable-Swift)
 
 #### **Development**
 + Result Driven Development [:floppy_disk:](https://speakerdeck.com/brianpartridge/result-driven-development)
@@ -394,6 +398,7 @@ A curated list of resources for learning about the Swift Language
 + Deriving higher order functions in Swift [:page_facing_up:](http://ijoshsmith.com/2015/12/09/higher-order-functions-in-swift/)
 + Typelift Community Repo [:pencil:](https://github.com/typelift)
 + :raised_hands: Swiftz Functional Programming Library [:pencil2:](http://www.stackbuilders.com/news/swiftz-the-power-of-liftz)
++ Second Bridge Swift Functional Framework [:pencil2:](https://github.com/47deg/second-bridge)
 + Swiftx Functional Data Types [:pencil2:](https://github.com/typelift/Swiftx)
 + Aquifier Functional streaming abstractions in Swift [:pencil2:](https://github.com/typelift/Aquifer) 
 + Basis Pure Declarative Programming in Swift [:pencil2:](https://github.com/typelift/Basis)
@@ -414,7 +419,7 @@ A curated list of resources for learning about the Swift Language
 - Functional Programming in a Playground [:microphone:](https://www.youtube.com/watch?v=estNbh2TF3E)
 - Functional Programming as a Functionalist [:microphone:](https://www.youtube.com/watch?v=rJosPrqBqrA)
 - Object Oriented Functional Programming [:microphone:](https://realm.io/news/altconf-saul-mora-object-orientated-functional-programming/)
-- :raised_hands: Functional Programming in Swift [:microphone:](https://realm.io/news/altconf-chris-eidhof-functional-programming-in-swift/)
+- Functional Programming in Swift Talk [:microphone:](https://realm.io/news/altconf-chris-eidhof-functional-programming-in-swift/)
 - NatashaTheRobot Explains Functional Programming [:floppy_disk:](http://www.slideshare.net/natashatherobot/funcitonal-swift-conference-the-functional-way?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=4)
 - Make Swift More Functional [:floppy_disk:](http://www.slideshare.net/jarsen7/7-habits-for-a-more-functional-swift?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=3)
 - FP in Swift [:floppy_disk:](http://www.slideshare.net/alexis_gallagher/swift-functional-programming-and-the-future-of-obj-c?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=1)
@@ -459,6 +464,11 @@ A curated list of resources for learning about the Swift Language
 + Applicatives in Swift [:pencil2:](https://github.com/koher/ApplicativeSwift)
 + Church Encoding [:pencil:](https://gist.github.com/CodaFi/b9ca5bcee6d7ea9ff158)
 + Lambda Calculus in Swift 2 [:pencil:](https://gist.github.com/bellbind/6ffb0add23990eb5bef4)
++ Simple Monoid Example [:pencil:](https://gist.github.com/drexin/e3022674f6ddf6fdb65f) [:pencil:](https://gist.github.com/jhaberstro/9aa326e3762f91abbe8f)
++ Category Theory For Beginners [:floppy_disk:](http://www.slideshare.net/kenbot/category-theory-for-beginners)
++ Dollar.Swift Functional Toolkit like Lodash and Underscore [:pencil2:](https://github.com/ankurp/Dollar.swift)
++ :fire: Awesome Functional Programming [:pencil2:](https://github.com/xgrommx/awesome-functional-programming)
++ Cheat Sheet For Monads in Haskell [:link:](https://dkalemis.wordpress.com/2014/08/02/cheat-sheet-for-monads-in-haskell/) 
 
 #### **Functional Reactive Programming in Swift**
 + MVVM + FRP [:page_facing_up:](http://www.sprynthesis.com/2014/12/06/reactivecocoa-mvvm-introduction/)
@@ -478,6 +488,7 @@ A curated list of resources for learning about the Swift Language
 - State, Promises, and Reactive Programming [:microphone:](https://realm.io/news/state-promises-reactive-programming/) [:pencil2:](https://github.com/ReactKit/ReactKit)
 - State Machines in Swift [:pencil2:](https://github.com/ReactKit/SwiftState)
 - RxSwift Community Webpage [:link:](http://community.rxswift.org/)
+- Functional Reactive Programming on iOS [:floppy_disk:](https://speakerdeck.com/benjamin_encz/functional-reactive-programming-on-ios)
 
 #### **Generics** 
 + Generic Arrays in Swift 2.0 [:page_facing_up:](http://blog.krzyzanowskim.com/2015/10/07/generic-array-uint8/)
@@ -492,6 +503,7 @@ A curated list of resources for learning about the Swift Language
 + Immutable Swift [:page_facing_up:](http://nomothetis.svbtle.com/immutable-swift)
 + What's the point of Laziness? [:page_facing_up:](http://owensd.io/2015/08/09/filter-performance.html)
 + IBOutlet Style in Swift [:page_facing_up:](http://natashatherobot.com/ios-a-beautiful-way-of-styling-iboutlets-in-swift/)
++ Lazy Properties in Structs [:page_facing_up:](http://oleb.net/blog/2015/12/lazy-properties-in-structs-swift/)
 
 #### **Interpolability with C and Objective-C**
 + Swift and C [:microphone:](https://realm.io/news/pragma-chris-eidhof-swift-c/)
@@ -564,6 +576,7 @@ A curated list of resources for learning about the Swift Language
     + Make all Value Types Equatable [:microphone:](https://developer.apple.com/videos/wwdc/2015/?id=414)
     + The Natural Numbers Encoded as Types [:page_facing_up:](https://forums.developer.apple.com/thread/19942)
     + Type Introspection [:page_facing_up:](http://ericasadun.com/2014/06/16/swift-more-than-you-probably-want-to-know-about-type-introspection/)
+    + Safer Swift Code With Value Types [:microphone:](https://realm.io/news/altconf-benjamin-encz-safer-swift-code-with-value-types/) [:floppy_disk:](https://speakerdeck.com/benjamin_encz/unidirectional-data-flow-in-swift)
     
 #### **Other**
 + @autoclosure, @inline, @noescape, and @noreturn Keywords [:page_facing_up:](https://github.com/vandadnp/swift-weekly/blob/master/issue11/README.md)
@@ -742,4 +755,4 @@ Let this list serve as a huge thank you to the incredible Swift Community. It wo
 
 ## **Shoutouts**
 
-Shoutout to [@clattner_llvm](https://twitter.com/clattner_llvm?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), the OG Swift Developer. Shoutout to [@chriseidhof](https://twitter.com/chriseidhof) for encouraging me to promote this idea and for being a huge baller. Shoutout to [@ash_furrow](https://twitter.com/ashfurrow) for being so incredibly helpful. Shoutout to [@CodaFi_](https://twitter.com/CodaFi_) and the Typelift team for promoting FP. Shoutout to the [trillmoji](https://github.com/mikeperri/Trillmoji) project
+Shoutout to [@clattner_llvm](https://twitter.com/clattner_llvm?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), the OG Swift Developer. Shoutout to [@chriseidhof](https://twitter.com/chriseidhof) for encouraging me to promote this idea and for being a huge baller. Shoutout to [@ash_furrow](https://twitter.com/ashfurrow) and [@bennRodri](https://twitter.com/bennRodri) for being so incredibly helpful. Shoutout to [@CodaFi_](https://twitter.com/CodaFi_), the Typelift and the Antitypical teams for promoting FP. Shoutout to the [trillmoji](https://github.com/mikeperri/Trillmoji) project. Shoutout to Haskell Devs and Category Theory legends. And finally, Shoutout to all the Swift Programmers out there, this project is by you and for you!
