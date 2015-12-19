@@ -171,6 +171,7 @@ A curated list of resources for learning about the Swift Language
     - Packt Publishing Book Series [:books:](https://www.packtpub.com/tech/swift#) 
     - Apress Book Series [:books:](http://www.apress.com/swift)
     - Oreilly Book Series [:books:](http://search.oreilly.com/?q=swift&x=0&y=0)
+    - Your First Swift App [:books:](https://leanpub.com/yourfirstswiftapp)
 
 ## **Video**
 + Presentations
