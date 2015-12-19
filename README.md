@@ -185,6 +185,7 @@ A curated list of resources for learning about the Swift Language
     - Functional Swift Conf 2015 [:video_camera:](http://2015.funswiftconf.com/)
     - CocoaConf Videos [:video_camera:](http://cocoaconf.com/videos)
     - :fire: Awesome iOS Conferences [:pencil2:](https://github.com/Lascorbe/CocoaConferences)
+    - All Presentations from 360iDev 2-15 [:video_camera:](https://vimeopro.com/360conferences/360idev-2015)
 + Other Video
     - Swift Language Youtube Channel [:video_camera:](https://www.youtube.com/channel/UCml4lCH0xdl6Jm91RiPPIig)
     - Free Swift Lang Course [:video_camera:](https://www.youtube.com/playlist?list=PLxwBNxx9j4PW8bsVaXia9c20I87YEGNRu)
