@@ -175,6 +175,7 @@ A curated list of resources for learning about the Swift Language
 
 ## **Video**
 + Presentations
+    + :fire: pomo.tv Presentations from all of the events [:microphone:](http://www.pomo.tv/events/) 
     + WWDC 2015 Presentations [:microphone:](https://developer.apple.com/search/?q=wwdc&type=Videos) [:pencil2:](https://developer.apple.com/sample-code/wwdc/2015/) [:pencil:](http://asciiwwdc.com/)
     - All the slides from Swift Summit London 2015 [:link:](https://speakerdeck.com/swiftsummit)
     + Some talks from Swift Summit SF 2015 [:microphone:](http://www.skilled.io/)  [:page_facing_up:](http://www.raywenderlich.com/120096/swift-summit-sf-2015-highlights) [:page_facing_up:](https://www.facebook.com/notes/austen-mcdonald/field-notes-from-swift-summit-sf-2015/10153133369935811)
@@ -186,7 +187,7 @@ A curated list of resources for learning about the Swift Language
     - Functional Swift Conf 2015 [:video_camera:](http://2015.funswiftconf.com/)
     - CocoaConf Videos [:video_camera:](http://cocoaconf.com/videos)
     - :fire: Awesome iOS Conferences [:pencil2:](https://github.com/Lascorbe/CocoaConferences)
-    - All Presentations from 360iDev 2-15 [:video_camera:](https://vimeopro.com/360conferences/360idev-2015)
+    - All Presentations from 360iDev 2015 [:video_camera:](https://vimeopro.com/360conferences/360idev-2015)
 + Other Video
     - Swift Language Youtube Channel [:video_camera:](https://www.youtube.com/channel/UCml4lCH0xdl6Jm91RiPPIig)
     - Free Swift Lang Course [:video_camera:](https://www.youtube.com/playlist?list=PLxwBNxx9j4PW8bsVaXia9c20I87YEGNRu)
@@ -217,8 +218,9 @@ A curated list of resources for learning about the Swift Language
 - Preventing Massive View Controllers [:microphone:](https://www.youtube.com/watch?v=dgOdsh1Bq10&feature=youtu.be&list=PLy2fR8K1ngurocVMEL0qHn0ik2MDYewLJ) 
 - A Structy Model Layer [:page_facing_up:](http://khanlou.com/2015/12/a-structy-model-layer/)
 - Unidirectional Data Flow Architecture [:pencil2:](https://github.com/Swift-Flow/Swift-Flow)
-- Ziggurat iOS App Architecture [:page_facing_up:](https://corner.squareup.com/2015/12/ziggurat-ios-app-architecture.html) [:microphone:](https://www.youtube.com/watch?v=4cP1p5VOrSI)
-- Unidirectional Dataflow Architecture with Swift Flow [:floppy_disk:](https://speakerdeck.com/benjamin_encz/unidirectional-data-flow-in-swift) [:pencil2:](https://github.com/Swift-Flow/Swift-Flow)
+- Ziggurat iOS App Architecture [:page_facing_up:](https://corner.squareup.com/2015/12/ziggurat-ios-app-architecture.html) 
+- One Way Data Flow Architecture in Swift [:microphone:](https://www.youtube.com/watch?v=4cP1p5VOrSI)
+- Unidirectional Dataflow Architecture with Swift-Flow [:floppy_disk:](https://speakerdeck.com/benjamin_encz/unidirectional-data-flow-in-swift) [:pencil2:](https://github.com/Swift-Flow/Swift-Flow)
 - CocoaFlow Architecture [:page_facing_up:](http://www.skilled.io/paulyoung/cocoaflow)
 + You Used To Inject Me In Your Constructor [:floppy_disk:](https://speakerdeck.com/mathonsunday/you-used-to-inject-me-in-your-constructor)
 + Swift Inject Dependency Injection [:pencil2:](https://github.com/Swinject/Swinject)
@@ -441,7 +443,7 @@ A curated list of resources for learning about the Swift Language
 + Better Recursion with Swift [:microphone:](https://vimeo.com/138092644)
 + Folds in Swift [:page_facing_up:](http://thepurecoder.com/functional-swift-fold-it-baby/) [:page_facing_up:](http://thepurecoder.com/more-on-fold/) [:pencil:](https://gist.github.com/HenningBrandt/fd9a46d5abbc3b39a35e) [:pencil:](https://gist.github.com/HenningBrandt/f44a0f59c716e7fe4689)
 + Swift Adventures in Monad Land [:pencil2:](https://github.com/alskipp/Swift-Adventures-In-Monad-Land)
-+ Functor and Monad in Swift [:page_facing_up:](http://www.javiersoto.me/post/106875422394)
++ Functor and Monad in Swift [:page_facing_up:](http://www.javiersoto.me/post/106875422394) [:pencil:](https://gist.github.com/harlanhaskins/dd31095330b4889a741c)
 + Llama Calculus [:floppy_disk:](https://github.com/rnapier/llama-calculus)
 + FingerTrees [:page_facing_up:](http://andrew.gibiansky.com/blog/haskell/finger-trees/)
 + FizzBuzz with infinite streams [:page_facing_up:](http://cutting.io/posts/completely-overengineering-fizzbuzz-with-infinite-streams/)
@@ -471,6 +473,7 @@ A curated list of resources for learning about the Swift Language
 + Dollar.Swift Functional Toolkit like Lodash and Underscore [:pencil2:](https://github.com/ankurp/Dollar.swift)
 + :fire: Awesome Functional Programming [:pencil2:](https://github.com/xgrommx/awesome-functional-programming)
 + Cheat Sheet For Monads in Haskell [:link:](https://dkalemis.wordpress.com/2014/08/02/cheat-sheet-for-monads-in-haskell/) 
+- Continuation Monad [:pencil:](https://gist.github.com/CodaFi/2186a73bdfb9fff79c26) [:pencil:](https://gist.github.com/robrix/dd2a65bbc8b44d7a670b) [:pecnil:](https://gist.github.com/sjoerdvisscher/a56a286ccfabce40e424)
 
 #### **Functional Reactive Programming in Swift**
 + MVVM + FRP [:page_facing_up:](http://www.sprynthesis.com/2014/12/06/reactivecocoa-mvvm-introduction/)
@@ -666,6 +669,7 @@ A curated list of resources for learning about the Swift Language
 + NSRegularExpression Cheat Sheet [:page_facing_up:](http://www.raywenderlich.com/86205/nsregularexpression-swift-tutorial)
 + Parser combinators, for Swift [:pencil2:](https://github.com/hlian/jiffy)
 + Clean Regular Expressions in Swift [:page_facing_up:](http://nomothetis.svbtle.com/clean-regular-expressions-using-conversions)
++ Simple Regex [:pencil:](https://gist.github.com/mattt/3f12f56d72b8d2ebbe62)
 
 #### **Swift Language**
 - Diving into Swift 2 [:page_facing_up:](http://www.fantageek.com/blog/2015/12/18/a-dive-into-swift-2/)
@@ -757,4 +761,4 @@ Let this list serve as a huge thank you to the incredible Swift Community. It wo
 
 ## **Shoutouts**
 
-Shoutout to [@clattner_llvm](https://twitter.com/clattner_llvm?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), the OG Swift Developer. Shoutout to [@chriseidhof](https://twitter.com/chriseidhof) for encouraging me to promote this idea and for being a huge baller. Shoutout to [@ash_furrow](https://twitter.com/ashfurrow) and [@bennRodri](https://twitter.com/bennRodri) for being so incredibly helpful. Shoutout to [@CodaFi_](https://twitter.com/CodaFi_), the Typelift and the Antitypical teams for promoting FP. Shoutout to the [trillmoji](https://github.com/mikeperri/Trillmoji) project. Shoutout to Haskell Devs and Category Theory legends. And finally, Shoutout to all the Swift Programmers out there, this project is by you and for you!
+Shoutout to [@clattner_llvm](https://twitter.com/clattner_llvm?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), the OG Swift Developer. Shoutout to [@chriseidhof](https://twitter.com/chriseidhof) for encouraging me to promote this idea and for being a huge baller. Shoutout to [@ash_furrow](https://twitter.com/ashfurrow) and [@bennRodri](https://twitter.com/bennRodri) for being so incredibly helpful. Shoutout to [@CodaFi_](https://twitter.com/CodaFi_), the TypeLift, and the Antitypical teams for promoting FP. Shoutout to the [trillmoji](https://github.com/mikeperri/Trillmoji) project. Shoutout to Haskell Devs and Category Theory legends. And finally, Shoutout to all the Swift Programmers out there, this project is by you and for you!
