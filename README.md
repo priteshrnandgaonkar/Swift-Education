@@ -1,6 +1,7 @@
 ![Swift Logo](http://www.joomlavision.com/wp-content/uploads/2014/08/swift-apple-logo.jpg)
-# Awesome-Swift-Education 
-A curated list of resources for learning about the Swift Language
+# Awesome-Swift-Education [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+A curated list of resources for learning about the Swift Language. 
 
 ## Key
 - :pencil: = Gist
@@ -59,7 +60,6 @@ A curated list of resources for learning about the Swift Language
     + [Operator Overloading](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#operator-overloading)
     + [Opinions about Swift](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#opinions-about-swift)
     + [Optionals and Types](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#optionals-and-types)
-    + [Other](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#other)
     + [Problem Solving in Swift](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#problem-solving)
     + [Production Swift](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#production-swift)
     + [Protocol Oriented Programming in Swift 2](https://github.com/hsavit1/Awesome-Swift-Education/blob/master/README.md#protocol-oriented-programming-in-swift-2)
@@ -228,6 +228,7 @@ A curated list of resources for learning about the Swift Language
 + Swift Inject Dependency Injection [:pencil2:](https://github.com/Swinject/Swinject)
 - How to Dependency Inject on iOS [:microphone:](https://www.youtube.com/watch?v=384rumYOs-g)
 - Dependency Injection in Swift [:page_facing_up:](http://natashatherobot.com/ios-unit-testing-dependency-injection-with-structs-in-swift/) 
+- Lighter View Controllers in Swift [:page_facing_up:](https://www.codefellows.org/blog/tech-tip-clean-up-your-code-with-lighter-view-controllers-in-swift) [:pencil:](https://gist.github.com/lostincode/38e6b0a612a3b33f6f7b)
 
 #### **Associated Types and Objects**
 + Protocols with Associated Types and how they got that way [:floppy_disk:](https://speakerdeck.com/algal/protocols-with-associated-types-and-how-they-got-that-way)
@@ -247,6 +248,9 @@ A curated list of resources for learning about the Swift Language
 + How to use @noescape [:page_facing_up:](http://stackoverflow.com/questions/28427436/noescape-attribute-in-swift-1-2)
 + How to use @autoclosure [:page_facing_up:](http://stackoverflow.com/questions/24102617/how-to-use-swift-autoclosure?rq=1)
 + Closures in API Design [:microphone:](https://realm.io/news/closures-api-design/)
++ weak vs unowned [:page_facing_up:](http://krakendev.io/blog/weak-and-unowned-references-in-swift)
++ Swift weak references [:page_facing_up:](https://www.mikeash.com/pyblog/friday-qa-2015-12-11-swift-weak-references.html)
++ Difference between weak self vs weak self() [:page_facing_up:](http://stackoverflow.com/questions/34305439/difference-between-weak-self-vs-weak-self)
 
 #### **Collections / Sequences / Generators**
 + A quick guide to SequenceType [:page_facing_up:](https://medium.com/swift-programming/swift-sequences-ce22d76f120c#.edaemcmqc)
@@ -399,6 +403,7 @@ A curated list of resources for learning about the Swift Language
 + Error Styling in Swift [:pencil:](https://gist.github.com/erica/b203a13b0b71db430801)
 + Async Error Handling in Swift [:floppy_disk:](https://speakerdeck.com/javisoto/ios-conf-singapore-october-2015)
 + Let it Throw! [:page_facing_up:](http://alisoftware.github.io/2015/12/17/let-it-throw/)
++ Magic Methods in Swift [:page_facing_up:](https://developer.apple.com/swift/blog/?id=15)
 
 #### **Extensions**
 + ExSwift [:pencil2:](https://github.com/pNre/ExSwift) 
@@ -482,7 +487,7 @@ A curated list of resources for learning about the Swift Language
 + Dollar.Swift Functional Toolkit like Lodash and Underscore [:pencil2:](https://github.com/ankurp/Dollar.swift)
 + :fire: Awesome Functional Programming [:pencil2:](https://github.com/xgrommx/awesome-functional-programming)
 + Cheat Sheet For Typeclasses and Monads in Haskell [:link:](file:///Users/henrysavit/Downloads/haskell-tc-ucs-0.2.pdf) [:link:](http://fundeps.com/tables/FromSemigroupToMonads.pdf)
-- Continuation Monad [:pencil:](https://gist.github.com/CodaFi/2186a73bdfb9fff79c26) [:pencil:](https://gist.github.com/robrix/dd2a65bbc8b44d7a670b) [:pecnil:](https://gist.github.com/sjoerdvisscher/a56a286ccfabce40e424)
+- Continuation Monad [:pencil:](https://gist.github.com/CodaFi/2186a73bdfb9fff79c26) [:pencil:](https://gist.github.com/robrix/dd2a65bbc8b44d7a670b) [:pencil:](https://gist.github.com/sjoerdvisscher/a56a286ccfabce40e424)
 - Does Swift implement tail call optimization? and in mutual recursion case? [:link:](http://stackoverflow.com/questions/24023580/does-swift-implement-tail-call-optimization-and-in-mutual-recursion-case) [:link:](https://devforums.apple.com/thread/247371?start=0&tstart=0)
 - (Tail)Recursion with nested functions in Swift 2.0 [:page_facing_up:](http://danielnagy.hu/?p=119) [:page_facing_up:](http://natashatherobot.com/functional-swift-tail-recursion/) [:pencil:](https://gist.github.com/marcelofabri/4b41adb87a09ce86ff40)
 
@@ -520,6 +525,7 @@ A curated list of resources for learning about the Swift Language
 + What's the point of Laziness? [:page_facing_up:](http://owensd.io/2015/08/09/filter-performance.html)
 + IBOutlet Style in Swift [:page_facing_up:](http://natashatherobot.com/ios-a-beautiful-way-of-styling-iboutlets-in-swift/)
 + Lazy Properties in Structs [:page_facing_up:](http://oleb.net/blog/2015/12/lazy-properties-in-structs-swift/)
++ Swift Initialization and the Pain of Optionals [:page_facing_up:](http://blog.scottlogic.com/2014/11/20/swift-initialisation.html)
 
 #### **Interpolability with C and Objective-C**
 + Swift and C [:microphone:](https://realm.io/news/pragma-chris-eidhof-swift-c/)
@@ -594,12 +600,6 @@ A curated list of resources for learning about the Swift Language
     + Type Introspection [:page_facing_up:](http://ericasadun.com/2014/06/16/swift-more-than-you-probably-want-to-know-about-type-introspection/)
     + Safer Swift Code With Value Types [:microphone:](https://realm.io/news/altconf-benjamin-encz-safer-swift-code-with-value-types/) [:floppy_disk:](https://speakerdeck.com/benjamin_encz/unidirectional-data-flow-in-swift)
     
-#### **Other**
-+ Magic Methods in Swift [:page_facing_up:](https://developer.apple.com/swift/blog/?id=15)
-+ weak vs unowned [:page_facing_up:](http://krakendev.io/blog/weak-and-unowned-references-in-swift)
-+ Swift weak references [:page_facing_up:](https://www.mikeash.com/pyblog/friday-qa-2015-12-11-swift-weak-references.html)
-+ Difference between weak self vs weak self() [:page_facing_up:](http://stackoverflow.com/questions/34305439/difference-between-weak-self-vs-weak-self)
-
 #### **Problem Solving**
 - Creating and Building a DSL in Swift [:floppy_disk:](https://speakerdeck.com/kylef/dsls-in-swift)
 - :raised_hands: FizzBuzz on steroids with Swift [:floppy_disk:](https://speakerdeck.com/abizern/fizz-buzz-in-swift)
@@ -768,7 +768,7 @@ A curated list of resources for learning about the Swift Language
 
 ## **Contributing Guidelines**
 
-Let this list serve as a huge thank you to the incredible Swift Community. It would not exist if the people behind Swift were not so incredibly innovative, intellectual, and enthusiastic about the language and about open source. If you would like to contribute to this list, make sure to check out the enoji key and please open up a pull request or send a tweet of the content to [@FeelFunnyFlow](https://twitter.com/FeelFunnyFlow). I realize that this list is by no means perfect, so if you have an idea as to how I can change it, please let me know!
+Let this list serve as a huge thank you to the incredible Swift Community. It would not exist if the people behind Swift were not so incredibly innovative, intellectual, and enthusiastic about the language and about open source. If you would like to contribute to this list, make sure to check out the emoji key and please open up a pull request or send a tweet of the content to [@FeelFunnyFlow](https://twitter.com/FeelFunnyFlow). I realize that this list is by no means perfect, so if you have an idea as to how I can change it, please let me know!
 
 ## **Shoutouts**
 
