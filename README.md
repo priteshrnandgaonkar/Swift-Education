@@ -254,6 +254,7 @@ A curated list of resources for learning about the Swift Language.
 
 #### **Collections / Sequences / Generators**
 + A quick guide to SequenceType [:page_facing_up:](https://medium.com/swift-programming/swift-sequences-ce22d76f120c#.edaemcmqc)
++ Swift Collections [:page_facing_up:](https://medium.com/swift-programming/swift-collections-e5fff3cd6759#.eq2hyxhqw)
 + Sequences and Generators in Swift [:page_facing_up:](http://austinzheng.com/2015/01/24/swift-seq/)
 + Experimenting with Seqs and Generators [:page_facing_up:](http://www.uraimo.com/2015/11/12/experimenting-with-swift-2-sequencetype-generatortype/)
 + Sets vs Dictionaries in Swift [:page_facing_up:](http://ericasadun.com/2015/10/19/sets-vs-dictionaries-smackdown-in-swiftlang/)
