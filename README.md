@@ -115,7 +115,7 @@ A curated list of resources for learning about the Swift Language.
 - iOS Good Practices [:scroll:](https://github.com/futurice/ios-good-practices)
 - Little Bites of Cocoa [:scroll:](https://littlebitesofcocoa.com/)
 - Libraries used in the top 100 Apps [:scroll:](https://medium.com/ios-os-x-development/libraries-used-in-the-top-100-ios-apps-5b845ad927b7#.p76bo4ms9)
-- Fu*king Closure Syntax [:scroll:](http://fuckingclosuresyntax.com/)
+- Fucking Closure Syntax [:scroll:](http://fuckingclosuresyntax.com/)
 - RAC Marbles [:scroll:](http://neilpa.me/rac-marbles/)
 - Swift Knowledge Base [:scroll:](https://www.hackingwithswift.com/example-code/)
 
@@ -253,6 +253,9 @@ A curated list of resources for learning about the Swift Language.
 + Swift weak references [:page_facing_up:](https://www.mikeash.com/pyblog/friday-qa-2015-12-11-swift-weak-references.html)
 + Difference between weak self vs weak self() [:page_facing_up:](http://stackoverflow.com/questions/34305439/difference-between-weak-self-vs-weak-self)
 - Partial Function Application [:pencil:](https://gist.github.com/kristopherjohnson/4ee565cfcdf912deacf6)
+- Trailing Closure Syntax [:page_facing_up:](https://www.codefellows.org/blog/writing-completion-blocks-with-closures-in-swift) [:page_facing_up:](http://freecake.angelodipaolo.org/trailing-closures-in-swift/) [:page_facing_up:](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Closures.html#//apple_ref/doc/uid/TP40014097-CH11-ID102)
+- Type inference quirks of closures as parameters [:pencil:](https://github.com/hpique/Articles/blob/master/Swift/Type%20inference%20quirks%20of%20closure%20parameters/Type%20inference%20quirks%20of%20closure%20parameters.md)
+- Style guide for functions with closure parameters in Swift [:pencil:](https://github.com/hpique/Articles/blob/master/Swift/Style%20guide%20for%20functions%20with%20closure%20parameters/Style%20guide%20for%20functions%20with%20closure%20parameters.md)
 
 #### **Collections / Sequences / Generators**
 + A quick guide to SequenceType [:page_facing_up:](https://medium.com/swift-programming/swift-sequences-ce22d76f120c#.edaemcmqc)
@@ -352,6 +355,8 @@ A curated list of resources for learning about the Swift Language.
 + Exploring KVO Alternatives in Swift [:bar_chart:](http://blog.scottlogic.com/2015/02/11/swift-kvo-alternatives.html)
 + Facade Functions [:bar_chart:](https://tetontech.wordpress.com/2014/06/25/swift-facades-and-objects-with-collection-type-properties/)
 + Observable-Swift KVO Replacement [:pencil2:](https://github.com/slazyk/Observable-Swift)
++ Swift Singleton [:pencil2:](https://github.com/hpique/SwiftSingleton)
++ SOLID Design in Swift [:pencil2:](https://github.com/ochococo/OOD-Principles-In-Swift)
 
 #### **Development**
 + Result Driven Development [:floppy_disk:](https://speakerdeck.com/brianpartridge/result-driven-development)
@@ -362,6 +367,7 @@ A curated list of resources for learning about the Swift Language.
 - Railway Oriented Programming [:microphone:](http://fsharpforfunandprofit.com/rop/)
 - Swift in Practice [:microphone:](https://developer.apple.com/videos/play/wwdc2015-411) [:floppy_disk:](http://devstreaming.apple.com/videos/wwdc/2015/4119flfsnsgmlfy/411/411_swift_in_practice.pdf?dl=1)
 - Denotational Design [:floppy_disk:](http://conal.net/talks/denotational-design-lambdajam-2015.pdf)
+- Building Frameworks in Swift [:page_facing_up:](https://github.com/hpique/Talks/blob/master/Building%20Swift%20frameworks/Building%20Swift%20frameworks.md)
 
 #### **Enums and Pattern Matching**
 + Enums
@@ -428,6 +434,7 @@ A curated list of resources for learning about the Swift Language.
     + Category Theory and Progamming [:microphone:](http://yogsototh.github.io/Category-Theory-Presentation/categories.html) 
     + Awesome Math/Category Theory [:pencil:](https://github.com/rossant/awesome-math#category-theory)
     + Category Theory in Haskell [:page_facing_up:](https://en.wikibooks.org/wiki/Haskell/Category_theory)
+    + The Category Design Pattern [:page_facing_up:](http://www.haskellforall.com/2012/08/the-category-design-pattern.html)
 - Functional Programming in Swift
     + Deriving higher order functions in Swift [:page_facing_up:](http://ijoshsmith.com/2015/12/09/higher-order-functions-in-swift/)
     + Typelift Community Repo [:pencil:](https://github.com/typelift)
@@ -506,6 +513,7 @@ A curated list of resources for learning about the Swift Language.
     - (Tail)Recursion with nested functions in Swift 2.0 [:page_facing_up:](http://danielnagy.hu/?p=119) [:page_facing_up:](http://natashatherobot.com/functional-swift-tail-recursion/) [:pencil:](https://gist.github.com/marcelofabri/4b41adb87a09ce86ff40)
     - Reduce all the things [:page_facing_up:](http://appventure.me/2015/11/30/reduce-all-the-things/)
     - zipWith [:pencil:](https://gist.github.com/kristopherjohnson/7419ed4444a0ad9bb2ea)
+    - Are true functors possible in Swift? [:link:](https://www.reddit.com/r/swift/comments/2d6mpo/are_functors_possible_in_swift/) [:link:](http://stackoverflow.com/questions/25233594/recreating-the-functor-type-in-swift)
     
 #### **Functional Reactive Programming in Swift**
 + MVVM + FRP [:page_facing_up:](http://www.sprynthesis.com/2014/12/06/reactivecocoa-mvvm-introduction/)
